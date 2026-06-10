@@ -85,6 +85,7 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
       <div class="fila"><div class="caja-icono">🎯</div><div class="caja-texto"><p class="subtitulo">Objetivos</p></div></div>
       
       <div  class="lista-contenido">
+	  
 	  Los objetivos didácticos que cubre esta unidad didáctica son: 
 - Introducir **históricamente** el ámbito de la visualización de datos, explicando los motivos por los cuales empleamos visualizaciones y qué es la visualización contemporánea. 
 - Proporcionar **herramientas básicas** al analista de datos, periodista, desarrollador, programador, diseñador gráfico o ilustrador que desee iniciarse en el mundo de la visualización de datos contemporánea. 
@@ -237,78 +238,275 @@ La revolución digital ha traído consigo,no solo el desarrollo de potentes herr
 *************************************************************************************************************
 
 <!-- id="conceptos-clave" -->
-## Conceptos clave
+### Impacto social y empresarial de la visualización 
 
 {{|>}}
 *************************************************************************************************************
 
-Como punto de partida se definen los conceptos básicos que se manejan al hablar de datos en general y de datos abiertos en particular. Se toma como referencia el marco legislativo vigente en España.
+Como hemos visto, el ámbito en el cual se han desarrollado proyectos de visualización ha pasado de ser un nicho ligado a contextos primitivos de localización astronómica a una omnipresencia tanto en Internet como en la prensa escrita. 
 
-<center>![Conceptos clave de datos abiertos](media/conceptos.jpg "Figura. Conceptos clave de datos abiertos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+Tradicionalmente, el ámbito periodístico y social ha sido el motor para el desarrollo de esta disciplina, interesada en transmitir de forma rápida e intuitiva información relevante que debe ser comprendida en poco tiempo por lectores no necesariamente  dispuestos a leer artículos de texto. 
 
-
-*************************************************************************************************************
-
-### Bloque I: conceptos básicos
-
-{{|>}}
-*************************************************************************************************************
-
-<div class="concepto">
-		Dato
-</div>
-**Toda representación digital de actos, hechos o información, así como su recopilación, incluso como grabación sonora, visual o audiovisual. 📖 [ Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)**
-
-Los datos pueden ser **estructurados** y **no estructurados**:
-
-- **Estructurados**: tienen bien definidos su longitud y su formato, como las fechas, los números o las cadenas de caracteres. Se almacenan en tablas. Un ejemplo son las bases de datos relacionales y las hojas de cálculo. 
-- **No estructurados**: carecen de un formato específico. No se pueden almacenar dentro de una tabla, ya que su información no se puede desgranar en tipos básicos de datos. Algunos ejemplos son los ficheros PDF, archivos multimedia, e-mails, documentos de texto, etc.
-
-Los datos se convierten en **información** cuando se les proporciona un contexto. El **conocimiento** es lo que se obtiene de la información cuando esta información se personaliza en función de nuestra experiencia y valores.
+De todos esos avances se ha beneficiado el mundo empresarial, una vez que la cantidad de datos a manejar ha crecido exponencialmente y la representación de la realidad corporativa ya no se podía realizarse de forma estrictamente oral o convencional a través de informes únicamente de texto. El propio interés empresarial ha permitido el desarrollo de herramientas muy potentes para visualización, tanto a nivel cartográfico (Google Earth, KeplerGL) comoen formas más básicas de representación. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-- **Dato:** 15°C.  
-
-  Es un valor aislado, sin contexto. Solo sabemos que es una temperatura.
-- **Información:** La temperatura en Valladolid hoy es de 15°C.  
-
-  El dato se contextualiza: sabemos dónde y cuándo se aplica.
-- **Conocimiento:** Si la temperatura en Valladolid es de 15°C en enero, es inusualmente alta.  
-
-  Se interpreta la información, se relaciona con experiencia y se extraen conclusiones útiles.
+Kpler, empresa que monitoriza el movimiento de materias primas y derivados de combustibles fósiles a través del transporte marítimo por todo el planeta, se ha erigido como una referencia a la hora de representar grandes cantidades de datos visualmente de forma innovadora, individualizando trayectorias de cargueros en alta mar, así como representando cantidades derivadas de volúmenes transportados. 
 	</div>
 </div>
-<center>![Datos, información y conocimiento](media/datos_info_conocimiento.jpg "Figura. Datos, información y conocimiento. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
-<div class="concepto">
-		Datos abiertos
+*************************************************************************************************************
+
+### Perfil del desarrollador de visualizaciones de datos 
+
+{{|>}}
+*************************************************************************************************************
+
+El trabajo de visualización de datos implica el conocimiento de muchas disciplinas, sin que haya una jerarquía establecida o preferente para cada una de ellas. Al final, lo que cuenta es la audiencia para la cual se realiza ese trabajo de visualización. Y esa audiencia es la que decide qué peso relativo tienen el análisis, las formas, la interactividad y la forma de publicitar la visualización y sobre qué soporte. 
+
+Trabajar en visualización de datos implica: 
+
+- Análisis de datos: con mucha frecuencia, y casi en la totalidad de casos, la visualización nunca es un camino de una sola dirección. Disponer de la información de forma gráfica siempre despierta nuevas cuestiones y preguntas a resolver querequieren volver al análisis de datos para refinar, acotar, o recalcular métricas de interés. El visualizador de datos no sólo debe saber "dibujar", sino también comprender numérica y estadísticamente cuál es el mensaje que se desea transmitir. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+Kiko Llaneras
+https://kiko.llaneras.es/en/ 
+	</div>
 </div>
-**Cualquiera es libre de utilizar, reutilizar y redistribuir, con el único límite, en su caso, del requisito de atribución de su fuente o el reconocimiento de su autoría. 📖[ Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814)**
 
-Esta definición identifica tres características esenciales:
+- Geometría: la elección de las formas más adecuadas para la descripción de datos de forma gráfica es fundamental. Estas formas suelen seguir patrones geométricos que es importante conocer desde un punto de vista matemático para conocer sus posibilidades . La visualización debe poder soportar todo el espectro de datos que manejamos, por lo que resulta importante  adaptar la geometría a los mínimos y máximos.
 
-- **Uso libre**: pueden emplearse para cualquier finalidad, incluida la comercial.
-- **Reutilización**: posibilidad de transformar, combinar o enriquecer los datos.
-- **Redistribución**: posibilidad de compartir datos originales o derivados.
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+Philippe Riviere
+https://observablehq.com/@fil 
+	</div>
+</div>
 
-<center>![Definición de datos abiertos](media/def_datos_abiertos.png "Figura. Definición de datos abiertos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+- Diseño gráfico: la estética, tanto de formas como de colores, es una moda y está estrechamente ligada al momento cultural en el que se vive. El conocimiento de determinados códigos visuales, así como la interpretación de cada sociedad sobre el significado de los colores juegan un papel muy importante en el diseño de visualizaciones de datos.
 
-<div class="aviso_caja">
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+Álvaro Valiño
+		https://www.alvarovalino.com/ 
+	</div>
+</div>
+
+- Periodismo: todo proyecto de visualización de datos se enmarca dentro de una narrativa. Esta narrativa obedece  a criterios periodísticos a la hora de maquetar y redactar todo lo referente a la visualización. La historia debe fluir y debe ser igualmente rigurosa a la hora crear todos los contenidos alrededor del elemento gráfico.
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+ Artur Galocha, Ferrán Morales, 
+		https://arturgalocha.com/
+		https://ferranmorales.com/about-me/
+	</div>
+</div>
+
+  - Desarrollo Web: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan crear y difundir esas piezas gráficas en los formatos digitales conocidos actualmente. Soluciones y prototipos pueden, a veces, no ser realistas a la hora de implementarlos en un frontal web, bien sea por la cantidad de puntos a representar o bien por una respuesta o interactividad que los navegadores no son capaces de seguir, por poner dos ejemplos. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+ Nikita Rokotyan
+		https://rokotyan.com/
+	</div>
+</div>
+
+*************************************************************************************************************
+
+
+<!-- id="tipos_0" -->
+## Tipos y Herramientas
+
+En esta sección abordaremos la definición de los elementos necesarios para la realización de proyectos de visualización, desde el formato de los datos hasta las herramientas de acceso libre y gratuito para su realización. 
+
+### Formatos de datos para visualización
+
+{{|>}}
+*************************************************************************************************************
+
+Los datos abiertos suelen presentarse en un amplio espectro de formatos, dependiendo del organismo que los publica y de los medios por los cuales los ha obtenido. A pesar de esta diversidad , el mundo de la visualización de datos suele ceñirse a un subconjunto de formatos. En concerto, se centra en aquellos que aseguran facilidad de lectura dentro de unos estándares y, sobre todo, para acceso  de forma estructurada, para así poder repetir patrones para cada entrada en el fichero de los datos. 
+
+Los formatos más comunes son los siguientes: 
+
+*************************************************************************************************************
+
+<!-- id="tipos_1" -->
+
+#### CSV, TSV, TXT
+
+{{|>}}
+*************************************************************************************************************
+
+Estas siglas esconden un acrónimo en inglés equivalente respectivamente a Comma Separated Value (CSV), Tab Separated Value (TSV) o Text (TXT), que puede adoptar la forma tanto del CSV como del TSV. En estos casos los datos se disponen en hileras cuyas columnas están separadas por comas dentro de cada fila. Al tener siempre el mismo carácter diferenciador, bien sea la coma o la tabulación, es muy fácil para lenguajes como Python o R interpretar el contenido del fichero de entrada y estructurarlo acorde con esos separadores
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+    Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV
+	</div>
+</div>
+
+*************************************************************************************************************
+
+<!-- id="tipos_1" -->
+
+#### JSON
+
+{{|>}}
+*************************************************************************************************************
+
+Estas siglas significan JavaScript Object Notation, y hacen referencia a una estructura de datos donde los valores y magnitudes vienen en forma de pares, donde a una categoría se asocia un valor. Estas estructuras pueden agruparse en cadenas o arrays de elementos. Su desarrollo estuvo motivado por el intercambio de información necesario para nutrir las páginas web y los navegadores, y ha acabado por convertirse en un estándar válido también fuera de estos ámbitos. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+    Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.
+	</div>
+</div>
+
+*************************************************************************************************************
+
+<!-- id="tipos_2" -->
+
+#### GoogleSheets
+
+{{|>}}
+*************************************************************************************************************
+
+La existencia de hojas de cálculo online permite igualmente la lectura de tales ficheros directamente sin ningún tipo de herramienta intermedia como Python o R. Referenciada por una identificación única a la cual se le llama dentro de su URL, estas hojas de cálculo pueden ser leídas por JavaScript para crear visualizaciones a partir de la información contenida en sus filas y columnas. 
+
+  <div class="aviso_caja">
 	<div class="aviso_titulo">
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-			En la práctica, esto significa que:
-
-		  - Un ayuntamiento publica sus presupuestos anuales como datos abiertos: ciudadanos y periodistas pueden analizarlos.
-			 - El Ministerio de Transportes ofrece datos de tráfico en tiempo real: desarrolladores crean aplicaciones de movilidad.
-			 - El Instituto Nacional de Estadística publica datos demográficos: investigadores los usan para estudios socioeconómicos.
+Este conjunto de casos representa la mayor parte de datos con número pequeño o moderado de entradas. La explosión del big data ha traído consigo la creación de nuevos formatos tales como la lectura directa de bases de datos como el formato .parquet, por ejemplo, que pueden contener millones de entradas y por lo tanto formatos difíciles de manejar por herramientas tradicionales de análisis y que necesitan de software específico. 
 	</div>
 </div>
+*************************************************************************************************************
+
+<!-- id="vis_0" -->
+
+### Tipos de Visualizaciones
+
+{{|>}}
+*************************************************************************************************************
+
+En esta sección veremos los tipos de visualizaciones más populares, ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis y productos que necesitan de la representación gráfica de grandes cantidades de datos. 
+
+Las visualizaciones se suelen distribuir en cuatro grandes familias: 
+- Magnitudes 
+- Series temporales 
+- Redes, nodos y jerarquías 
+- Mapas y cartografía
+- 
+*************************************************************************************************************
+
+<!-- id="vis_1" -->
+
+#### Magnitudes
+
+{{|>}}
+*************************************************************************************************************
+
+Las magnitudes hacen referencia a conjuntos de valores discretos e independientes, que no están vinculados por una dimensión temporal ni están jerarquizados. Suelen ser datos que se presentan asociados a un número determinado de categorías. 
+
+**Burbujas**
+Tiene su origen en el scatter plot, círculos posicionados en un plano cartesiano. La independencia de esos ejes, gracias a herramientas modernas para calcular posiciones relativas, ha hecho de los diagramas de burbujas una propuesta muy atractiva, ya que permite añadir dimensiones de  información, no sólo al radio, sino también al color o a la transparencia. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+    (https://yotka.org/missing-migrants/ )
+	</div>
+</div>
+
+**Treemap**
+Muy popular para datos económicos.El treemap distribuye un espacio limitado en parcelas cuyo tamaño es proporcional a la magnitud en estudio. De esta forma es directamente comparable el valor de diferentes categorías y es posible explorar  el color como otro eje de información adicional. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+  (https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html )
+	</div>
+</div>
+
+**Voronoi**
+Semejante al treemap, pero utilizando a la inversa el cálculo de Voronoi de los puntos equidistantes a los límites de un espacio definido por celdas, o polígonos de Thiessen. De esta forma se distribuye el espacio en celdas cuya superficie es proporcional al valor de cada categoría.  
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+   (https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html )
+	</div>
+</div>
+
+**Paths**
+Gráfico utilizado para representar trayectorias uniendo puntos mediante líneas que reflejan el movimiento o la evolución de un fenómeno, ya sea en el espacio o en el tiempo.  Permiten un diseño más creativo a la hora de crear representaciones gráficas, siempre que se guarde un principio de proporcionalidad, bien en la forma o en la gradación de color. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+    (https://www.behance.net/gallery/121178815/Land-Defenders )
+	</div>
+</div>
+
+**Araña**
+Gráfico que representa múltiples variables mediante ejes que se extienden desde un centro común, formando una figura poligonal que permite visualizar y comparar perfiles o distribuciones de datos de manera global. El polígono resultante de la unión de todos los puntos por eje crea el llamado diagrama de araña, y en determinadas ocasiones se puede otorgar algún significado al volumen resultante del polígono. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+	https://www.behance.net/gallery/244863983/Graphics-for-the-Publications-Office-of-the-EU-25-26 
+	</div>
+</div>
+
+*************************************************************************************************************
+
+<!-- id="vis_1" -->
+
+#### Series temporales
+
+{{|>}}
+*************************************************************************************************************
+
+
+
+*************************************************************************************************************
+
 
 **Lo que NO son datos abiertos**
 
