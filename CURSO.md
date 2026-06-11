@@ -173,7 +173,7 @@ La visualización existe probablemente desde antes incluso del desarrollo de la 
 
 Ejemplo: En la Figura 1 se puede observar la distribución de estrellas de la constelación de Pegaso realizada por Johann Bayer en 1603, un ejemplo que recoge la práctica milenaria de referenciarnos dentro del espacio y el universo. 
 
-<center>![Johann Bayer, Uranometría, 1603](media/bayer.jpg "Figura. Johann Bayer, Uranometría, 1603. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Johann Bayer, Uranometría, 1603](media/UD07_Bayer.jpg "Figura. Johann Bayer, Uranometría, 1603. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
 *************************************************************************************************************
 
@@ -190,7 +190,7 @@ Ejemplo: En 1694 Galileo Galilei publica su obra sobre la posición de las estre
 
 La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de Oculata Certitudine, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, la verdad queda vinculada explícitamente al sentido visual. 
 
-<center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/galileo.jpg "Figura.Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura.Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
 *************************************************************************************************************
 
@@ -211,9 +211,9 @@ Ejemplos:
 
 Todos ellos pusieron la visualización a otro nivel, tanto en lo relativo al rigor numérico y citación de fuentes como en la adopción de una aproximación gráfica y estética absolutamente rupturista con el clasicismo de los ejes cartesianos de los siglos anteriores.
 
-<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/florence.jpg "Figura.Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
-<center>! Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869.](media/minard.jpg "Figura. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
-<center>![Figura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900.](media/dubois.jpg "FiguraFigura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.jpg "Figura.Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>! Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869.](media/UD07_Minard.jpg "Figura. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Figura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900.](media/UD07_DuBois.jpg "FiguraFigura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
 *************************************************************************************************************
 
@@ -276,7 +276,7 @@ Trabajar en visualización de datos implica:
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Kiko Llaneras
+Kiko Llaneras </br>
 https://kiko.llaneras.es/en/ 
 	</div>
 </div>
@@ -288,7 +288,7 @@ https://kiko.llaneras.es/en/
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Philippe Riviere
+Philippe Riviere</br>
 https://observablehq.com/@fil 
 	</div>
 </div>
@@ -300,7 +300,7 @@ https://observablehq.com/@fil
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Álvaro Valiño
+Álvaro Valiño</br>
 		https://www.alvarovalino.com/ 
 	</div>
 </div>
@@ -312,9 +312,8 @@ https://observablehq.com/@fil
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
- Artur Galocha, Ferrán Morales, 
-		https://arturgalocha.com/
-		https://ferranmorales.com/about-me/
+ Artur Galocha</br>https://arturgalocha.com/</br>
+ Ferrán Morales</br>https://ferranmorales.com/about-me/
 	</div>
 </div>
 
@@ -325,7 +324,7 @@ https://observablehq.com/@fil
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
- Nikita Rokotyan
+ Nikita Rokotyan</br>
 		https://rokotyan.com/
 	</div>
 </div>
@@ -363,7 +362,7 @@ Estas siglas esconden un acrónimo en inglés equivalente respectivamente a Comm
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-    Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV
+		<center>![Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV](media/UD07_CSV.jpg "Figura.Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV.")</center>
 	</div>
 </div>
 
@@ -384,6 +383,7 @@ Estas siglas significan JavaScript Object Notation, y hacen referencia a una est
 	</div>
 	<div class="ejemplo_contenido">
     Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.
+				<center>![Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.](media/UD07_JSON.jpg "Figura.Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.")</center>
 	</div>
 </div>
 
