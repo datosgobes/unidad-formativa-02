@@ -496,16 +496,362 @@ Gráfico que representa múltiples variables mediante ejes que se extienden desd
 
 *************************************************************************************************************
 
-<!-- id="vis_1" -->
+<!-- id="vis_2" -->
 
 #### Series temporales
 
 {{|>}}
 *************************************************************************************************************
+Una de las más antiguas representaciones de información de forma visual para las series temporales son los ejes cartesianos y sus variantes. Esta representación se apoya en la interpretación que hace la cultura occidental sobre la linealidad del tiempo, en comparación con la circularidad o recursividad de la dimensión temporal en las culturas orientales. De esta forma, existen diversas formas de representar el tiempo que enumeramos aquí.  
 
+**Ejes Cartesianos**
 
+Los ejes cartesianos, x e y, permiten asociar la dimensión temporal al eje X, mientras que la magnitud asociada a cada intervalo temporal se representa en el eje Y. A partir de ahí, se pueden dibujar puntos, líneas o áreas,si el volumen integrado bajo la línea tiene algún tipo de información relevante. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+    ([https://yotka.org/missing-migrants/](https://ig.ft.com/coronavirus-chart/ ) )
+	</div>
+</div>
+
+**Ejes Verticales**
+
+El scroll vertical de los dispositivos digitales ha permitido la creación de diagramas para las series temporales aprovechando esta circunstancia, y por lo tanto habilitando una gran longitud para el eje temporal. Asociando el eje temporal al eje Y en dirección vertical, se pueden desarrollar narrativas largas y continuas,  plenamente adaptadas a la forma de navegación de los contenidos digitales 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+    [([https://yotka.org/missing-migrants/])](https://www.visualcinnamon.com/portfolio/sciam-satellite-surge/ )
+	</div>
+</div>
+
+**Ejes Radiales**
+
+Siguiendo la tradición más oriental y redundando en la recursividad del tiempo, es posible dibujar el eje temporal en forma de círculo. De este modo,  el calendario adopta una forma igualmente lógica y muy atractiva para describir eventos asociados al calendario.  
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+   [ [](https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets )
+	</div>
+</div>
+
+**Sankey**
+
+La transmisión de flujos de unos nodos a otros adopta su mejor expresión en los llamados diagramas de Sankey. En ellos la anchura de una línea se descompone en todos aquellos componentes a los cuales aporta valor o magnitud, otorgando una comprensión inmediata de cuáles son esos flujos. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+[  (https://www.behance.net/gallery/17868143/Power-grid ) )
+	</div>
+</div>
 
 *************************************************************************************************************
+
+<!-- id="vis_1" -->
+
+#### Redes y Jerarquías
+
+{{|>}}
+*************************************************************************************************************
+
+Con el desarrollo de sistemas complejos interconectados y de las  interdependencias entre esos nodos, se ha desarrollado todo un campo de la visualización como es el de redes y jerarquías. Este ámbito se ocupa de representar elementos interconectados que aportan además información de las relaciones entre esos elementos.   
+
+**Nodos**
+
+La más básica de esas representaciones es una estructura en árbol en la cual las ramas se despliegan a medida que crece el número de nodos. Este diagrama acepta tanto las orientaciones tanto horizontal como vertical 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+    [](https://vis.csh.ac.at/zoonotic-web/ )
+	</div>
+</div>
+
+**Nodos Radiales**
+
+Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del lenguaje para dar forma, nace el diagrama de nodos radiales. Este tipo de gráfico adopta una orientación radial de dentro hacia afuera, resultando especialmente eficaz  cuando el número de elementos es muy alto, ya que permite que y los subconjuntos o subcategorías se desplieguen en más y más ramas radiales. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+    (https://www.fastcompany.com/3025003/how-dogs-evolved )
+	</div>
+</div>
+
+*************************************************************************************************************
+
+<!-- id="vis_3" -->
+
+#### Cartografía y Mapas
+
+{{|>}}
+*************************************************************************************************************
+
+El mundo de los mapas y la cartografía es un universo en sí mismo, con siglos de antigüedad y en constante evolución. A pesar de ser un sistema de representación emparentado con los ejes cartesianos y por lo tanto con un peso tradicional del que le cuesta desprenderse, hoy en día combina lo mejor de los dos mundos, tanto el aspecto más tradicional como propuestas más arriesgadas que invitan a repensar cómo vemos el mundo más allá de esa tradición.  
+
+Las formas de representación geográfica son numerosas; se citan algunas de ellas en esta sección.  
+
+**Puntos**
+
+Dentro de la tradición, representar localizaciones o eventos a través de la latitud y la longitud sigue siendo un clásico que funciona en todos los ámbitos. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+   (https://climate-conflict.org/www/data-pages/hazards )
+	</div>
+</div>
+
+**Trayectorias**
+
+Las rutas, especialmente las correspondientes al transporte aéreo o marítimo, suelen contar con datos muy detallados sobre su posición en el tiempo. Esto permite trazar sus trayectorias con ayuda de líneas sobre un fondo cartográfico. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+  (https://explorer.audubon.org/ )
+	</div>
+</div>
+
+**Coropletas**
+
+La división del territorio en márgenes y límites de diversa índole, tales como países, regiones, comunidades o distritos,  permite asociar valores a estas unidades y visualizar el terreno en forma de polígonos con colores o distintos niveles de transparencia según los datos asociados. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+(https://www.reuters.com/graphics/GERMANY-ELECTION/RESULTS/movaynkgova/ )
+	</div>
+</div>
+
+**Tesleas (Tiles)**
+
+Determinados productos satelitales o modelos numéricos para el estudio del sistema terrestre ofrecen datos promediados para regiones regulares en forma de malla que cubren toda o parte de la superficie terrestre. De acuerdo con estas mallas, es posible proyectar sobre un mapa esos polígonos regularmente distribuidos para visualizar la información que ofrecen esos satélites o modelos.  
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+    (https://project-ukko.net/map.html )
+	</div>
+</div>
+
+**Contornos**
+
+La interpolación entre valores adyacentes en una superficie permite crear contornos, a modo de curvas de nivel, para describir a base de curvas una magnitud que cambia en el espacio. De esta forma, se pueden asociar grosores de esas curvas o colores de relleno  para asociar a cada punto en el espacio un determinado valor o magnitud. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+  (https://abc30.com/post/central-california-map-fire-sierra-nevada-wildfire-danger/10843964/ )
+	</div>
+</div>
+
+**Tres dimensiones**
+
+El incremento de la capacidad computacional ha permitido el desarrollo en las últimas décadas de aplicaciones ágiles y muy efectivas para visualizar la tercera dimensión (Z) sobre cartografías existentes. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+(https://pudding.cool/2018/10/city_3d/ )
+	</div>
+</div>
+
+**Agrupación (Binning)**
+
+Tradicionalmente realizado con hexágonos, la clusterización en polígonos regulares puede simplificar la representación de magnitudes o eventos en superficies, creando, de esta forma, patrones de mucha armonía visual y sin perder rigor de contenido.  
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+(https://truth-and-beauty.net/projects/achingenzell )
+	</div>
+</div>
+
+*************************************************************************************************************
+
+## Frontales Web
+
+{{|>}}
+*************************************************************************************************************
+
+El último paso dentro de la creación de una visualización es crear un entorno en que la visualización sea accesible a la audiencia. Frecuentemente, el objetivo es alcanzar el mayor público posible y, por lo tanto, se desarrollan entornos en la web que permitan su acceso desde cualquier punto del planeta. 
+
+Los entornos más básicos en la web se componen de dos elementos. Una página web que se construye con HTML y con CSS, y un segundo elemento que suele ser código en JavaScript. Veamos en esta sección su significado y sentido dentro de la construcción de una página web. 
+
+*************************************************************************************************************
+
+### HTML y CSS
+
+{{|>}}
+*************************************************************************************************************
+
+Con HTML ( HyperText Markup Language), se crean los contenedores en los cuales se distribuyen los distintos tipos de contenidos de una página: contenedor, texto o imagen. 
+
+Todos estos elementos pueden estar asociados a clases, para así evitar tener que caracterizar al detalle cada elemento cada vez que lo introducimos. De este modo, se define una clase y todos los elementos vinculados a esa clase tendrán la misma apariencia, bien sean contenedores, tipos y tamaños de texto, o tamaños y opacidades de imágenes. Esto se realiza a través de CSS (Cascading Style Sheets). 
+
+*************************************************************************************************************
+
+### Javascript
+
+{{|>}}
+*************************************************************************************************************
+
+La creciente complejidad de las páginas web ha ido demandando lenguajes de programación con más recursos que el HTML, siendo JavaScript uno de los más relevantes. Este lenguaje permite desarrollar estructuras modulares recursivas y componentes reutilizables, lo que facilita  escalar fácilmente los contenidos de una página web. 
+
+Este lenguaje también ha sido aprovechado para crear elementos visuales que comprenden todos los descritos en la sección de Tipos de Visualización. Sobre su base se han desarrollado diversos entornos y bibliotecas como React, Angular, Vue o Svelte. 
+
+  <div class="aviso_caja">
+	<div class="aviso_titulo">
+		⚠️ Aviso
+	</div>
+	<div class="aviso_contenido">
+La irrupción de la inteligencia artificial (IA) ha revolucionado la creación de los entornos de desarrollo web. Lo que antes era la elaboración de código por parte de especialistas llamados FrontEnd, haciendo referencia a la parte frontal y visible de la web, ha pasado a ser parcialmente automatizable por parte de los agentes de IA, que generan código donde albergar visualizaciones. La IA por lo tanto pasa a formar parte del elenco de herramientas disponibles para el desarrollo de frontales web. 
+	</div>
+</div>
+
+*************************************************************************************************************
+
+### Observable
+
+{{|>}}
+*************************************************************************************************************
+
+Dada la relativa laboriosidad de crear una página web desde cero, existen entornos ya creados aptos para el desarrollo de visualizaciones que sólo necesitan del código en JavaScript y de los datos en formato CSV o JSON, entre otros. 
+
+Una de estas iniciativas es Observable, donde es posible crear visualizaciones en D3.js sin necesidad de crear un servidor local ni de crear una página en HTML y CSS previamente. Funciona a modo de notebook, y cada modificación en el código va seguida de su correspondiente ejecución en una celda destacada del notebook. 
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+(https://observablehq.com/@dataviz-datos-gob-es)
+	</div>
+</div>
+
+*************************************************************************************************************
+
+<!-- id="cuestionario-final" -->
+## Cuestionario final
+
+{{|>}}
+*************************************************************************************************************
+
+Indica cuáles de las siguientes afirmaciones sobre la visualización son verdaderas y cuáles falsas.
+
+
+**1) La visualización de datos comienza en la Revolución Industrial con el desarrollo del mundo moderno**
+
+- [( )] Verdadero
+- [(X)] Falso
+***
+> Comienza incluso antes de la historia escrita 
+***
+
+**2) Galileo enuncia en principio llamado Oculata Certitudine**
+
+- [(X)] Verdadero
+- [(_)] Falso
+***
+> Sentó las bases de que la verdad está en lo que se observa visualmente
+***
+
+**3) La visualización de datos se desarrolla principalmente en el mundo de la prensa y medios escritos**
+
+- [( )] Verdadero
+- [(X)] Falso
+***
+> Iniciativas corporativas de empresas privadas han dado un impulso notable al mundo de la visualización 
+***
+
+**4) La geometría es la disciplina más importante en el trabajo de la visualización de datos**
+
+- [(_)] Verdadero
+- [(X)] Falso
+***
+> No hay una importante, sino un conjunto necesario de disciplinas como el diseño gráfico, el análisis o el periodismo
+***
+
+**5) El TSV, o tab separated value, es un formato de datos muy utilizado**
+
+- [(X)] Verdadero
+- [( )] Falso
+***
+> Quizá no tenga la fama del CSV, pero su uso está muy expandido y vigente hoy en día. 
+***
+
+**6) Hay un consenso sobre la interpretación del tiempo como algo lineal.**
+
+- [(_)] Verdadero
+- [(X)] Falso
+***
+> La cultura oriental interpreta el tiempo de forma circular y recursiva
+***
+
+**7) El diagrama de Sankey ayuda a entender las series temporales**
+
+- [(X)] Verdadero
+- [( )] Falso
+***
+> Ayuda a entender los flujos entre una fuente y un receptor
+***
+
+**8) El mapa de calor se considera un contorno dentro de las categorías de cartografía**
+
+- [(X)] Verdadero
+- [( )] Falso
+***
+> Se trata de una superposición de contornos con muchos intervalos discretos. 
+***
+
+*************************************************************************************************************
+
+<!-- id="resumen" -->
+## Resumen
+
+{{|>}}
+*************************************************************************************************************
+
+> - Desde el origen de la civilización, la visualización de datos ha estado en constante evolución respondiendo a la cantidad y a la variedad de datos que el ser humano ha sido capaz de recopilar. 
+
+> - Durante los últimos dos siglos ha habido una revolución, tanto estética como técnica, esta última gracias al vertiginoso aumento de la capacidad de computación. 
+
+> - A día de hoy, disponemos de potentes herramientas para representar todo el espectro de visualizaciones necesarias tanto para el ámbito periodístico como empresarial, incluyendo magnitudes, series temporales, nodos y cartografía. 
+
+> - Más allá de esas representaciones, podemos crear entornos web para que esas visualizaciones sean accesibles a todo el mundo, popularizando y diseminando nuestro trabajo de análisis de datos de una forma fácil e intuitiva. 
+
+*************************************************************************************************************
+
 
 
 **Lo que NO son datos abiertos**
