@@ -341,7 +341,7 @@ En esta sección abordaremos la definición de los elementos necesarios para la 
 {{|>}}
 *************************************************************************************************************
 
-Los datos abiertos suelen presentarse en un amplio espectro de formatos, dependiendo del organismo que los publica y de los medios por los cuales los ha obtenido. A pesar de esta diversidad , el mundo de la visualización de datos suele ceñirse a un subconjunto de formatos. En concerto, se centra en aquellos que aseguran facilidad de lectura dentro de unos estándares y, sobre todo, para acceso  de forma estructurada, para así poder repetir patrones para cada entrada en el fichero de los datos. 
+Los datos abiertos suelen presentarse en un **amplio espectro de formatos**, dependiendo del organismo que los publica y de los medios por los cuales los ha obtenido. A pesar de esta diversidad , el mundo de la visualización de datos suele ceñirse a un subconjunto de formatos. En concerto, se centra en aquellos que aseguran **facilidad de lectura dentro de unos estándares** y, sobre todo, para **acceso  de forma estructurada**, para así poder repetir patrones para cada entrada en el fichero de los datos. 
 
 Los formatos más comunes son los siguientes: 
 
@@ -354,14 +354,14 @@ Los formatos más comunes son los siguientes:
 {{|>}}
 *************************************************************************************************************
 
-Estas siglas esconden un acrónimo en inglés equivalente respectivamente a Comma Separated Value (CSV), Tab Separated Value (TSV) o Text (TXT), que puede adoptar la forma tanto del CSV como del TSV. En estos casos los datos se disponen en hileras cuyas columnas están separadas por comas dentro de cada fila. Al tener siempre el mismo carácter diferenciador, bien sea la coma o la tabulación, es muy fácil para lenguajes como Python o R interpretar el contenido del fichero de entrada y estructurarlo acorde con esos separadores
+Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Comma Separated Value** (CSV), **Tab Separated Value** (TSV) o **Text** (TXT), que puede adoptar la forma tanto del CSV como del TSV. En estos casos los datos se disponen en hileras cuyas columnas están separadas por comas dentro de cada fila. Al tener siempre el mismo carácter diferenciador, bien sea la coma o la tabulación, es muy fácil para lenguajes como Python o R interpretar el contenido del fichero de entrada y estructurarlo acorde con esos separadores
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		<center>![Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV](media/UD07_CSV.jpg "Figura.Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV.")</center>
+		<center>![Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV](media/UD07_CSV.png "Figura 6. Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV.")</center>
 	</div>
 </div>
 
@@ -374,14 +374,14 @@ Estas siglas esconden un acrónimo en inglés equivalente respectivamente a Comm
 {{|>}}
 *************************************************************************************************************
 
-Estas siglas significan JavaScript Object Notation, y hacen referencia a una estructura de datos donde los valores y magnitudes vienen en forma de pares, donde a una categoría se asocia un valor. Estas estructuras pueden agruparse en cadenas o arrays de elementos. Su desarrollo estuvo motivado por el intercambio de información necesario para nutrir las páginas web y los navegadores, y ha acabado por convertirse en un estándar válido también fuera de estos ámbitos. 
+Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una estructura de datos donde los valores y magnitudes vienen **en forma de pares**, donde a una categoría se asocia un valor. Estas estructuras pueden agruparse en cadenas o arrays de elementos. Su desarrollo estuvo motivado por el intercambio de información necesario para nutrir las páginas web y los navegadores, y ha acabado por convertirse en un estándar válido también fuera de estos ámbitos. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.](media/UD07_JSON.jpg "Figura.Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.")</center>
+	<center>![Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.](media/UD07_JSON.png "Figura 7. Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.")</center>
 	</div>
 </div>
 
@@ -394,7 +394,7 @@ Estas siglas significan JavaScript Object Notation, y hacen referencia a una est
 {{|>}}
 *************************************************************************************************************
 
-La existencia de hojas de cálculo online permite igualmente la lectura de tales ficheros directamente sin ningún tipo de herramienta intermedia como Python o R. Referenciada por una identificación única a la cual se le llama dentro de su URL, estas hojas de cálculo pueden ser leídas por JavaScript para crear visualizaciones a partir de la información contenida en sus filas y columnas. 
+La existencia de hojas de cálculo online permite igualmente la **lectura de tales ficheros directamente sin ningún tipo de herramienta intermedia** como Python o R. Referenciada por una identificación única a la cual se le llama dentro de su URL, estas hojas de cálculo **pueden ser leídas por JavaScript** para crear visualizaciones a partir de la información contenida en sus filas y columnas. 
 
   <div class="aviso_caja">
 	<div class="aviso_titulo">
@@ -436,14 +436,14 @@ Este conjunto de casos representa la mayor parte de datos con número pequeño o
 {{|>}}
 *************************************************************************************************************
 
-En esta sección veremos los tipos de visualizaciones más populares, ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis y productos que necesitan de la representación gráfica de grandes cantidades de datos. 
+En esta sección veremos los **tipos de visualizaciones más populares**, ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis y productos que necesitan de la representación gráfica de grandes cantidades de datos. 
 
 Las visualizaciones se suelen distribuir en cuatro grandes familias: 
 - Magnitudes 
 - Series temporales 
 - Redes, nodos y jerarquías 
 - Mapas y cartografía
-- 
+
 *************************************************************************************************************
 
 <!-- id="vis_1" -->
@@ -453,67 +453,67 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias:
 {{|>}}
 *************************************************************************************************************
 
-Las magnitudes hacen referencia a conjuntos de valores discretos e independientes, que no están vinculados por una dimensión temporal ni están jerarquizados. Suelen ser datos que se presentan asociados a un número determinado de categorías. 
+Las magnitudes hacen referencia a **conjuntos de valores discretos e independientes**, que no están vinculados por una dimensión temporal ni están jerarquizados. Suelen ser datos que se presentan asociados a un número determinado de categorías. 
 
 **Burbujas**
-Tiene su origen en el scatter plot, círculos posicionados en un plano cartesiano. La independencia de esos ejes, gracias a herramientas modernas para calcular posiciones relativas, ha hecho de los diagramas de burbujas una propuesta muy atractiva, ya que permite añadir dimensiones de  información, no sólo al radio, sino también al color o a la transparencia. 
+Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesiano**. La independencia de esos ejes, gracias a herramientas modernas para calcular posiciones relativas, ha hecho de los diagramas de burbujas una propuesta muy atractiva, ya que permite añadir dimensiones de información, no sólo al radio, sino también al color o a la transparencia. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Diagrama de burbujas.](media/UD07_Bubbles.jpg "Figura.Diagrama de burbujas. Fuente: [https://yotka.org/missing-migrants/] ")</center>
+			<center>![Diagrama de burbujas.](media/UD07_Bubbles.png "Figura 8. Diagrama de burbujas. Fuente: [https://yotka.org/missing-migrants/] ")</center>
 		
     ( )
 	</div>
 </div>
 
 **Treemap**
-Muy popular para datos económicos.El treemap distribuye un espacio limitado en parcelas cuyo tamaño es proporcional a la magnitud en estudio. De esta forma es directamente comparable el valor de diferentes categorías y es posible explorar  el color como otro eje de información adicional. 
+Muy popular para datos económicos, el treemap **distribuye un espacio limitado en parcelas** cuyo tamaño es proporcional a la magnitud en estudio. De esta forma es directamente comparable el valor de diferentes categorías y es posible explorar  el color como otro eje de información adicional. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Treemap](media/UD07_Treemap.jpg "Figura.Treemap. Fuente: [https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html] ")</center>
+	<center>![Treemap](media/UD07_Treemap.png "Figura 9. Treemap. Fuente: [https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html] ")</center>
 	</div>
 </div>
 
 **Voronoi**
-Semejante al treemap, pero utilizando a la inversa el cálculo de Voronoi de los puntos equidistantes a los límites de un espacio definido por celdas, o polígonos de Thiessen. De esta forma se distribuye el espacio en celdas cuya superficie es proporcional al valor de cada categoría.  
+Semejante al treemap, pero utilizando a la inversa el cálculo de Voronoi de los **puntos equidistantes a los límites de un espacio definido por celdas**, o polígonos de Thiessen. De esta forma se distribuye el espacio en celdas cuya superficie es proporcional al valor de cada categoría.  
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Diagrama de Voronoi](media/UD07_Voronoi.jpg "Figura.Diagrama de Voronoi. Fuente: [https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html] ")</center>
+	<center>![Diagrama de Voronoi](media/UD07_Voronoi.png "Figura 10. Diagrama de Voronoi. Fuente: [https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html] ")</center>
 	</div>
 </div>
 
 **Paths**
-Gráfico utilizado para representar trayectorias uniendo puntos mediante líneas que reflejan el movimiento o la evolución de un fenómeno, ya sea en el espacio o en el tiempo.  Permiten un diseño más creativo a la hora de crear representaciones gráficas, siempre que se guarde un principio de proporcionalidad, bien en la forma o en la gradación de color. 
+Gráfico utilizado para representar **trayectorias uniendo puntos mediante líneas** que reflejan el movimiento o la evolución de un fenómeno, ya sea en el espacio o en el tiempo.  Permiten un diseño más creativo a la hora de crear representaciones gráficas, siempre que se guarde un principio de proporcionalidad, bien en la forma o en la gradación de color. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Paths](media/UD07_Paths.jpg "Figura.Paths. Fuente: [https://www.behance.net/gallery/121178815/Land-Defenders] ")</center>
+			<center>![Paths](media/UD07_Paths.png "Figura 11. Paths. Fuente: [https://www.behance.net/gallery/121178815/Land-Defenders] ")</center>
 	</div>
 </div>
 
 **Araña**
-Gráfico que representa múltiples variables mediante ejes que se extienden desde un centro común, formando una figura poligonal que permite visualizar y comparar perfiles o distribuciones de datos de manera global. El polígono resultante de la unión de todos los puntos por eje crea el llamado diagrama de araña, y en determinadas ocasiones se puede otorgar algún significado al volumen resultante del polígono. 
+Gráfico que representa múltiples variables mediante **ejes que se extienden desde un centro común**, formando una figura poligonal que permite visualizar y comparar perfiles o distribuciones de datos de manera global. El polígono resultante de la unión de todos los puntos por eje crea el llamado diagrama de araña, y en determinadas ocasiones se puede otorgar algún significado al volumen resultante del polígono. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-					<center>![Araña](media/UD07_Spider.jpg "Figura.Paths. Fuente: [https://www.behance.net/gallery/244863983/Graphics-for-the-Publications-Office-of-the-EU-25-26 ] ")</center>
+					<center>![Araña](media/UD07_Spider.png "Figura 12. Araña. Fuente: [https://www.behance.net/gallery/244863983/Graphics-for-the-Publications-Office-of-the-EU-25-26 ] ")</center>
 	</div>
 </div>
 
@@ -553,57 +553,57 @@ Gráfico que representa múltiples variables mediante ejes que se extienden desd
 
 {{|>}}
 *************************************************************************************************************
-Una de las más antiguas representaciones de información de forma visual para las series temporales son los ejes cartesianos y sus variantes. Esta representación se apoya en la interpretación que hace la cultura occidental sobre la linealidad del tiempo, en comparación con la circularidad o recursividad de la dimensión temporal en las culturas orientales. De esta forma, existen diversas formas de representar el tiempo que enumeramos aquí.  
+Una de las más antiguas representaciones de información de forma visual para las series temporales son los **ejes cartesianos y sus variantes**. Esta representación se apoya en la interpretación que hace la cultura occidental sobre la **linealidad del tiempo**, en comparación con la circularidad o recursividad de la dimensión temporal en las culturas orientales. De esta forma, existen diversas formas de representar el tiempo que enumeramos aquí.  
 
 **Ejes Cartesianos**
 
-Los ejes cartesianos, x e y, permiten asociar la dimensión temporal al eje X, mientras que la magnitud asociada a cada intervalo temporal se representa en el eje Y. A partir de ahí, se pueden dibujar puntos, líneas o áreas,si el volumen integrado bajo la línea tiene algún tipo de información relevante. 
+Los ejes cartesianos, x e y, permiten asociar la **dimensión temporal al eje X, mientras que la magnitud asociada a cada intervalo temporal se representa en el eje Y. A partir de ahí, se pueden dibujar puntos, líneas o áreas, si el volumen integrado bajo la línea tiene algún tipo de información relevante. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Ejes cartesianos](media/UD07_Axis.jpg "Figura.Ejes Cartesianos. Fuente: [https://ig.ft.com/coronavirus-chart/]")</center>
+	<center>![Ejes cartesianos](media/UD07_Axis.png "Figura 13. Ejes Cartesianos. Fuente: [https://ig.ft.com/coronavirus-chart/]")</center>
 	</div>
 </div>
 
 **Ejes Verticales**
 
-El scroll vertical de los dispositivos digitales ha permitido la creación de diagramas para las series temporales aprovechando esta circunstancia, y por lo tanto habilitando una gran longitud para el eje temporal. Asociando el eje temporal al eje Y en dirección vertical, se pueden desarrollar narrativas largas y continuas,  plenamente adaptadas a la forma de navegación de los contenidos digitales 
+El **scroll vertical de los dispositivos digitales** ha permitido la creación de diagramas para las series temporales aprovechando esta circunstancia, y por lo tanto habilitando una gran longitud para el eje temporal. Asociando el eje temporal al eje Y en dirección vertical, se pueden desarrollar narrativas largas y continuas,  plenamente adaptadas a la forma de navegación de los contenidos digitales.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Ejes verticales](media/UD07_Vertical.jpg "Figura.Ejes verticales. Fuente: [https://www.visualcinnamon.com/portfolio/sciam-satellite-surge/]")</center>
+			<center>![Ejes verticales](media/UD07_Vertical.png "Figura 14. Ejes verticales. Fuente: [https://www.visualcinnamon.com/portfolio/sciam-satellite-surge/]")</center>
 	</div>
 </div>
 
 **Ejes Radiales**
 
-Siguiendo la tradición más oriental y redundando en la recursividad del tiempo, es posible dibujar el eje temporal en forma de círculo. De este modo,  el calendario adopta una forma igualmente lógica y muy atractiva para describir eventos asociados al calendario.  
+Siguiendo la tradición más oriental y redundando en la recursividad del tiempo, es posible **dibujar el eje temporal en forma de círculo**. De este modo, el calendario adopta una forma igualmente lógica y muy atractiva para describir eventos asociados al calendario.  
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-					<center>![Ejes radiales](media/UD07_Radial.jpg "Figura.Ejes radialess. Fuente: [https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets ]")</center>
+					<center>![Ejes radiales](media/UD07_Radial.png "Figura 15. Ejes radialess. Fuente: [https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets ]")</center>
 	</div>
 </div>
 
 **Sankey**
 
-La transmisión de flujos de unos nodos a otros adopta su mejor expresión en los llamados diagramas de Sankey. En ellos la anchura de una línea se descompone en todos aquellos componentes a los cuales aporta valor o magnitud, otorgando una comprensión inmediata de cuáles son esos flujos. 
+La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión en los llamados diagramas de Sankey. En ellos la anchura de una línea se descompone en todos aquellos componentes a los cuales aporta valor o magnitud, otorgando una comprensión inmediata de cuáles son esos flujos. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Diagrama de Sankey](media/UD07_Sankey.jpg "Figura.Diagrama de Sankey. Fuente: [https://www.behance.net/gallery/17868143/Power-grid ]")</center>
+	<center>![Diagrama de Sankey](media/UD07_Sankey.png "Figura 16. Diagrama de Sankey. Fuente: [https://www.behance.net/gallery/17868143/Power-grid ]")</center>
 	</div>
 </div>
 
@@ -656,31 +656,31 @@ La transmisión de flujos de unos nodos a otros adopta su mejor expresión en lo
 {{|>}}
 *************************************************************************************************************
 
-Con el desarrollo de sistemas complejos interconectados y de las  interdependencias entre esos nodos, se ha desarrollado todo un campo de la visualización como es el de redes y jerarquías. Este ámbito se ocupa de representar elementos interconectados que aportan además información de las relaciones entre esos elementos.   
+Con el desarrollo de **sistemas complejos interconectados** y de las interdependencias entre esos nodos, se ha desarrollado todo un campo de la visualización como es el de redes y jerarquías. Este ámbito se ocupa de representar elementos interconectados que aportan además información de las relaciones entre esos elementos.   
 
 **Nodos**
 
-La más básica de esas representaciones es una estructura en árbol en la cual las ramas se despliegan a medida que crece el número de nodos. Este diagrama acepta tanto las orientaciones tanto horizontal como vertical 
+La más básica de esas representaciones es una **estructura en árbol** en la cual las ramas se despliegan a medida que crece el número de nodos. Este diagrama acepta tanto las orientaciones tanto horizontal como vertical 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Nodos](media/UD07_Nodes.jpg "Figura.Nodos. Fuente: [zoonotic-web/](https://vis.csh.ac.at/zoonotic-web/ )")</center>
+			<center>![Nodos](media/UD07_Nodes.png "Figura 17. Nodos. Fuente: [zoonotic-web/](https://vis.csh.ac.at/zoonotic-web/ )")</center>
 	</div>
 </div>
 
 **Nodos Radiales**
 
-Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del lenguaje para dar forma, nace el diagrama de nodos radiales. Este tipo de gráfico adopta una orientación radial de dentro hacia afuera, resultando especialmente eficaz  cuando el número de elementos es muy alto, ya que permite que y los subconjuntos o subcategorías se desplieguen en más y más ramas radiales. 
+Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del lenguaje para dar forma, nace el diagrama de nodos radiales. Este tipo de gráfico adopta una **orientación radial de dentro hacia afuera**, resultando especialmente eficaz  cuando el número de elementos es muy alto, ya que permite que y los subconjuntos o subcategorías se desplieguen en más y más ramas radiales. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-				<center>![Nodos radiales](media/UD07_Nodes_Arc.jpg "Figura.Nodos radiales. Fuente: [how-dogs-evolved] (https://www.fastcompany.com/3025003/how-dogs-evolved )")</center>
+				<center>![Nodos radiales](media/UD07_Nodes_Arc.png "Figura 18. Nodos radiales. Fuente: [how-dogs-evolved] (https://www.fastcompany.com/3025003/how-dogs-evolved )")</center>
 	</div>
 </div>
 
@@ -715,98 +715,98 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 {{|>}}
 *************************************************************************************************************
 
-El mundo de los mapas y la cartografía es un universo en sí mismo, con siglos de antigüedad y en constante evolución. A pesar de ser un sistema de representación emparentado con los ejes cartesianos y por lo tanto con un peso tradicional del que le cuesta desprenderse, hoy en día combina lo mejor de los dos mundos, tanto el aspecto más tradicional como propuestas más arriesgadas que invitan a repensar cómo vemos el mundo más allá de esa tradición.  
+El mundo de los mapas y la cartografía es un universo en sí mismo, con **siglos de antigüedad y en constante evolución**. A pesar de ser un sistema de representación emparentado con los ejes cartesianos y por lo tanto con un peso tradicional del que le cuesta desprenderse, hoy en día combina lo mejor de los dos mundos, tanto el aspecto más tradicional como propuestas más arriesgadas que invitan a repensar cómo vemos el mundo más allá de esa tradición.  
 
 Las formas de representación geográfica son numerosas; se citan algunas de ellas en esta sección.  
 
 **Puntos**
 
-Dentro de la tradición, representar localizaciones o eventos a través de la latitud y la longitud sigue siendo un clásico que funciona en todos los ámbitos. 
+Dentro de la tradición, representar localizaciones o eventos **a través de la latitud y la longitud** sigue siendo un clásico que funciona en todos los ámbitos. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Puntos](media/UD07_Dots.jpg "Figura.Puntos. Fuente: [Moritz Stefaner](https://climate-conflict.org/www/data-pages/hazards )")</center>
+	<center>![Puntos](media/UD07_Dots.png "Figura 19. Puntos. Fuente: [Moritz Stefaner](https://climate-conflict.org/www/data-pages/hazards )")</center>
  	</div>
 </div>
 
 **Trayectorias**
 
-Las rutas, especialmente las correspondientes al transporte aéreo o marítimo, suelen contar con datos muy detallados sobre su posición en el tiempo. Esto permite trazar sus trayectorias con ayuda de líneas sobre un fondo cartográfico. 
+Las rutas, especialmente las correspondientes al transporte aéreo o marítimo, suelen contar con **datos muy detallados sobre su posición en el tiempo**. Esto permite trazar sus trayectorias con ayuda de líneas sobre un fondo cartográfico. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Trayectorias](media/UD07_Trajectories.jpg "Figura.Trayectorias. Fuente: [Audubon]  (https://explorer.audubon.org/ )")</center>
+			<center>![Trayectorias](media/UD07_Trajectories.png "Figura 20. Trayectorias. Fuente: [Audubon]  (https://explorer.audubon.org/ )")</center>
 	</div>
 </div>
 
 **Coropletas**
 
-La división del territorio en márgenes y límites de diversa índole, tales como países, regiones, comunidades o distritos,  permite asociar valores a estas unidades y visualizar el terreno en forma de polígonos con colores o distintos niveles de transparencia según los datos asociados. 
+La división del territorio en márgenes y límites de diversa índole, tales como países, regiones, comunidades o distritos, permite asociar valores a estas unidades y **visualizar el terreno en forma de polígonos** con colores o distintos niveles de transparencia según los datos asociados. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Coropletas](media/UD07_Coropletas.jpg "Figura.Coropletas. Fuente: [Reuters] (https://www.reuters.com/graphics/GERMANY-ELECTION/RESULTS/movaynkgova/ )")</center>
+			<center>![Coropletas](media/UD07_Coropletas.png "Figura 21. Coropletas. Fuente: [Reuters] (https://www.reuters.com/graphics/GERMANY-ELECTION/RESULTS/movaynkgova/ )")</center>
 	</div>
 </div>
 
-**Tesleas (Tiles)**
+**Teselas (Tiles)**
 
-Determinados productos satelitales o modelos numéricos para el estudio del sistema terrestre ofrecen datos promediados para regiones regulares en forma de malla que cubren toda o parte de la superficie terrestre. De acuerdo con estas mallas, es posible proyectar sobre un mapa esos polígonos regularmente distribuidos para visualizar la información que ofrecen esos satélites o modelos.  
+Determinados productos satelitales o modelos numéricos para el estudio del sistema terrestre ofrecen **datos promediados para regiones regulares** en forma de malla que cubren toda o parte de la superficie terrestre. De acuerdo con estas mallas, es posible proyectar sobre un mapa esos polígonos regularmente distribuidos para visualizar la información que ofrecen esos satélites o modelos.  
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-					<center>![Tiles](media/UD07_Tiles.jpg "Figura.Tiles. Fuente: [Mortiz Stefaner](https://project-ukko.net/map.html )")</center>
+					<center>![Teselas](media/UD07_Tiles.png "Figura 22. Teselas. Fuente: [Mortiz Stefaner](https://project-ukko.net/map.html )")</center>
 	</div>
 </div>
 
 **Contornos**
 
-La interpolación entre valores adyacentes en una superficie permite crear contornos, a modo de curvas de nivel, para describir a base de curvas una magnitud que cambia en el espacio. De esta forma, se pueden asociar grosores de esas curvas o colores de relleno  para asociar a cada punto en el espacio un determinado valor o magnitud. 
+La **interpolación entre valores adyacentes** en una superficie permite crear contornos, a modo de curvas de nivel, para describir a base de curvas una magnitud que cambia en el espacio. De esta forma, se pueden asociar grosores de esas curvas o colores de relleno  para asociar a cada punto en el espacio un determinado valor o magnitud. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		<center>![Contornos](media/UD07_Contours.jpg "Figura.Contornos. Fuente: [ABC30]  (https://abc30.com/post/central-california-map-fire-sierra-nevada-wildfire-danger/10843964/ )")</center>
+		<center>![Contornos](media/UD07_Contours.png "Figura 23. Contornos. Fuente: [ABC30]  (https://abc30.com/post/central-california-map-fire-sierra-nevada-wildfire-danger/10843964/ )")</center>
 	</div>
 </div>
 
 **Tres dimensiones**
 
-El incremento de la capacidad computacional ha permitido el desarrollo en las últimas décadas de aplicaciones ágiles y muy efectivas para visualizar la tercera dimensión (Z) sobre cartografías existentes. 
+El incremento de **la capacidad computacional** ha permitido el desarrollo en las últimas décadas de aplicaciones ágiles y muy efectivas para visualizar la tercera dimensión (Z) sobre cartografías existentes. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-				<center>![Tres dimensiones](media/UD07_3D.jpg "Figura.Tres dimensiones. Fuente: [The Pudding] (https://pudding.cool/2018/10/city_3d/ )")</center>
+				<center>![Tres dimensiones](media/UD07_3D.png "Figura 24. Tres dimensiones. Fuente: [The Pudding] (https://pudding.cool/2018/10/city_3d/ )")</center>
 	</div>
 </div>
 
 **Agrupación (Binning)**
 
-Tradicionalmente realizado con hexágonos, la clusterización en polígonos regulares puede simplificar la representación de magnitudes o eventos en superficies, creando, de esta forma, patrones de mucha armonía visual y sin perder rigor de contenido.  
+Tradicionalmente realizado con hexágonos, la **clusterización en polígonos regulares** puede simplificar la representación de magnitudes o eventos en superficies, creando, de esta forma, patrones de mucha armonía visual y sin perder rigor de contenido.  
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-						<center>![Agrupaciones](media/UD07_3D.jpg "Figura. Agrupaciones. Fuente: [Moritz Stefaner] (https://truth-and-beauty.net/projects/achingenzell )")</center>
+						<center>![Agrupaciones](media/UD07_3D.png "Figura. Agrupaciones. Fuente: [Moritz Stefaner] (https://truth-and-beauty.net/projects/achingenzell )")</center>
 	</div>
 </div>
 
@@ -854,7 +854,7 @@ Tradicionalmente realizado con hexágonos, la clusterización en polígonos regu
 {{|>}}
 *************************************************************************************************************
 
-El último paso dentro de la creación de una visualización es crear un entorno en que la visualización sea accesible a la audiencia. Frecuentemente, el objetivo es alcanzar el mayor público posible y, por lo tanto, se desarrollan entornos en la web que permitan su acceso desde cualquier punto del planeta. 
+El último paso dentro de la creación de una visualización es crear un entorno en que la visualización sea accesible a la audiencia. Frecuentemente, el objetivo es alcanzar el mayor público posible y, por lo tanto, se desarrollan entornos en la web que permitan su **acceso desde cualquier punto del planeta**. 
 
 Los entornos más básicos en la web se componen de dos elementos. Una página web que se construye con HTML y con CSS, y un segundo elemento que suele ser código en JavaScript. Veamos en esta sección su significado y sentido dentro de la construcción de una página web. 
 
@@ -865,9 +865,9 @@ Los entornos más básicos en la web se componen de dos elementos. Una página w
 {{|>}}
 *************************************************************************************************************
 
-Con HTML ( HyperText Markup Language), se crean los contenedores en los cuales se distribuyen los distintos tipos de contenidos de una página: contenedor, texto o imagen. 
+Con HTML (HyperText Markup Language), se crean los **contenedores en los cuales se distribuyen los distintos tipos de contenidos** de una página: contenedor, texto o imagen. 
 
-Todos estos elementos pueden estar asociados a clases, para así evitar tener que caracterizar al detalle cada elemento cada vez que lo introducimos. De este modo, se define una clase y todos los elementos vinculados a esa clase tendrán la misma apariencia, bien sean contenedores, tipos y tamaños de texto, o tamaños y opacidades de imágenes. Esto se realiza a través de CSS (Cascading Style Sheets). 
+Todos estos elementos pueden estar asociados a clases, para así evitar tener que caracterizar al detalle cada elemento cada vez que lo introducimos. De este modo, se define una clase y **todos los elementos vinculados a esa clase tendrán la misma apariencia**, bien sean contenedores, tipos y tamaños de texto, o tamaños y opacidades de imágenes. Esto se realiza a través de CSS (Cascading Style Sheets). 
 
 <div class="destacado_caja">
   <div class="destacado_titulo">
@@ -892,7 +892,7 @@ Todos estos elementos pueden estar asociados a clases, para así evitar tener qu
 {{|>}}
 *************************************************************************************************************
 
-La creciente complejidad de las páginas web ha ido demandando lenguajes de programación con más recursos que el HTML, siendo JavaScript uno de los más relevantes. Este lenguaje permite desarrollar estructuras modulares recursivas y componentes reutilizables, lo que facilita  escalar fácilmente los contenidos de una página web. 
+La creciente complejidad de las páginas web ha ido demandando **lenguajes de programación con más recursos** que el HTML, siendo JavaScript uno de los más relevantes. Este lenguaje permite desarrollar **estructuras modulares recursivas y componentes reutilizables**, lo que facilita escalar fácilmente los contenidos de una página web. 
 
 Este lenguaje también ha sido aprovechado para crear elementos visuales que comprenden todos los descritos en la sección de Tipos de Visualización. Sobre su base se han desarrollado diversos entornos y bibliotecas como React, Angular, Vue o Svelte. 
 
@@ -934,9 +934,9 @@ La irrupción de la inteligencia artificial (IA) ha revolucionado la creación d
 {{|>}}
 *************************************************************************************************************
 
-Dada la relativa laboriosidad de crear una página web desde cero, existen entornos ya creados aptos para el desarrollo de visualizaciones que sólo necesitan del código en JavaScript y de los datos en formato CSV o JSON, entre otros. 
+Dada la relativa laboriosidad de crear una página web desde cero, existen entornos ya creados **aptos para el desarrollo de visualizaciones** que sólo necesitan del código en JavaScript y de los datos en formato CSV o JSON, entre otros. 
 
-Una de estas iniciativas es Observable, donde es posible crear visualizaciones en D3.js sin necesidad de crear un servidor local ni de crear una página en HTML y CSS previamente. Funciona a modo de notebook, y cada modificación en el código va seguida de su correspondiente ejecución en una celda destacada del notebook. 
+Una de estas iniciativas es Observable, donde es posible crear **visualizaciones en D3.js** sin necesidad de crear un servidor local ni de crear una página en HTML y CSS previamente. Funciona a modo de notebook, y cada modificación en el código va seguida de su correspondiente ejecución en una celda destacada del propio notebook. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -970,7 +970,6 @@ Una de estas iniciativas es Observable, donde es posible crear visualizaciones e
 *************************************************************************************************************
 
 Indica cuáles de las siguientes afirmaciones sobre la visualización son verdaderas y cuáles falsas.
-
 
 **1) La visualización de datos comienza en la Revolución Industrial con el desarrollo del mundo moderno**
 
@@ -1044,13 +1043,13 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 {{|>}}
 *************************************************************************************************************
 
-> - Desde el origen de la civilización, la visualización de datos ha estado en constante evolución respondiendo a la cantidad y a la variedad de datos que el ser humano ha sido capaz de recopilar. 
+> - Desde el origen de la civilización, la visualización de datos ha estado en **constante evolución** respondiendo a la cantidad y a la variedad de datos que el ser humano ha sido capaz de recopilar. 
 
-> - Durante los últimos dos siglos ha habido una revolución, tanto estética como técnica, esta última gracias al vertiginoso aumento de la capacidad de computación. 
+> - Durante los últimos dos siglos ha habido una revolución, tanto estética como técnica, esta última gracias al vertiginoso aumento de la **capacidad de computación**. 
 
-> - A día de hoy, disponemos de potentes herramientas para representar todo el espectro de visualizaciones necesarias tanto para el ámbito periodístico como empresarial, incluyendo magnitudes, series temporales, nodos y cartografía. 
+> - A día de hoy, disponemos de potentes herramientas para representar todo el espectro de visualizaciones necesarias tanto para el ámbito periodístico como empresarial, incluyendo **magnitudes, series temporales, nodos y cartografía**. 
 
-> - Más allá de esas representaciones, podemos crear entornos web para que esas visualizaciones sean accesibles a todo el mundo, popularizando y diseminando nuestro trabajo de análisis de datos de una forma fácil e intuitiva. 
+> - Más allá de esas representaciones, podemos crear **entornos web** para que esas visualizaciones sean accesibles a todo el mundo, popularizando y diseminando nuestro trabajo de análisis de datos de una forma fácil e intuitiva. 
 
 *************************************************************************************************************
 
