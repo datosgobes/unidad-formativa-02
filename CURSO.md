@@ -477,6 +477,7 @@ Muy popular para datos económicos, el treemap **distribuye un espacio limitado 
 </div>
 
 **Voronoi**
+
 Semejante al treemap, pero utilizando a la inversa el cálculo de Voronoi de los **puntos equidistantes a los límites de un espacio definido por celdas**, o polígonos de Thiessen. De esta forma se distribuye el espacio en celdas cuya superficie es proporcional al valor de cada categoría.  
 
 <div class="ejemplo_caja">
@@ -489,6 +490,7 @@ Semejante al treemap, pero utilizando a la inversa el cálculo de Voronoi de los
 </div>
 
 **Paths**
+
 Gráfico utilizado para representar **trayectorias uniendo puntos mediante líneas** que reflejan el movimiento o la evolución de un fenómeno, ya sea en el espacio o en el tiempo.  Permiten un diseño más creativo a la hora de crear representaciones gráficas, siempre que se guarde un principio de proporcionalidad, bien en la forma o en la gradación de color. 
 
 <div class="ejemplo_caja">
@@ -501,6 +503,7 @@ Gráfico utilizado para representar **trayectorias uniendo puntos mediante líne
 </div>
 
 **Araña**
+
 Gráfico que representa múltiples variables mediante **ejes que se extienden desde un centro común**, formando una figura poligonal que permite visualizar y comparar perfiles o distribuciones de datos de manera global. El polígono resultante de la unión de todos los puntos por eje crea el llamado diagrama de araña, y en determinadas ocasiones se puede otorgar algún significado al volumen resultante del polígono. 
 
 <div class="ejemplo_caja">
@@ -1030,6 +1033,22 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 > Se trata de una superposición de contornos con muchos intervalos discretos. 
 ***
 
+**9) Una página web puede crearse exclusivamente con HTML sin necesidad de CSS o Javascript**
+
+- [(X)] Verdadero
+- [( )] Falso
+***
+> Las primeras páginas en internet sólo contenían HTML.  
+***
+
+**10) Para el desarrollo de visualizaciones en Javascript siempre es necesario instalar un servidor local**
+
+- [(_)] Verdadero
+- [(X)] Falso
+***
+> El desarrollo de notebooks, particularmente en Observable, permite programar en una interfaz web sin necesidad de instalar servidores locales. 
+***
+
 *************************************************************************************************************
 
 <!-- id="resumen" -->
@@ -1047,7 +1066,3 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 > - Más allá de esas representaciones, podemos crear **entornos web** para que esas visualizaciones sean accesibles a todo el mundo, popularizando y diseminando nuestro trabajo de análisis de datos de una forma fácil e intuitiva. 
 
 *************************************************************************************************************
-
-
-*************************************************************************************************************
-
