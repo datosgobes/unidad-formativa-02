@@ -5,17 +5,16 @@ version:  1.0.0
 language: es
 narrator: Spanish Female
 
-comment:  Unidad 01 - Datos abiertos: conceptos básicos y beneficios. Materiales formativos de la Iniciativa Aporta.
+comment:  Unidad 07b - Visualización de datos
 -->
 
-# Unidad 01 - Datos abiertos: conceptos básicos y beneficios
+# Unidad 7b - Visualización de datos
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/assets/img/logo_dge_normal.svg" alt="datos.gob.es" width="300">
 </p>
 
-Recursos didácticos abiertos sobre **datos abiertos**, centrados en los conceptos básicos, principios de apertura y beneficios de la reutilización de datos del sector público. 
-
+Recursos didácticos abiertos sobre **visualización de datos**, centrados en los conceptos básicos, breve historia de la visualización contemporánea, tipos de visualizaciones y herramientas básicas para el desarrollo de visualizaciones.  
 
 [![Abrir en LiaScript](https://img.shields.io/badge/Ver%20curso-Abrir%20en%20LiaScript-brightgreen)](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md)
 [![License: CC-BY 4.0](https://img.shields.io/badge/CC%20BY-4.0-lightgrey?logo=creativecommons)](LICENSE)
@@ -25,11 +24,11 @@ Recursos didácticos abiertos sobre **datos abiertos**, centrados en los concept
 
 Esta unidad formativa aborda:
 
-- Qué son los **datos** y qué los convierte en **datos abiertos**
-- **Licencias abiertas** y condiciones de reutilización
-- Conceptos clave ligados a la publicación: **conjuntos de datos**, **distribuciones**, **metadatos** y **catálogos**
-- Principios de apertura y calidad: **OGD** y **FAIR**
-- Beneficios **económicos**, **sociales** y para la **Administración**
+- Breve historia de la **visualización de datos** contemporánea
+- **Perfiles de trabajo** en visualización de datos
+- Formato de datos en el mundo de la visualización: **CSV**, **TSV**, **TXT** y **JSON**
+- Espectro de visualizaciones contemporáneas, incluyendo **magnitudes**, **series temporales**, **nodos** y **cartografía**
+- Frontales web en **javascript** y **notebooks**
 
 ## Ver la unidad
 
@@ -53,7 +52,6 @@ Los materiales están disponibles en múltiples formatos:
 | **PDF** | Documento en formato pdf | [Descargar](https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf) |
 | **SCORM 2004** | Zip en formato SCORM | [Descargar](https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip) |
 | **IMS** | Zip en formato IMS| [Descargar](https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/ims-unidad-formativa-01.zip) |
-
 
 ## ¿Cómo usar estos materiales?
 
