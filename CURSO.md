@@ -101,19 +101,19 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
    - Impacto social y empresarial de la visualización
    - Perfil del desarrollador de visualizaciones de datos
 2. Tipos y herramientas
-   2.1 Formatos de datos para visualización
-    - CSV, TSV, TXT
-    - JSON
-    - GoogleSheets
-	2.2 Tipos de visualizaciones
-	- Magnitudes
-	- Series Temporales
- 	- Redes y Jerarquías
- 	- Cartografía y Mapas
+2.1 Formatos de datos para visualización
+   - CSV, TSV, TXT
+   - JSON
+   - GoogleSheets
+2.2 Tipos de visualizaciones
+   - Magnitudes
+   - Series Temporales
+   - Redes y Jerarquías
+   - Cartografía y Mapas
 3. Frontales web
-   3.1 HTML y CSS
-	3.2 Javascript
-   3.3 Observable
+3.1 HTML y CSS
+3.2 Javascript
+3.3 Observable
       </div>
     </div>
   </div>
@@ -134,9 +134,7 @@ El desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha d
 	</div>
 	<div class="ejemplo_contenido">
 El proyecto ShowYourStripes aborda el incremento de la temperatura a través de líneas de color. Este proyecto cuenta con representación en todo tipo de soportes más allá de los digitales. 
-
-[Show your stripes](https://showyourstripes.info/showcase )
-
+[Show your stripes](https://showyourstripes.info/showcase )<!-- style="target: _blank" -->
 	</div>
 </div>
 
@@ -455,7 +453,7 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias:
 
 Las magnitudes hacen referencia a **conjuntos de valores discretos e independientes**, que no están vinculados por una dimensión temporal ni están jerarquizados. Suelen ser datos que se presentan asociados a un número determinado de categorías. 
 
-**Burbujas**
+##### Burbujas
 Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesiano**. La independencia de esos ejes, gracias a herramientas modernas para calcular posiciones relativas, ha hecho de los diagramas de burbujas una propuesta muy atractiva, ya que permite añadir dimensiones de información, no sólo al radio, sino también al color o a la transparencia. 
 
 <div class="ejemplo_caja">
@@ -464,8 +462,6 @@ Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesi
 	</div>
 	<div class="ejemplo_contenido">
 			<center>![Diagrama de burbujas.](media/UD07_Bubbles.png "Figura 8. Diagrama de burbujas. Fuente: [https://yotka.org/missing-migrants/] ")</center>
-		
-    ( )
 	</div>
 </div>
 
@@ -501,7 +497,7 @@ Gráfico utilizado para representar **trayectorias uniendo puntos mediante líne
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Paths](media/UD07_Paths.png "Figura 11. Paths. Fuente: [https://www.behance.net/gallery/121178815/Land-Defenders] ")</center>
+			<center>![Paths](media/UD07_Path.png "Figura 11. Paths. Fuente: [https://www.behance.net/gallery/121178815/Land-Defenders] ")</center>
 	</div>
 </div>
 
@@ -577,7 +573,7 @@ El **scroll vertical de los dispositivos digitales** ha permitido la creación d
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Ejes verticales](media/UD07_Vertical.png "Figura 14. Ejes verticales. Fuente: [https://www.visualcinnamon.com/portfolio/sciam-satellite-surge/]")</center>
+			<center>![Ejes verticales](media/UD07_Vertical.jpg "Figura 14. Ejes verticales. Fuente: [https://www.visualcinnamon.com/portfolio/sciam-satellite-surge/]")</center>
 	</div>
 </div>
 
@@ -590,7 +586,7 @@ Siguiendo la tradición más oriental y redundando en la recursividad del tiempo
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-					<center>![Ejes radiales](media/UD07_Radial.png "Figura 15. Ejes radialess. Fuente: [https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets ]")</center>
+					<center>![Ejes radiales](media/UD07_Radial.jpg "Figura 15. Ejes radialess. Fuente: [https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets ]")</center>
 	</div>
 </div>
 
@@ -680,7 +676,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-				<center>![Nodos radiales](media/UD07_Nodes_Arc.png "Figura 18. Nodos radiales. Fuente: [how-dogs-evolved] (https://www.fastcompany.com/3025003/how-dogs-evolved )")</center>
+				<center>![Nodos radiales](media/UD07_Arc.png "Figura 18. Nodos radiales. Fuente: [how-dogs-evolved] (https://www.fastcompany.com/3025003/how-dogs-evolved )")</center>
 	</div>
 </div>
 
@@ -754,7 +750,7 @@ La división del territorio en márgenes y límites de diversa índole, tales co
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Coropletas](media/UD07_Coropletas.png "Figura 21. Coropletas. Fuente: [Reuters] (https://www.reuters.com/graphics/GERMANY-ELECTION/RESULTS/movaynkgova/ )")</center>
+			<center>![Coropletas](media/UD07_Choro.png "Figura 21. Coropletas. Fuente: [Reuters] (https://www.reuters.com/graphics/GERMANY-ELECTION/RESULTS/movaynkgova/ )")</center>
 	</div>
 </div>
 
@@ -780,7 +776,7 @@ La **interpolación entre valores adyacentes** en una superficie permite crear c
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		<center>![Contornos](media/UD07_Contours.png "Figura 23. Contornos. Fuente: [ABC30]  (https://abc30.com/post/central-california-map-fire-sierra-nevada-wildfire-danger/10843964/ )")</center>
+		<center>![Contornos](media/UD07_Contour.png "Figura 23. Contornos. Fuente: [ABC30]  (https://abc30.com/post/central-california-map-fire-sierra-nevada-wildfire-danger/10843964/ )")</center>
 	</div>
 </div>
 
@@ -806,7 +802,7 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-						<center>![Agrupaciones](media/UD07_3D.png "Figura. Agrupaciones. Fuente: [Moritz Stefaner] (https://truth-and-beauty.net/projects/achingenzell )")</center>
+						<center>![Agrupaciones](media/UD07_Hexbin.png "Figura. Agrupaciones. Fuente: [Moritz Stefaner] (https://truth-and-beauty.net/projects/achingenzell )")</center>
 	</div>
 </div>
 
