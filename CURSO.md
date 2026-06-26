@@ -453,7 +453,8 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias:
 
 Las magnitudes hacen referencia a **conjuntos de valores discretos e independientes**, que no están vinculados por una dimensión temporal ni están jerarquizados. Suelen ser datos que se presentan asociados a un número determinado de categorías. 
 
-##### Burbujas
+**Burbujas**
+
 Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesiano**. La independencia de esos ejes, gracias a herramientas modernas para calcular posiciones relativas, ha hecho de los diagramas de burbujas una propuesta muy atractiva, ya que permite añadir dimensiones de información, no sólo al radio, sino también al color o a la transparencia. 
 
 <div class="ejemplo_caja">
@@ -466,6 +467,7 @@ Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesi
 </div>
 
 **Treemap**
+
 Muy popular para datos económicos, el treemap **distribuye un espacio limitado en parcelas** cuyo tamaño es proporcional a la magnitud en estudio. De esta forma es directamente comparable el valor de diferentes categorías y es posible explorar  el color como otro eje de información adicional. 
 
 <div class="ejemplo_caja">
