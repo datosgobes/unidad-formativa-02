@@ -206,13 +206,13 @@ Con el avance científico, matemático y estadístico en los siglos posteriores 
 Ejemplos: 
 
 Trabajos como los de Florence Nightingale, con todo su análisis estadístico de **mortandad en la guerra de Crimea**.
-<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.png "Figura. Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.png "Figura 3. Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
-Charles Minard describiendo la sangrienta **campaña en el frente ruso** de las tropas napoleónicas
-<center>! Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869.](media/UD07_Minard.png "Figura. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+Charles Minard describiendo la sangrienta **campaña en el frente ruso** de las tropas napoleónicas.
+<center>![Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869](media/UD07_Minard.png "Figura 4. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
 W.E.B. duBois y sus estadísticas de la **realidad socioeconómica de la población afroamericana** tras la ilegalización de la esclavitud.
-<center>![Figura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900.](media/UD07_DuBois.png "Figura 5. Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900](media/UD07_DuBois.png "Figura 5. Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
 Todos ellos pusieron la visualización a otro nivel, tanto en lo relativo al **rigor numérico y citación de fuentes** como en la adopción de una **aproximación gráfica y estética absolutamente rupturista** con el clasicismo de los ejes cartesianos de los siglos anteriores.
 
@@ -246,18 +246,18 @@ La revolución digital ha traído consigo,no solo el **desarrollo de potentes he
 {{|>}}
 *************************************************************************************************************
 
-Como hemos visto, el ámbito en el cual se han desarrollado proyectos de visualización ha pasado de ser un nicho ligado a contextos primitivos de localización astronómica a una omnipresencia tanto en Internet como en la prensa escrita. 
+Como hemos visto, el ámbito en el cual se han desarrollado proyectos de visualización ha pasado de ser un nicho ligado a contextos primitivos de localización astronómica a una **omnipresencia tanto en Internet como en la prensa escrita**. 
 
-Tradicionalmente, el ámbito periodístico y social ha sido el motor para el desarrollo de esta disciplina, interesada en transmitir de forma rápida e intuitiva información relevante que debe ser comprendida en poco tiempo por lectores no necesariamente  dispuestos a leer artículos de texto. 
+Tradicionalmente, **el ámbito periodístico y social ha sido el motor** para el desarrollo de esta disciplina, interesada en transmitir de forma rápida e intuitiva información relevante que debe ser comprendida en poco tiempo por lectores no necesariamente  dispuestos a leer artículos de texto. 
 
-De todos esos avances se ha beneficiado el mundo empresarial, una vez que la cantidad de datos a manejar ha crecido exponencialmente y la representación de la realidad corporativa ya no se podía realizarse de forma estrictamente oral o convencional a través de informes únicamente de texto. El propio interés empresarial ha permitido el desarrollo de herramientas muy potentes para visualización, tanto a nivel cartográfico (Google Earth, KeplerGL) comoen formas más básicas de representación. 
+De todos esos avances se ha beneficiado el mundo empresarial, una vez que **la cantidad de datos a manejar ha crecido exponencialmente** y la representación de la realidad corporativa ya no se podía realizarse de forma estrictamente oral o convencional a través de informes únicamente de texto. El propio interés empresarial ha permitido **el desarrollo de herramientas muy potentes para visualizació**n, tanto a nivel cartográfico (Google Earth, KeplerGL) como en formas más básicas de representación. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Kpler, empresa que monitoriza el movimiento de materias primas y derivados de combustibles fósiles a través del transporte marítimo por todo el planeta, se ha erigido como una referencia a la hora de representar grandes cantidades de datos visualmente de forma innovadora, individualizando trayectorias de cargueros en alta mar, así como representando cantidades derivadas de volúmenes transportados. 
+Kpler, empresa que monitoriza el movimiento de materias primas y derivados de combustibles fósiles a través del transporte marítimo por todo el planeta, se ha erigido como una **referencia a la hora de representar grandes cantidades de datos visualmente** de forma innovadora, individualizando **trayectorias de cargueros** en alta mar, así como representando **cantidades derivadas de volúmenes transportados**. 
 	</div>
 </div>
 
@@ -268,66 +268,65 @@ Kpler, empresa que monitoriza el movimiento de materias primas y derivados de co
 {{|>}}
 *************************************************************************************************************
 
-El trabajo de visualización de datos implica el conocimiento de muchas disciplinas, sin que haya una jerarquía establecida o preferente para cada una de ellas. Al final, lo que cuenta es la audiencia para la cual se realiza ese trabajo de visualización. Y esa audiencia es la que decide qué peso relativo tienen el análisis, las formas, la interactividad y la forma de publicitar la visualización y sobre qué soporte. 
+El trabajo de visualización de datos **implica el conocimiento de muchas disciplinas**, sin que haya una jerarquía establecida o preferente para cada una de ellas. Al final, lo que cuenta es la audiencia para la cual se realiza ese trabajo de visualización. Y esa audiencia es la que decide qué peso relativo tienen el análisis, las formas, la interactividad y la forma de publicitar la visualización y sobre qué soporte. 
 
 Trabajar en visualización de datos implica: 
 
-- Análisis de datos: con mucha frecuencia, y casi en la totalidad de casos, la visualización nunca es un camino de una sola dirección. Disponer de la información de forma gráfica siempre despierta nuevas cuestiones y preguntas a resolver querequieren volver al análisis de datos para refinar, acotar, o recalcular métricas de interés. El visualizador de datos no sólo debe saber "dibujar", sino también comprender numérica y estadísticamente cuál es el mensaje que se desea transmitir. 
+- **Análisis de datos**: con mucha frecuencia, y casi en la totalidad de casos, la visualización nunca es un camino de una sola dirección. Disponer de la información de forma gráfica siempre despierta nuevas cuestiones y preguntas a resolver querequieren volver al análisis de datos para refinar, acotar, o recalcular métricas de interés. El visualizador de datos no sólo debe saber "dibujar", sino también comprender numérica y estadísticamente cuál es el mensaje que se desea transmitir. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Kiko Llaneras </br>
-https://kiko.llaneras.es/ 
+		[Kiko Llaneras]((https://kiko.llaneras.es/)<!-- style="target: _blank" -->
 	</div>
 </div>
 
-- Geometría: la elección de las formas más adecuadas para la descripción de datos de forma gráfica es fundamental. Estas formas suelen seguir patrones geométricos que es importante conocer desde un punto de vista matemático para conocer sus posibilidades . La visualización debe poder soportar todo el espectro de datos que manejamos, por lo que resulta importante  adaptar la geometría a los mínimos y máximos.
+- **Geometría**: la elección de las formas más adecuadas para la descripción de datos de forma gráfica es fundamental. Estas formas suelen seguir patrones geométricos que es importante conocer desde un punto de vista matemático para conocer sus posibilidades . La visualización debe poder soportar todo el espectro de datos que manejamos, por lo que resulta importante  adaptar la geometría a los mínimos y máximos.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Philippe Riviere</br>
+Philippe Riviere
 https://observablehq.com/@fil 
 	</div>
 </div>
 
-- Diseño gráfico: la estética, tanto de formas como de colores, es una moda y está estrechamente ligada al momento cultural en el que se vive. El conocimiento de determinados códigos visuales, así como la interpretación de cada sociedad sobre el significado de los colores juegan un papel muy importante en el diseño de visualizaciones de datos.
+- **Diseño gráfico**: la estética, tanto de formas como de colores, es una moda y está estrechamente ligada al momento cultural en el que se vive. El conocimiento de determinados códigos visuales, así como la interpretación de cada sociedad sobre el significado de los colores juegan un papel muy importante en el diseño de visualizaciones de datos.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Álvaro Valiño</br>
+Álvaro Valiño
 		https://www.alvarovalino.com/ 
 	</div>
 </div>
 
-- Periodismo: todo proyecto de visualización de datos se enmarca dentro de una narrativa. Esta narrativa obedece  a criterios periodísticos a la hora de maquetar y redactar todo lo referente a la visualización. La historia debe fluir y debe ser igualmente rigurosa a la hora crear todos los contenidos alrededor del elemento gráfico.
+- **Periodismo**: todo proyecto de visualización de datos se enmarca dentro de una narrativa. Esta narrativa obedece  a criterios periodísticos a la hora de maquetar y redactar todo lo referente a la visualización. La historia debe fluir y debe ser igualmente rigurosa a la hora crear todos los contenidos alrededor del elemento gráfico.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
- Artur Galocha</br>https://arturgalocha.com/</br>
- Ferrán Morales</br>https://ferranmorales.com/about-me/
+ Artur Galocha https://arturgalocha.com/
+ Ferrán Morales https://ferranmorales.com/
 	</div>
 </div>
 
-  - Desarrollo Web: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan crear y difundir esas piezas gráficas en los formatos digitales conocidos actualmente. Soluciones y prototipos pueden, a veces, no ser realistas a la hora de implementarlos en un frontal web, bien sea por la cantidad de puntos a representar o bien por una respuesta o interactividad que los navegadores no son capaces de seguir, por poner dos ejemplos. 
+  - **Desarrollo Web**: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan crear y difundir esas piezas gráficas en los formatos digitales conocidos actualmente. Soluciones y prototipos pueden, a veces, no ser realistas a la hora de implementarlos en un frontal web, bien sea por la cantidad de puntos a representar o bien por una respuesta o interactividad que los navegadores no son capaces de seguir, por poner dos ejemplos. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
- Nikita Rokotyan</br>
+ Nikita Rokotyan
 		https://rokotyan.com/
 	</div>
 </div>
