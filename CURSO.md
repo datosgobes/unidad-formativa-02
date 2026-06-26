@@ -279,7 +279,7 @@ Trabajar en visualización de datos implica:
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		[Kiko Llaneras]((https://kiko.llaneras.es/)<!-- style="target: _blank" -->
+		[Kiko Llaneras](https://kiko.llaneras.es/)<!-- style="target: _blank" -->
 	</div>
 </div>
 
@@ -290,8 +290,7 @@ Trabajar en visualización de datos implica:
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Philippe Riviere
-https://observablehq.com/@fil 
+		[Philippe Riviere](https://observablehq.com/@fil)<!-- style="target: _blank" -->
 	</div>
 </div>
 
@@ -302,8 +301,7 @@ https://observablehq.com/@fil
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Álvaro Valiño
-		https://www.alvarovalino.com/ 
+		[Álvaro Valiño](https://www.alvarovalino.com/)<!-- style="target: _blank" -->
 	</div>
 </div>
 
@@ -314,8 +312,8 @@ https://observablehq.com/@fil
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
- Artur Galocha https://arturgalocha.com/
- Ferrán Morales https://ferranmorales.com/
+ 		[Artur Galocha](https://arturgalocha.com/)<!-- style="target: _blank" -->
+ 		[Ferrán Morales](https://ferranmorales.com/)<!-- style="target: _blank" -->
 	</div>
 </div>
 
@@ -326,8 +324,7 @@ https://observablehq.com/@fil
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
- Nikita Rokotyan
-		https://rokotyan.com/
+ 		[Nikita Rokotyan](https://rokotyan.com/)<!-- style="target: _blank" -->
 	</div>
 </div>
 
