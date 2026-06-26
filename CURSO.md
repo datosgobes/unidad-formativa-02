@@ -164,69 +164,69 @@ El proyecto ShowYourStripes aborda el incremento de la temperatura a través de 
 <!-- id="historia_0" -->
 ## Introducción
 
-### Breve historia de la visualización de datos
+### Breve historia de la visualización de datos I
 
 {{|>}}
 *************************************************************************************************************
 
-La visualización existe probablemente desde antes incluso del desarrollo de la escritura y de los primeros sistemas alfabéticos por la humanidad. La representación de las estrellas en el firmamento, y, posteriormente, el desarrollo de cartografías en el plano terrestre fueron probablemente las primeras trazas de visualización que desarrolló el ser humano. 
+La visualización existe probablemente desde **antes incluso del desarrollo de la escritura** y de los primeros sistemas alfabéticos por la humanidad. La representación de las estrellas en el firmamento, y, posteriormente, el desarrollo de cartografías en el plano terrestre fueron probablemente las **primeras trazas de visualización** que desarrolló el ser humano. 
 
-Ejemplo: En la Figura 1 se puede observar la distribución de estrellas de la constelación de Pegaso realizada por Johann Bayer en 1603, un ejemplo que recoge la práctica milenaria de referenciarnos dentro del espacio y el universo. 
+Ejemplo: En la Figura 1 se puede observar la distribución de estrellas de la constelación de Pegaso realizada por Johann Bayer en 1603, un ejemplo que recoge la práctica milenaria de referenciarnos dentro del espacio y del universo. 
 
-<center>![Johann Bayer, Uranometría, 1603](media/UD07_Bayer.jpg "Figura. Johann Bayer, Uranometría, 1603. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Johann Bayer, Uranometría, 1603](media/UD07_Bayer.jpg "Figura 1. Johann Bayer, Uranometría, 1603. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
 *************************************************************************************************************
 
 <!-- id="historia_1" -->
 
-### Breve historia de la visualización de datos
+### Breve historia de la visualización de datos II
 
 {{|>}}
 *************************************************************************************************************
 
-La observación astronómica trae consigo, de hecho, uno de los mayores giros conceptuales en la percepción que ha hecho el ser humano del conocimiento.
+La observación astronómica trae consigo, de hecho, uno de los **mayores giros conceptuales** en la percepción que ha hecho el ser humano del conocimiento.
 
-Ejemplo: En 1694 Galileo Galilei publica su obra sobre la posición de las estrellas no visibles a simple vista gracias al uso de telescopios, al comienzo del desarrollo y uso de tales artilugios (Figura 2). 
+Ejemplo: En 1694 Galileo Galilei publica su obra sobre la posición de las estrellas no visibles a simple vista gracias al uso del telescopio, al comienzo del desarrollo y uso de tales artilugios (Figura 2). 
 
-La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de Oculata Certitudine, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, la verdad queda vinculada explícitamente al sentido visual. 
+La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 
 
-<center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura.Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura 2. Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
 *************************************************************************************************************
 
 <!-- id="historia_2" -->
 
-### Breve historia de la visualización de datos
+### Breve historia de la visualización de datos III
 
 {{|>}}
 *************************************************************************************************************
 
-Con el avance científico, matemático y estadístico en los siglos posteriores se llega a creación de las primeras tablas en formato impreso, ricas en contenido, pero difíciles de interpretar a simple vista.Es en ese momento cuando surge la visualización moderna, utilizando los ejes cartesianos X e Y para la representación de información. No será hasta la segunda mitad del siglo XIX cuando la visualización contemporánea, tal y como la conocemos, comienza a consolidarse. 
+Con el avance científico, matemático y estadístico en los siglos posteriores se llega a creación de las **primeras tablas en formato impreso**, ricas en contenido, pero **difíciles de interpretar** a simple vista.Es en ese momento cuando surge la visualización moderna, utilizando los ejes cartesianos X e Y para la representación de información. No será hasta la **segunda mitad del siglo XIX** cuando la visualización contemporánea, tal y como la conocemos, comienza a consolidarse. 
 
 Ejemplos: 
 
-Trabajos como los de Florence Nightingale, con todo su análisis estadístico de mortandad en la guerra de Crimea
-<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.jpg "Figura.Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+Trabajos como los de Florence Nightingale, con todo su análisis estadístico de **mortandad en la guerra de Crimea**.
+<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.png "Figura. Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
-Charles Minard describiendo la sangrienta campaña en el frente ruso de las tropas napoleónicas
-<center>! Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869.](media/UD07_Minard.jpg "Figura. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+Charles Minard describiendo la sangrienta **campaña en el frente ruso** de las tropas napoleónicas
+<center>! Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869.](media/UD07_Minard.png "Figura. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
-W.E.B. duBois y sus estadísticas de la realidad socioeconómica de la población afroamericana tras la ilegalización de la esclavitud.
-<center>![Figura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900.](media/UD07_DuBois.jpg "FiguraFigura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+W.E.B. duBois y sus estadísticas de la **realidad socioeconómica de la población afroamericana** tras la ilegalización de la esclavitud.
+<center>![Figura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900.](media/UD07_DuBois.png "Figura 5. Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
-Todos ellos pusieron la visualización a otro nivel, tanto en lo relativo al rigor numérico y citación de fuentes como en la adopción de una aproximación gráfica y estética absolutamente rupturista con el clasicismo de los ejes cartesianos de los siglos anteriores.
+Todos ellos pusieron la visualización a otro nivel, tanto en lo relativo al **rigor numérico y citación de fuentes** como en la adopción de una **aproximación gráfica y estética absolutamente rupturista** con el clasicismo de los ejes cartesianos de los siglos anteriores.
 
 
 *************************************************************************************************************
 
 <!-- id="historia_3" -->
 
-### Breve historia de la visualización de datos
+### Breve historia de la visualización de datos IV
 
 {{|>}}
 *************************************************************************************************************
 
-De esta forma se llega al siglo XX, donde las grandes tiradas de prensa popularizan definitivamente el uso de la visualización de datos y ésta pasa a formar parte de muchas de las narrativas periodísticas. El siglo XXI trae consigo la irrupción de Internet y el aumento de la capacidad de cálculo de los circuitos integrados basados en materiales semiconductores, ofreciendo potentes herramientas tanto de análisis como de visualización desplegando un universo de posibilidades impensables hace unas décadas, tanto de volumen de datos como de creatividad. 
+De esta forma se llega al siglo XX, donde las **grandes tiradas de prensa popularizan definitivamente el uso de la visualización de datos** y ésta pasa a formar parte de muchas de las narrativas periodísticas. El siglo XXI trae consigo la irrupción de Internet y el aumento de la capacidad de cálculo de los circuitos integrados basados en materiales semiconductores, ofreciendo potentes herramientas tanto de análisis como de visualización desplegando un universo de posibilidades impensables hace unas décadas, tanto de volumen de datos como de creatividad. 
 
   <div class="aviso_caja">
 	<div class="aviso_titulo">
@@ -234,7 +234,7 @@ De esta forma se llega al siglo XX, donde las grandes tiradas de prensa populari
 	</div>
 	<div class="aviso_contenido">
 		
-La revolución digital ha traído consigo,no solo el desarrollo de potentes herramientas de cálculo y diseño, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha predispuesto a los usuarios a consumir información visual por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con un público habituado a consumir información visual. 
+La revolución digital ha traído consigo,no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**. 
 	</div>
 </div>
 
