@@ -60,7 +60,7 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
 <div class="presentacion_contenedor">
   
   <div class="presentacion_fila">
-    <div class="caja-icono">📌</div><div class="caja-texto"><span class="etiqueta">Título:</span> Tipos y herramientas para la visualización de datos. </div>
+    <div class="caja-icono">📌</div><div class="caja-texto"><span class="etiqueta">Título:</span> Tipos y herramientas para la  <b>visualización de datos </b>. </div>
   </div>
 
   <div class="presentacion_fila">
@@ -75,7 +75,7 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
 
   <div class="presentacion_fila">
     <div class="caja-icono">🎓</div><div class="caja-texto"><span class="etiqueta">Conocimientos previos:</span>
-		Esta unidad didáctica arranca desde los principios básicos de la visualización por lo cual puede ser seguida adecuadamente por cualquier usuario. No obstante, para el tratamiento de datos inicial, <b>el manejo de un lenguaje de programación como R o Python es recomendable</b>. Para la creación de proyectos de visualización se ofrecen toda una serie de herramientas desde muy básicas a más complejas. Asimismo, la <b>familiaridad con lenguajes como JavaScript puede ayudar para el desarrollo de visualizaciones y frontales web </b>que alberguen esas visualizaciones.</div>
+		Esta unidad didáctica arranca desde los principios básicos de la visualización por lo cual puede ser seguida adecuadamente por cualquier usuario. No obstante, para el tratamiento de datos inicial, <b>el manejo de un lenguaje de programación como R o Python es recomendable</b>. Para la creación de proyectos de visualización se ofrecen toda una serie de herramientas desde muy básicas a más complejas. Asimismo, la <b>familiaridad con lenguajes como JavaScript puede ayudar para el desarrollo de visualizaciones y frontales web</b> que alberguen esas visualizaciones.</div>
   </div>
 
   <div class="presentacion_columna">
@@ -131,7 +131,7 @@ El desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha d
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-El proyecto <a href=https://showyourstripes.info/showcase" target="_blank" rel="noopener">ShowYourStripes</a> aborda el incremento de la temperatura a través de líneas de color. Este proyecto cuenta con representación en todo tipo de soportes más allá de los digitales. 
+El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel="noopener">ShowYourStripes</a> aborda el incremento de la temperatura a través de líneas de color. Este proyecto cuenta con representación en todo tipo de soportes más allá de los digitales. 
 	</div>
 </div>
 
