@@ -159,7 +159,20 @@ El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel=
 <!-- id="historia_0" -->
 ## Introducción
 
-En esta sección se realiza un breve recorrido por la historia de la visualización de datos, desde las primeras formas de representar mapas y cartografías hasta los recientes avances tecnológicos que han permitido su popularización. Y gracias a esa difusión se detallan igualmente los aspectos más relevantes que han permitido su integración tanto en el mundo de la prensa como en el mundo empresarial. Finalmente se especifican todas las áreas profesionales que cubren el proceso de desarrollo de un proyecto de visualización, desde su concepción gráfica hasta su implementación en un entorno web. 
+En esta sección se realiza un **breve recorrido por la historia** de la visualización de datos, desde las primeras formas de representar mapas y cartografías hasta los recientes avances tecnológicos que han permitido su popularización. Así, se divide la historia en dos períodos:
+
+- **La astronomía y el origen de la visualización**
+- **La revolución del siglo XIX en la visualización contemporánea**
+
+La difusión contemporánea de la visualización nos permite destacar los aspectos más relevantes que han permitido su **integración tanto en el mundo de la prensa como en el mundo empresarial**. 
+
+Finalmente se especifican **todas las áreas profesionales** que cubren el proceso de desarrollo de un proyecto de visualización, desde su concepción gráfica hasta su implementación en un entorno web, entre los que se encuentran:
+
+- Análisis de datos
+- Geometría
+- Diseño gráfico
+- Periodismo
+- Desarrollo web
 
 ### Breve historia de la visualización de datos: La astronomía y el origen de la visualización 
 
@@ -287,7 +300,7 @@ Como hemos visto, el ámbito en el cual se han desarrollado proyectos de visuali
 
 Tradicionalmente, **el ámbito periodístico y social ha sido el motor** para el desarrollo de esta disciplina, interesada en transmitir de forma rápida e intuitiva información relevante que debe ser comprendida en poco tiempo por lectores no necesariamente  dispuestos a leer artículos de texto. 
 
-De todos esos avances se ha beneficiado el mundo empresarial, una vez que **la cantidad de datos a manejar ha crecido exponencialmente** y la representación de la realidad corporativa ya no se podía realizarse de forma estrictamente oral o convencional a través de informes únicamente de texto. El propio interés empresarial ha permitido **el desarrollo de herramientas muy potentes para visualizació**n, tanto a nivel cartográfico (Google Earth, KeplerGL) como en formas más básicas de representación. 
+De todos esos avances se ha beneficiado el mundo empresarial, una vez que **la cantidad de datos a manejar ha crecido exponencialmente** y la representación de la realidad corporativa ya no se podía realizarse de forma estrictamente oral o convencional a través de informes únicamente de texto. El propio interés empresarial ha permitido **el desarrollo de herramientas muy potentes para visualización**, tanto a nivel cartográfico (Google Earth, KeplerGL) como en formas más básicas de representación. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -311,21 +324,13 @@ Trabajar en visualización de datos implica:
 
 - **Análisis de datos**: con mucha frecuencia, y casi en la totalidad de casos, la visualización nunca es un camino de una sola dirección. Disponer de la información de forma gráfica siempre despierta nuevas cuestiones y preguntas a resolver querequieren volver al análisis de datos para refinar, acotar, o recalcular métricas de interés. El visualizador de datos no sólo debe saber "dibujar", sino también comprender numérica y estadísticamente cuál es el mensaje que se desea transmitir. 
 
-
 - **Geometría**: la elección de las formas más adecuadas para la descripción de datos de forma gráfica es fundamental. Estas formas suelen seguir patrones geométricos que es importante conocer desde un punto de vista matemático para conocer sus posibilidades . La visualización debe poder soportar todo el espectro de datos que manejamos, por lo que resulta importante  adaptar la geometría a los mínimos y máximos.
-
-
 
 - **Diseño gráfico**: la estética, tanto de formas como de colores, es una moda y está estrechamente ligada al momento cultural en el que se vive. El conocimiento de determinados códigos visuales, así como la interpretación de cada sociedad sobre el significado de los colores juegan un papel muy importante en el diseño de visualizaciones de datos.
 
-
-
 - **Periodismo**: todo proyecto de visualización de datos se enmarca dentro de una narrativa. Esta narrativa obedece  a criterios periodísticos a la hora de maquetar y redactar todo lo referente a la visualización. La historia debe fluir y debe ser igualmente rigurosa a la hora crear todos los contenidos alrededor del elemento gráfico.
 
-
-
   - **Desarrollo Web**: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan crear y difundir esas piezas gráficas en los formatos digitales conocidos actualmente. Soluciones y prototipos pueden, a veces, no ser realistas a la hora de implementarlos en un frontal web, bien sea por la cantidad de puntos a representar o bien por una respuesta o interactividad que los navegadores no son capaces de seguir, por poner dos ejemplos. 
-
 
 
 *************************************************************************************************************
@@ -334,7 +339,20 @@ Trabajar en visualización de datos implica:
 <!-- id="tipos_0" -->
 ## Tipos y Herramientas
 
-En esta sección abordaremos la definición de los elementos necesarios para la realización de proyectos de visualización, desde el formato de los datos hasta las herramientas de acceso libre y gratuito para su realización. 
+En esta sección abordaremos la definición de **los elementos necesarios** para la realización de proyectos de visualización, desde el formato de los datos hasta las herramientas de acceso libre y gratuito para su realización. 
+
+En la primera parte se explican las **definiciones y estructura de los formatos de datos** más populares y de uso más frecuente dentro del desarrollo de proyectos de visualización. En concreto estos formatos son: 
+
+- CSV, TSV y TXT
+- JSON
+- GoogleSheets
+
+Dentro de los tipos de visualizaciones, se detallan los elementos que constituyen **las cuatro grandes familias de visualización contemporánea** y dentro de las cuales se agrupan la mayoría de las visualizaciones que podemos desarrollar. Igualmente, las **visualizaciones que vemos día a día** tanto en los entornos de prensa como corporativos pueden asociarse a alguna de estas familias, ofreciendo **diferentes posibilidades para representar los datos** de forma diferente. Estas familias son: 
+
+- Magnitudes
+- Series temporales
+- Nodos y jerarquías
+- Mapas y cartografía
 
 ### Formatos de datos para visualización
 
@@ -367,7 +385,7 @@ Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Co
 
 *************************************************************************************************************
 
-<!-- id="tipos_1" -->
+<!-- id="tipos_2" -->
 
 #### JSON
 
@@ -387,7 +405,7 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 
 *************************************************************************************************************
 
-<!-- id="tipos_2" -->
+<!-- id="tipos_3" -->
 
 #### GoogleSheets
 
