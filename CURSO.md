@@ -329,59 +329,22 @@ Trabajar en visualización de datos implica:
 
 - **Análisis de datos**: con mucha frecuencia, y casi en la totalidad de casos, la visualización nunca es un camino de una sola dirección. Disponer de la información de forma gráfica siempre despierta nuevas cuestiones y preguntas a resolver querequieren volver al análisis de datos para refinar, acotar, o recalcular métricas de interés. El visualizador de datos no sólo debe saber "dibujar", sino también comprender numérica y estadísticamente cuál es el mensaje que se desea transmitir. 
 
-<div class="ejemplo_caja">
-	<div class="ejemplo_titulo">
-		💡 Ejemplo
-	</div>
-	<div class="ejemplo_contenido">
-		[Kiko Llaneras](https://kiko.llaneras.es/)<!-- style="target: _blank" -->
-	</div>
-</div>
 
 - **Geometría**: la elección de las formas más adecuadas para la descripción de datos de forma gráfica es fundamental. Estas formas suelen seguir patrones geométricos que es importante conocer desde un punto de vista matemático para conocer sus posibilidades . La visualización debe poder soportar todo el espectro de datos que manejamos, por lo que resulta importante  adaptar la geometría a los mínimos y máximos.
 
-<div class="ejemplo_caja">
-	<div class="ejemplo_titulo">
-		💡 Ejemplo
-	</div>
-	<div class="ejemplo_contenido">
-		[Philippe Riviere](https://observablehq.com/@fil)<!-- style="target: _blank" -->
-	</div>
-</div>
+
 
 - **Diseño gráfico**: la estética, tanto de formas como de colores, es una moda y está estrechamente ligada al momento cultural en el que se vive. El conocimiento de determinados códigos visuales, así como la interpretación de cada sociedad sobre el significado de los colores juegan un papel muy importante en el diseño de visualizaciones de datos.
 
-<div class="ejemplo_caja">
-	<div class="ejemplo_titulo">
-		💡 Ejemplo
-	</div>
-	<div class="ejemplo_contenido">
-		[Álvaro Valiño](https://www.alvarovalino.com/)<!-- style="target: _blank" -->
-	</div>
-</div>
+
 
 - **Periodismo**: todo proyecto de visualización de datos se enmarca dentro de una narrativa. Esta narrativa obedece  a criterios periodísticos a la hora de maquetar y redactar todo lo referente a la visualización. La historia debe fluir y debe ser igualmente rigurosa a la hora crear todos los contenidos alrededor del elemento gráfico.
 
-<div class="ejemplo_caja">
-	<div class="ejemplo_titulo">
-		💡 Ejemplo
-	</div>
-	<div class="ejemplo_contenido">
- 		[Artur Galocha](https://arturgalocha.com/)<!-- style="target: _blank" -->
- 		[Ferrán Morales](https://ferranmorales.com/)<!-- style="target: _blank" -->
-	</div>
-</div>
+
 
   - **Desarrollo Web**: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan crear y difundir esas piezas gráficas en los formatos digitales conocidos actualmente. Soluciones y prototipos pueden, a veces, no ser realistas a la hora de implementarlos en un frontal web, bien sea por la cantidad de puntos a representar o bien por una respuesta o interactividad que los navegadores no son capaces de seguir, por poner dos ejemplos. 
 
-<div class="ejemplo_caja">
-	<div class="ejemplo_titulo">
-		💡 Ejemplo
-	</div>
-	<div class="ejemplo_contenido">
- 		[Nikita Rokotyan](https://rokotyan.com/)<!-- style="target: _blank" -->
-	</div>
-</div>
+
 
 *************************************************************************************************************
 
