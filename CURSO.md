@@ -274,49 +274,49 @@ Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo 
 {{|>}}
 *************************************************************************************************************
 
-<center>![Ejercicio 1, primera cuestión](media/Ejercicio_0.png "Identifica el periodo temporal de esta visualización")</center>
+<center>![Ejercicio 1, primera cuestión](media/Ejercicio_0.png "Shewing at One View The Price of The Quarter of Wheat, & Wages of Labour by the Week, William Playfair")</center>
 
 - [( )] < XIX
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.jpg "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.jpg "The League of Nations,1925, Dr. Laura H. Martin y Dr. J. Paul Goode")</center>
 
 - [( )] < XIX
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "СССР и капстраны")</center>
 
 - [( )] < XIX
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, cuarta cuestión](media/Ejercicio_6.png "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 1, cuarta cuestión](media/Ejercicio_6.png "Crops that drive world trade in hazardous pesticides, Public Eye")</center>
 
 - [( )] < XIX
 - [( )] XIX - XX
 - [(X)] XXI
 
-- <center>![Ejercicio 1, quinta cuestión](media/Ejercicio_1.png "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 1, quinta cuestión](media/Ejercicio_1.png "London Underground, Henry Beck")</center>
 
 - [( )] < XIX
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.jpg "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.jpg "Exports and Imports to and from Denmark and Norway, William Playfair")</center>
 
 - [( )] < XIX
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.jpg "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.jpg "Top 2000 loved 70's & 80's, Nadieh Bremer")</center>
 
 - [( )] < XIX
 - [( )] XIX - XX
 - [(X)] XXI
 
-- <center>![Ejercicio 1, octava cuestión](media/Ejercicio_7.png "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 1, octava cuestión](media/Ejercicio_7.png "Four Years of Vacations in 20,000 Colors, Shirley Wu")</center>
 
 - [( )] < XIX
 - [( )] XIX - XX
