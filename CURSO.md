@@ -271,58 +271,58 @@ La revolución digital ha traído consigo, no solo el **desarrollo de potentes h
 
 ### Ejercicio 1
 
-Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo de creación es anterior al XIX, si pertenece al siglo XIX o XX, o si por el contrario fue creada en el XXI. 
+Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo de creación es anterior a 1850, si pertenece al periodo 1850-2000, o si por el contrario fue creada en este siglo.  
 
 {{|>}}
 *************************************************************************************************************
 
 <center>![Ejercicio 1, primera cuestión](media/Ejercicio_0.png "Shewing at One View The Price of The Quarter of Wheat, & Wages of Labour by the Week, William Playfair.")</center>
 
-- [(X)] < XIX
-- [( )] XIX - XX
-- [( )] XXI
+- [(X)] < 1850
+- [( )] 1850 - 2000
+- [( )] > 2000
 
 - <center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.jpg "The League of Nations,1925, Dr. Laura H. Martin y Dr. J. Paul Goode.")</center>
 
-- [( )] < XIX
-- [(X)] XIX - XX
-- [( )] XXI
+- [( )] < 1850
+- [(X)] 1850 - 2000
+- [( )] > 2000
 
 - <center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "СССР и капстраны.")</center>
 
-- [( )] < XIX
-- [(X)] XIX - XX
-- [( )] XXI
+- [( )] < 1850
+- [(X)] 1850 - 2000
+- [( )] > 2000
 
 - <center>![Ejercicio 1, cuarta cuestión](media/Ejercicio_6.png "Crops that drive world trade in hazardous pesticides, Public Eye.")</center>
 
-- [( )] < XIX
-- [( )] XIX - XX
-- [(X)] XXI
+- [( )] < 1850
+- [( )] 1850 - 2000
+- [(X)] > 2000
 
 - <center>![Ejercicio 1, quinta cuestión](media/Ejercicio_1.png "London Underground, Henry Beck.")</center>
 
-- [( )] < XIX
-- [(X)] XIX - XX
-- [( )] XXI
+- [( )] < 1850
+- [(X)] 1850 - 2000
+- [( )] > 2000
 
 - <center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.jpg "Exports and Imports to and from Denmark and Norway, William Playfair.")</center>
 
-- [(X)] < XIX
-- [( )] XIX - XX
-- [( )] XXI
+- [(X)] < 1850
+- [( )] 1850 - 2000
+- [( )] > 2000
 
 - <center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.jpg "Top 2000 loved 70's & 80's, Nadieh Bremer.")</center>
 
-- [( )] < XIX
-- [( )] XIX - XX
-- [(X)] XXI
+- [( )] < 1850
+- [( )] 1850 - 2000
+- [(X)] > 2000
 
 - <center>![Ejercicio 1, octava cuestión](media/Ejercicio_7.png "Four Years of Vacations in 20,000 Colors, Shirley Wu.")</center>
 
-- [( )] < XIX
-- [( )] XIX - XX
-- [(X)] XXI
+- [( )] < 1850
+- [( )] 1850 - 2000
+- [(X)] > 2000
 
 *************************************************************************************************************
 
