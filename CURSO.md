@@ -919,7 +919,7 @@ Identifica el tipo de visualización correspondiente con cada proyecto
 - [( )] Coropletas
 - [(X)] Sankey
 
-- <center>![Ejercicio 2, segunda cuestión](media/Ejercicio_9.png "Digital fingerprint of the song "Adore You" by Harry Styles, Nadieh Bremer")</center>
+- <center>![Ejercicio 2, segunda cuestión](media/Ejercicio_9.png "Digital fingerprint of the song Adore You by Harry Styles, Nadieh Bremer")</center>
 
 - [( )] Puntos
 - [( )] Ejes Cartesianos
