@@ -1026,9 +1026,11 @@ Todos estos elementos pueden estar asociados a clases, para así evitar tener qu
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">HTML</p>
+		  Es el lenguaje fundamental que define la estructura y contenido de las páginas web mediante etiquetas. Este lenguaje permite organizar elementos como títulos, párrafos, imágenes y enlaces en un formato que los navegadores pueden interpretar y mostrar.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">CSS</p>
+		  Es un lenguaje utilizado para estilizar y dar formato a documentos HTML, permitiendo definir cómo se deben mostrar los elementos en una página web. Separa el contenido de la presentación, facilitando la creación de diseños atractivos y consistentes.
       </div>
     </div>
   </div>
