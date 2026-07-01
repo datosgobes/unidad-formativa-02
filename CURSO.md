@@ -1119,7 +1119,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 - [(X)] Verdadero
 - [(_)] Falso
 ***
-> Sentó las bases de que la verdad está en lo que se observa visualmente
+> Sentó las bases de que la verdad está en lo que se observa visualmente 
 ***
 
 **3) La visualización de datos se desarrolla principalmente en el mundo de la prensa y medios escritos**
@@ -1151,7 +1151,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 - [(_)] Verdadero
 - [(X)] Falso
 ***
-> La cultura oriental interpreta el tiempo de forma circular y recursiva
+> La cultura oriental interpreta el tiempo de forma circular y recursiva 
 ***
 
 **7) El diagrama de Sankey ayuda a entender las series temporales**
@@ -1159,7 +1159,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 - [(X)] Verdadero
 - [( )] Falso
 ***
-> Ayuda a entender los flujos entre una fuente y un receptor
+> Ayuda a entender los flujos entre una fuente y un receptor 
 ***
 
 **8) El mapa de calor se considera un contorno dentro de las categorías de cartografía**
