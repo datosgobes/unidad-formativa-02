@@ -226,7 +226,7 @@ Con el avance científico, matemático y estadístico en los siglos posteriores 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Florence Nightingale, enfermera inglesa destinada en la guerra de Crimea, desarrolló todo un conjunto de nuevas visualizaciones gracias a todo su análisis estadístico sobre la mortandad en las unidades hospitalarias en las que estuvo destinada. A pesar de la familiaridad actual con este tipo de diagramas, en su momento fue una aproximación rupturista a la representación de magnitudes. 
+Florence Nightingale, enfermera inglesa destinada en la guerra de Crimea, desarrolló todo un conjunto de nuevas visualizaciones gracias a su análisis estadístico sobre la mortandad en las unidades hospitalarias en las que estuvo destinada (Figura 3). A pesar de la familiaridad actual con este tipo de diagramas, en su momento fue una aproximación rupturista a la representación de magnitudes. 
 <center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.png "Figura 3. Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
@@ -236,7 +236,7 @@ Florence Nightingale, enfermera inglesa destinada en la guerra de Crimea, desarr
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Charles Minard describió la sangrienta campaña en el frente ruso de las tropas napoleónicas, con todo un grueso de tropas menguante que viaja de oeste a este y que posteriormente emprende su camino de retarguardia, ya en un número muy diezmado. Más allá de su propuesta visual, en trabajo de Charles Minard se caracteriza por mencionar sus fuentes y citarlas apropiadamente, estableciendo nuevos códigos de rigor y método. 
+Charles Minard describió la sangrienta campaña en el frente ruso de las tropas napoleónicas, con todo un grueso de tropas menguante que viaja de oeste a este y que posteriormente emprende su camino de retarguardia, ya en un número muy diezmado (Figura 4). Más allá de su propuesta visual, en trabajo de Charles Minard se caracteriza por mencionar sus fuentes y citarlas apropiadamente, estableciendo nuevos códigos de rigor y método. 
 <center>![Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869](media/UD07_Minard.png "Figura 4. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
@@ -246,7 +246,7 @@ Charles Minard describió la sangrienta campaña en el frente ruso de las tropas
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-W.E.B. duBois refleja sus estadísticas de la realidad socioeconómica de la población afroamericana tras la ilegalización de la esclavitud en toda una serie de visualizaciones que presenta en la exposición universal de París de 1900. Destaca en su uso del color así como en el uso de nuevas formas geométricas hasta entonces inéditas. 
+W.E.B. duBois refleja sus estadísticas de la realidad socioeconómica de la población afroamericana tras la ilegalización de la esclavitud en toda una serie de visualizaciones que presenta en la exposición universal de París de 1900. Destaca en su uso del color así como en el uso de nuevas formas geométricas hasta entonces inéditas (Figura 5). 
 <center>![Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900](media/UD07_DuBois.png "Figura 5. Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
@@ -1077,6 +1077,7 @@ Una de estas iniciativas es Observable, donde es posible crear **visualizaciones
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
+		El propio portal de datos abiertos tiene su galería de visualizaciones desarrolladas en D3.js dentro de Observable. En ellas es posible ver el código en JavaScript, los datos que utiliza para poder realizar la visualización así como el resultado gráfico en la parte superior del notebook. También acepta igualmente bloques de texto tanto para contextualizar el proyecto o los datos utilizados como para cada una de las líneas de código. 
 		[Datos.gob.es en Observable](https://observablehq.com/@dataviz-datos-gob-es)
 	</div>
 </div>
