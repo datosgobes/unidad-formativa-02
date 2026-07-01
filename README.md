@@ -5,10 +5,10 @@ version:  1.0.0
 language: es
 narrator: Spanish Female
 
-comment:  Unidad 07b - Visualización de datos
+comment:  Unidad 02 - Visualización de datos
 -->
 
-# Unidad 7b - Visualización de datos
+# Unidad 02 - Visualización de datos
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/assets/img/logo_dge_normal.svg" alt="datos.gob.es" width="300">
@@ -33,7 +33,7 @@ Esta unidad formativa aborda:
 ## Ver la unidad
 
 <p align="center" style="font-size: 1.3em;">
-  <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md" target="_blank" rel="noopener">▶️ Abrir curso interactivo en LiaScript</a>
+  <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-02/refs/heads/main/CURSO.md" target="_blank" rel="noopener">▶️ Abrir curso interactivo en LiaScript</a>
 </p>
 
 El curso incluye:
