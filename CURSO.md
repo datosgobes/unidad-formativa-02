@@ -121,7 +121,7 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-El desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha desbancado totalmente la creación de piezas de visualización artesanas, hechas fuera del mundo digital. Estas emplean todo tipo de materiales y técnicas que también se benefician de otros avances tecnológicos, y permiten llegar al público de forma muy efectiva e impactante.
+El desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha desbancado totalmente la <b>creación de piezas de visualización artesanas</b>, hechas fuera del mundo digital. Estas emplean todo tipo de materiales y técnicas que también se benefician de otros avances tecnológicos, y permiten llegar al público de forma <b>muy efectiva e impactante</b>.
 	</div>
 </div>
 
@@ -130,7 +130,7 @@ El desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha d
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel="noopener">ShowYourStripes</a> aborda el incremento de la temperatura en la superficie de la Tierra a través del color, pasando de fríos si la temperatura es inferior a una media temporal histórica, a cálidos, si la temperatura es mayor que esa media histórica. En todos los puntos se puede observar cómo la tendencia es pasar de tonos fríos a cálidos, dejando patente el calentamiento global que está experimentando el planeta. Este proyecto cuenta con representación en todo tipo de soportes más allá de los digitales, en concreto sobre patrones textiles o cerámicos. 
+El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel="noopener">ShowYourStripes</a> aborda el <b>incremento de la temperatura en la superficie de la Tierra</b> a través del color, pasando de tonos fríos si la temperatura es inferior a una media temporal histórica, a cálidos, si la temperatura es mayor que esa media histórica, a lo largo del tiempo. En todos los puntos se puede observar cómo la tendencia es pasar de tonos fríos a cálidos, dejando patente el calentamiento global que está experimentando el planeta. Este proyecto cuenta con <b>representación en todo tipo de soportes</b> más allá de los digitales, en concreto sobre patrones textiles o cerámicos. 
 	</div>
 </div>
 
@@ -189,7 +189,7 @@ La visualización existe probablemente desde **antes incluso del desarrollo de l
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-En la Figura 1 se puede observar la distribución de estrellas de la constelación de Pegaso realizada por Johann Bayer en 1603, un ejemplo que recoge la práctica milenaria de referenciarnos dentro del espacio y del universo. 
+En la Figura 1 se puede observar la <b>distribución de estrellas de la constelación de Pegaso</b> realizada por Johann Bayer en 1603, un ejemplo que recoge la práctica milenaria de referenciarnos dentro del espacio y del universo. 
 <center>![Johann Bayer, Uranometría, 1603](media/UD07_Bayer.jpg "Figura 1. Johann Bayer, Uranometría, 1603. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
@@ -201,7 +201,7 @@ La observación astronómica trae consigo, de hecho, uno de los **mayores giros 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-En 1694 Galileo Galilei publica su obra sobre la posición de las estrellas no visibles a simple vista gracias al uso del telescopio, al comienzo del desarrollo y uso de tales artilugios (Figura 2). 
+En 1694 Galileo Galilei publica su obra sobre la <b>posición de las estrellas no visibles a simple vista</b> gracias al uso del telescopio, al comienzo del desarrollo y uso de tales artilugios (Figura 2). 
 <center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura 2. Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
@@ -226,7 +226,7 @@ Con el avance científico, matemático y estadístico en los siglos posteriores 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Florence Nightingale, enfermera inglesa destinada en la guerra de Crimea, desarrolló todo un conjunto de nuevas visualizaciones gracias a su análisis estadístico sobre la mortandad en las unidades hospitalarias en las que estuvo destinada (Figura 3). A pesar de la familiaridad actual con este tipo de diagramas, en su momento fue una aproximación rupturista a la representación de magnitudes. 
+Florence Nightingale, enfermera inglesa destinada en la guerra de Crimea, desarrolló todo un conjunto de nuevas visualizaciones gracias a su análisis estadístico sobre la <b>mortandad en las unidades hospitalarias</b> en las que estuvo destinada (Figura 3). A pesar de la familiaridad actual con este tipo de diagramas, en su momento fue una <b>aproximación rupturista</b> a la representación de magnitudes. 
 <center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.png "Figura 3. Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
@@ -236,7 +236,7 @@ Florence Nightingale, enfermera inglesa destinada en la guerra de Crimea, desarr
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Charles Minard describió la sangrienta campaña en el frente ruso de las tropas napoleónicas, con todo un grueso de tropas menguante que viaja de oeste a este y que posteriormente emprende su camino de retarguardia, ya en un número muy diezmado (Figura 4). Más allá de su propuesta visual, en trabajo de Charles Minard se caracteriza por mencionar sus fuentes y citarlas apropiadamente, estableciendo nuevos códigos de rigor y método. 
+Charles Minard describió la sangrienta campaña en el frente ruso de las tropas napoleónicas, con todo un grueso de tropas menguante que viaja de oeste a este y que posteriormente emprende su camino de retarguardia, ya en un número muy diezmado (Figura 4). Más allá de su propuesta visual, en trabajo de Charles Minard <b>se caracteriza por mencionar sus fuentes y citarlas apropiadamente</b>, estableciendo nuevos códigos de rigor y método. 
 <center>![Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869](media/UD07_Minard.png "Figura 4. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
@@ -246,7 +246,7 @@ Charles Minard describió la sangrienta campaña en el frente ruso de las tropas
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-W.E.B. duBois refleja sus estadísticas de la realidad socioeconómica de la población afroamericana tras la ilegalización de la esclavitud en toda una serie de visualizaciones que presenta en la exposición universal de París de 1900. Destaca en su uso del color así como en el uso de nuevas formas geométricas hasta entonces inéditas (Figura 5). 
+W.E.B. duBois refleja sus estadísticas de la realidad socioeconómica de la población afroamericana tras la ilegalización de la esclavitud en toda una serie de visualizaciones que presenta en la exposición universal de París de 1900. Destaca en su <b>uso del color así como en el uso de nuevas formas geométricas</b> hasta entonces inéditas (Figura 5). 
 <center>![Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900](media/UD07_DuBois.png "Figura 5. Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
@@ -415,7 +415,7 @@ En esta sección y en las siguientes incorporamos herramientas para poder aborda
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-El conjunto de formatos presentado aquí representa la mayor parte de datos con un número pequeño o moderado de entradas. La explosión del big data ha traído consigo la creación de nuevos formatos tales como bases de datos o como el formato .parquet, por ejemplo, que pueden contener millones de entradas y por lo tanto son formatos difíciles de manejar por herramientas tradicionales de análisis y visualización, y que necesitan de software específico. 
+El conjunto de formatos presentado aquí representa la mayor parte de <b>datos con un número pequeño o moderado de entradas</b>. La explosión del big data ha traído consigo la creación de nuevos formatos tales como bases de datos o como el formato .parquet, por ejemplo, que pueden contener millones de entradas y por lo tanto son formatos difíciles de manejar por herramientas tradicionales de análisis y visualización, y que necesitan de software específico. 
 	</div>
 </div>
 
@@ -428,7 +428,7 @@ Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Co
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		En la Figura 6 se muestra el contenido de un fichero CSV con información correspondiente a aeropuertos a escala global. En él se detallan las categorías en la primera fila, como por ejemplo su latitud, longitud, altitud, código IATA o la región y el país en el que se encuentran. En el resto de filas se ofrece la información con una fila para cada aeropuerto. 
+		En la Figura 6 se muestra el contenido de un fichero CSV con información correspondiente a <b>aeropuertos a escala global</b>. En él se detallan las categorías en la primera fila, como por ejemplo su latitud, longitud, altitud, código IATA o la región y el país en el que se encuentran. En el resto de filas se ofrece la información con una fila para cada aeropuerto. 
 		<center>![Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV](media/UD07_CSV.png "Figura 6. Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV.")</center>
 	</div>
 </div>
@@ -442,7 +442,7 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		En la Figura 7 se observa la estructura de un fichero JSON. A diferencia de un CSV en este caso la información está ordenada por pares, de forma que una categoría tiene asociada un valor concreto. Estos pares se pueden anidar dentro de una estructura parent-children, lo que permite también crear jerarquías si la propia estructura de los datos lo necesitan. 
+		En la Figura 7 se observa la estructura de un fichero JSON. A diferencia de un CSV en este caso la información <b>está ordenada por pares</b>, de forma que una categoría tiene asociada un valor concreto. Estos pares <b>se pueden anidar</b> dentro de una estructura parent-children, lo que permite también crear jerarquías si la propia estructura de los datos lo necesitan. 
 	<center>![Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.](media/UD07_JSON.png "Figura 7. Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.")</center>
 	</div>
 </div>
@@ -450,7 +450,7 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 
 <div class="destacado_caja">
   <div class="destacado_titulo">
-    Herramientas de formateo
+    Herramientas para cambios de formato
   </div>
   <div style="display:flex; flex-wrap:wrap;">
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
@@ -486,10 +486,10 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 En esta sección veremos los **tipos de visualizaciones más populares**, ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis y productos que necesitan de la representación gráfica de grandes cantidades de datos. 
 
 Las visualizaciones se suelen distribuir en cuatro grandes familias: 
-- Magnitudes 
-- Series temporales 
-- Redes, nodos y jerarquías 
-- Mapas y cartografía
+- **Magnitudes**
+- **Series temporales** 
+- **Redes, nodos y jerarquías** 
+- **Mapas y cartografía**
 
  📖[ Fuente](https://www.albertocairo.com/)
 
@@ -498,7 +498,7 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias:
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-- <a href="https://www.stefanieposavec.com/books">Literatura diversa sobre visualización, de Stefanie Posavec</a>	
+- <a href="https://www.stefanieposavec.com/books">Literatura diversa sobre visualización, de Stefanie Posavec</a>
 - <a href="https://www.visualcinnamon.com/chart/">Chart, de Nadieh Bremer</a>
 - <a href="https://flowingdata.com/books/">Literatura diversa sobre visualización, de Nathan Yau</a>
 - <a href="https://www.analyticspress.com/smtn.php">Show Me The Numbers, de Stephen Few</a>
@@ -589,7 +589,7 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
-		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad
+		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Tableau</p>
@@ -597,19 +597,19 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">PowerBI</p>
-			Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización
+			Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Datawrapper</p>
-			Muy utilizada en comunicación pública y periodismo de datos. Permite crear gráficos claros, mapas y tablas interactivas sin necesidad de conocimientos técnicos. Es especialmente adecuada para explicar datos de forma comprensible a un público amplio
+			Muy utilizada en comunicación pública y periodismo de datos. Permite crear gráficos claros, mapas y tablas interactivas sin necesidad de conocimientos técnicos. Es especialmente adecuada para explicar datos de forma comprensible a un público amplio.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">RAWGraphs</p>
-			Herramienta de software libre orientada a la exploración visual. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representar datos. Resulta especialmente útil en fases exploratorias
+			Herramienta de software libre orientada a la exploración visual. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representar datos. Resulta especialmente útil en fases exploratorias.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Canva</p>
-			Aunque su enfoque es más divulgativo que analítico, puede ser útil para crear piezas visuales sencillas que integren gráficos básicos con elementos de diseño. Es adecuada para la comunicación visual de resultados, no tanto para el análisis de datos
+			Aunque su enfoque es más divulgativo que analítico, puede ser útil para crear piezas visuales sencillas que integren gráficos básicos con elementos de diseño. Es adecuada para la comunicación visual de resultados, no tanto para el análisis de datos.
       </div>
     </div>
   </div>
@@ -623,11 +623,11 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
 
 {{|>}}
 *************************************************************************************************************
-Una serie temporal es una representación cronológica de eventos para que se entienda qué pasó y cuándo de una serie de hitos. Es una de las más antiguas representaciones de información de forma visual para las series temporales son los **ejes cartesianos y sus variantes**. Esta representación se apoya en la interpretación que hace la cultura occidental sobre la **linealidad del tiempo**, en comparación con la circularidad o recursividad de la dimensión temporal en las culturas orientales. De esta forma, existen diversas formas de representar el tiempo que enumeramos aquí.  
+Una serie temporal es una **representación cronológica de eventos** para que se entienda qué pasó y cuándo de una serie de hitos. Es una de las más antiguas representaciones de información de forma visual para las series temporales son los **ejes cartesianos y sus variantes**. Esta representación se apoya en la interpretación que hace la cultura occidental sobre la **linealidad del tiempo**, en comparación con la circularidad o recursividad de la dimensión temporal en las culturas orientales. De esta forma, existen diversas formas de representar el tiempo que enumeramos aquí.  
 
 **Ejes Cartesianos**
 
-Los ejes cartesianos, x e y, permiten asociar la **dimensión temporal al eje X, mientras que la magnitud asociada a cada intervalo temporal se representa en el eje Y. A partir de ahí, se pueden dibujar puntos, líneas o áreas, si el volumen integrado bajo la línea tiene algún tipo de información relevante. 
+Los ejes cartesianos, x e y, permiten asociar la **dimensión temporal al eje X**, mientras que la magnitud asociada a cada intervalo temporal se representa en el eje Y. A partir de ahí, se pueden dibujar puntos, líneas o áreas, si el volumen integrado bajo la línea tiene algún tipo de información relevante. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -685,7 +685,7 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
-		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad
+		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Tableau</p>
@@ -693,19 +693,19 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">PowerBI</p>
-			Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización
+			Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Datawrapper</p>
-			Muy utilizada en comunicación pública y periodismo de datos. Permite crear gráficos claros, mapas y tablas interactivas sin necesidad de conocimientos técnicos. Es especialmente adecuada para explicar datos de forma comprensible a un público amplio
+			Muy utilizada en comunicación pública y periodismo de datos. Permite crear gráficos claros, mapas y tablas interactivas sin necesidad de conocimientos técnicos. Es especialmente adecuada para explicar datos de forma comprensible a un público amplio.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Python</p>
-			Python es uno de los lenguajes más utilizados en análisis de datos. Matplotlib permite crear gráficos estáticos personalizables, mientras que Plotly facilita la creación de visualizaciones interactivas. Juntas ofrecen un buen equilibrio entre potencia y flexibilidad
+			Python es uno de los lenguajes más utilizados en análisis de datos. Matplotlib permite crear gráficos estáticos personalizables, mientras que Plotly facilita la creación de visualizaciones interactivas. Juntas ofrecen un buen equilibrio entre potencia y flexibilidad.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">R</p>
-			lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente
+			Lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Excel</p>
@@ -713,15 +713,15 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">ApacheSuperset</p>
-			 Es una plataforma de inteligencia empresarial de código abierto diseñada para la exploración y visualización de datos, que permite a los usuarios crear dashboards interactivos y realizar consultas ad hoc sin necesidad de programación
+			 Es una plataforma de inteligencia empresarial de código abierto diseñada para la exploración y visualización de datos, que permite a los usuarios crear dashboards interactivos y realizar consultas ad hoc sin necesidad de programación.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Grafana</p>
-			Es una aplicación web de análisis y visualización de datos de código abierto que permite a los usuarios crear paneles de control personalizables para mostrar métricas, registros y trazas a partir de diversas fuentes de datos. Se utiliza comúnmente para monitorear aplicaciones y recursos de hardware
+			Es una aplicación web de análisis y visualización de datos de código abierto que permite a los usuarios crear paneles de control personalizables para mostrar métricas, registros y trazas a partir de diversas fuentes de datos. Se utiliza comúnmente para monitorear aplicaciones y recursos de hardware.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">RAWGraphs</p>
-			herramienta de software libre orientada a la exploración visual. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representar datos. Resulta especialmente útil en fases exploratorias
+			herramienta de software libre orientada a la exploración visual. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representar datos. Resulta especialmente útil en fases exploratorias.
       </div>
     </div>
   </div>
@@ -772,7 +772,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
-		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad
+		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Tableau</p>
@@ -780,7 +780,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">PowerBI</p>
-			Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización
+			Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Cosmograph</p>
@@ -902,39 +902,39 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
-		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad
+		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">GoogleEarth</p>
-		  Es gratuita pero no es de código abierto, y los datos cargados pueden ser procesados por Google. Su versión web permite importar archivos KML/KMZ y es útil para contextualizar información sobre imágenes satelitales
+		  Herramienta gratuita pero no de código abierto. Su versión web permite importar archivos KML/KMZ y es útil para contextualizar información sobre imágenes satelitales.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">KeplerGL</p>
-			Es una herramienta web gratuita y de código abierto que permite arrastrar y soltar archivos en formatos como CSV, GeoJSON o Shapefile y obtener visualizaciones de forma inmediata
+			Herramienta web gratuita y de código abierto que permite arrastrar y soltar archivos en formatos como CSV, GeoJSON o Shapefile y obtener visualizaciones de forma inmediata.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Python - Cartopy</p>
-			Es una librería que se integra con Matplotlib y está orientada a la representación de datos científicos y climáticos. Su gran fortaleza es el manejo de proyecciones cartográficas, con soporte para decenas de sistemas de referencia
+			Es una librería que se integra con Matplotlib y está orientada a la representación de datos científicos y climáticos. Su gran fortaleza es el manejo de proyecciones cartográficas, con soporte para decenas de sistemas de referencia.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">OpenStreetMap</p>
-			No es exactamente una herramienta de visualización, sino la base de datos geográfica colaborativa más grande del mundo, con licencia abierta (ODbL). Su ecosistema incluye herramientas como Overpass Turbo para consultar y extraer datos, y sus teselas cartográficas son la base sobre la que se construyen muchos mapas web
+			No es exactamente una herramienta de visualización, sino la base de datos geográfica colaborativa más grande del mundo, con licencia abierta (ODbL). Su ecosistema incluye herramientas como Overpass Turbo para consultar y extraer datos, y sus teselas cartográficas son la base sobre la que se construyen muchos mapas web.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">QGIS</p>
-			Es el SIG de escritorio de referencia en el mundo del código abierto. Gratuito, multiplataforma y con una comunidad muy activa, cubre prácticamente cualquier necesidad de análisis y producción cartográfica
+			El SIG de escritorio de referencia en el mundo del código abierto. Gratuito, multiplataforma y con una comunidad muy activa, cubre prácticamente cualquier necesidad de análisis y producción cartográfica.
       </div>
 				<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">ArcGIS</p>
-					es la plataforma SIG comercial más utilizada en entornos profesionales e institucionales. Ofrece capacidades avanzadas de análisis, edición y publicación de mapas, y su ecosistema en la nube facilita la colaboración y la gestión de portales de datos geográficos
+			La plataforma SIG comercial más utilizada en entornos profesionales e institucionales. Ofrece capacidades avanzadas de análisis, edición y publicación de mapas, y su ecosistema en la nube facilita la colaboración y la gestión de portales de datos geográficos.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">MapLibre</p>
-			Es una librería JavaScript de código abierto que permite construir mapas web interactivos de alto rendimiento mediante teselas vectoriales
+			Librería de JavaScript de código abierto que permite construir mapas web interactivos de alto rendimiento mediante teselas vectoriales.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">R</p>
-			Lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente
+			Lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente.
       </div>
     </div>
   </div>
@@ -1029,11 +1029,11 @@ Todos estos elementos pueden estar asociados a clases, para así evitar tener qu
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">HTML</p>
-		  Es el lenguaje fundamental que define la estructura y contenido de las páginas web mediante etiquetas. Este lenguaje permite organizar elementos como títulos, párrafos, imágenes y enlaces en un formato que los navegadores pueden interpretar y mostrar.
+		  El lenguaje fundamental que define la estructura y contenido de las páginas web mediante etiquetas. Este lenguaje permite organizar elementos como títulos, párrafos, imágenes y enlaces en un formato que los navegadores pueden interpretar y mostrar.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">CSS</p>
-		  Es un lenguaje utilizado para estilizar y dar formato a documentos HTML, permitiendo definir cómo se deben mostrar los elementos en una página web. Separa el contenido de la presentación, facilitando la creación de diseños atractivos y consistentes.
+		  Lenguaje utilizado para estilizar y dar formato a documentos HTML, permitiendo definir cómo se deben mostrar los elementos en una página web. Separa el contenido de la presentación, facilitando la creación de diseños atractivos y consistentes.
       </div>
     </div>
   </div>
@@ -1067,19 +1067,19 @@ La irrupción de la inteligencia artificial (IA) ha revolucionado la creación d
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">React</p>
-		   Es una biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario, especialmente en aplicaciones web y móviles. Permite crear componentes reutilizables que facilitan el desarrollo de aplicaciones interactivas.
+		   Biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario, especialmente en aplicaciones web y móviles. Permite crear componentes reutilizables que facilitan el desarrollo de aplicaciones interactivas.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Angular</p>
-		   Es un framework de desarrollo web de código abierto gestionado por Google, que permite crear aplicaciones web dinámicas utilizando HTML, CSS y JavaScript. Su arquitectura se basa en componentes, lo que facilita la reutilización y el mantenimiento del código.
+		   Entorno de desarrollo web de código abierto gestionado por Google, que permite crear aplicaciones web dinámicas utilizando HTML, CSS y JavaScript. Su arquitectura se basa en componentes, lo que facilita la reutilización y el mantenimiento del código.
       </div>
 		      <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Vue.js</p>
-				  Es un framework de JavaScript de código abierto utilizado para construir interfaces de usuario y aplicaciones de una sola página. Se caracteriza por su arquitectura progresiva, lo que permite integrarlo de manera gradual en proyectos existentes.
+			Framework de JavaScript de código abierto utilizado para construir interfaces de usuario y aplicaciones de una sola página. Se caracteriza por su arquitectura progresiva, lo que permite integrarlo de manera gradual en proyectos existentes.
       </div>
 		      <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Svelte</p>
-				  Es un framework de JavaScript diseñado para desarrollar interfaces de usuario, que se compila en componentes optimizados para ejecutarse en el navegador. A diferencia de otros frameworks, Svelte no utiliza un virtual DOM, lo que permite una ejecución más rápida y eficiente.
+			Entorno de JavaScript diseñado para desarrollar interfaces de usuario, que se compila en componentes optimizados para ejecutarse en el navegador. A diferencia de otros frameworks, Svelte no utiliza un virtual DOM, lo que permite una ejecución más rápida y eficiente.
       </div>
     </div>
   </div>
@@ -1101,7 +1101,7 @@ Una de estas iniciativas es Observable, donde es posible crear **visualizaciones
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		El propio portal de datos abiertos tiene su galería de visualizaciones desarrolladas en D3.js dentro de Observable. En ellas es posible ver el código en JavaScript, los datos que utiliza para poder realizar la visualización así como el resultado gráfico en la parte superior del notebook. También acepta igualmente bloques de texto tanto para contextualizar el proyecto o los datos utilizados como para cada una de las líneas de código. 
+		El propio portal de datos abiertos tiene su <b>galería de visualizaciones desarrolladas en D3.js</b> dentro de Observable. En ellas es posible ver el <b>código en JavaScript</b>, los datos que utiliza para poder realizar la visualización así como el <b>resultado gráfico</b> en la parte superior del notebook. También acepta igualmente bloques de texto tanto para contextualizar el proyecto o los datos utilizados como para cada una de las líneas de código. 
 		[Datos.gob.es en Observable](https://observablehq.com/@dataviz-datos-gob-es)
 	</div>
 </div>
