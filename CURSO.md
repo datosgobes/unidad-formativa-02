@@ -636,7 +636,7 @@ Siguiendo la tradición más oriental y redundando en la recursividad del tiempo
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-					<center>![Ejes radiales](media/UD07_Radial.jpg "Figura 15. Ejes radialess. Fuente: [Tiziana Alocci](https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets)")</center>
+					<center>![Ejes radiales](media/UD07_Arc.jpg "Figura 15. Ejes radialess. Fuente: [Tiziana Alocci](https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets)")</center>
 	</div>
 </div>
 
@@ -736,7 +736,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-				<center>![Nodos radiales](media/UD07_Arc.jpg "Figura 18. Nodos radiales. Fuente: [Alice Bouchardon](https://www.fastcompany.com/3025003/how-dogs-evolved)")</center>
+				<center>![Nodos radiales](media/UD07_Radial.jpg "Figura 18. Nodos radiales. Fuente: [Alice Bouchardon](https://www.fastcompany.com/3025003/how-dogs-evolved)")</center>
 	</div>
 </div>
 
