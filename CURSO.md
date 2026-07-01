@@ -7,13 +7,13 @@ version: 0.1.0.0
 language: es
 narrator: Spanish Female
 mode: Textbook
-title: Unidad 07b - Visualización de datos
+title: Unidad 02 - Visualización de datos
 comment: Esta unidad presenta los conceptos básicos, historia y tipos de visualización de datos. 
 long_description: Unidades didácticas. Unidad 07 - Visualización de datos. Más información en [datos.gob.es](https://datos.gob.es/)
 
 edit: true
 
-repository: https://github.com/datosgobes/unidad-formativa-07b
+repository: https://github.com/datosgobes/unidad-formativa-02
 
 logo:     https://cdn.jsdelivr.net/gh/datosgobes/unidad-formativa-00@main/assets/img/logo_dge_square.svg
 
@@ -29,7 +29,7 @@ font: Montserrat
 attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 -->
 
-# Unidad 07b - Visualización de datos
+# Unidad 02 - Visualización de datos
 
 <div  class="logo-principal">
 ![](https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/assets/img/logo_conjunto.png)
