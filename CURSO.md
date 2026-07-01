@@ -209,6 +209,7 @@ En 1694 Galileo Galilei publica su obra sobre la posición de las estrellas no v
 
 La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 
 
+ 📖[ Fuente](https://www.edwardtufte.com/book/beautiful-evidence/)
 
 *************************************************************************************************************
 
@@ -264,6 +265,8 @@ De esta forma se llega al siglo XX, donde las **grandes tiradas de prensa popula
 La revolución digital ha traído consigo, no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**. 
 	</div>
 </div>
+
+ 📖[ Fuente](https://www.edwardtufte.com/book/beautiful-evidence/)
 
 *************************************************************************************************************
 
