@@ -103,7 +103,6 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
 2.1 Formatos de datos para visualización
    - CSV, TSV, TXT
    - JSON
-   - GoogleSheets
 2.2 Tipos de visualizaciones
    - Magnitudes
    - Series Temporales
@@ -448,9 +447,6 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 	</div>
 </div>
 
-**GoogleSheets**
-
-La existencia de hojas de cálculo online permite igualmente la **lectura de tales ficheros directamente sin ningún tipo de herramienta intermedia** como Python o R. Referenciada por una identificación única a la cual se le llama dentro de su URL, estas hojas de cálculo **pueden ser leídas por JavaScript** para crear visualizaciones a partir de la información contenida en sus filas y columnas. 
 
 <div class="destacado_caja">
   <div class="destacado_titulo">
@@ -518,7 +514,7 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias:
 {{|>}}
 *************************************************************************************************************
 
-Las magnitudes hacen referencia a **conjuntos de valores discretos e independientes**, que no están vinculados por una dimensión temporal ni están jerarquizados. Suelen ser datos que se presentan asociados a un número determinado de categorías. 
+Las magnitudes hacen referencia a **conjuntos de valores discretos e independientes**, que no están vinculados por una dimensión temporal ni están jerarquizados. Suelen ser datos que se presentan asociados a un número determinado de categorías. La intensidad, tamaño o peso se representa mediante proporciones geométricas.
 
 **Burbujas**
 
@@ -627,7 +623,7 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
 
 {{|>}}
 *************************************************************************************************************
-Una de las más antiguas representaciones de información de forma visual para las series temporales son los **ejes cartesianos y sus variantes**. Esta representación se apoya en la interpretación que hace la cultura occidental sobre la **linealidad del tiempo**, en comparación con la circularidad o recursividad de la dimensión temporal en las culturas orientales. De esta forma, existen diversas formas de representar el tiempo que enumeramos aquí.  
+Una serie temporal es una representación cronológica de eventos para que se entienda qué pasó y cuándo de una serie de hitos. Es una de las más antiguas representaciones de información de forma visual para las series temporales son los **ejes cartesianos y sus variantes**. Esta representación se apoya en la interpretación que hace la cultura occidental sobre la **linealidad del tiempo**, en comparación con la circularidad o recursividad de la dimensión temporal en las culturas orientales. De esta forma, existen diversas formas de representar el tiempo que enumeramos aquí.  
 
 **Ejes Cartesianos**
 
@@ -1012,7 +1008,7 @@ Identifica el tipo de visualización correspondiente con cada proyecto
 
 El último paso dentro de la creación de una visualización es crear un entorno en que la visualización sea accesible a la audiencia. Frecuentemente, el objetivo es alcanzar el mayor público posible y, por lo tanto, se desarrollan entornos en la web que permitan su **acceso desde cualquier punto del planeta**. 
 
-Los entornos más básicos en la web se componen de dos elementos. Una página web que se construye con HTML y con CSS, y un segundo elemento que suele ser código en JavaScript. Veamos en esta sección su significado y sentido dentro de la construcción de una página web. 
+Los entornos más básicos en la web se componen de HTML, CSS y JavaScript. Veamos en esta sección su significado y sentido dentro de la construcción de una página web, y cómo JavaScript ha dado paso a toda una serie de entornos para potenciar la modularidad y reutilización de componentes. 
 
 *************************************************************************************************************
 
