@@ -1173,7 +1173,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 
 **1) La visualización de datos comienza en la Revolución Industrial con el desarrollo del mundo moderno**
 
-- [( )] Verdadero
+- [()] Verdadero
 - [(X)] Falso
 ***
 > Comienza incluso antes de la historia escrita 
@@ -1182,7 +1182,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 **2) Galileo enuncia en principio llamado Oculata Certitudine**
 
 - [(X)] Verdadero
-- [(_)] Falso
+- [()] Falso
 ***
 > Sentó las bases de que la verdad está en lo que se observa visualmente 
 ***
