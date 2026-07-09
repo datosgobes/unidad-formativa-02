@@ -158,6 +158,9 @@ El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel=
 <!-- id="historia_0" -->
 ## Introducción
 
+{{|>}}
+*************************************************************************************************************
+
 En esta sección contextualizaremos la existencia de la visualización de datos en el desempeño del análisis e interpretación de los datos, desde el origen histórico hasta el uso contemporáneao. Asimismo, se aborda su creciente transversalidad en cuanto a aplicaciones y las habilidades necesarias para poder ejercer esta profesion. 
 
 El **breve recorrido por la historia** de la visualización de datos, desde las primeras formas de representar mapas y cartografías hasta los recientes avances tecnológicos, se divide en dos períodos:
@@ -481,12 +484,10 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 *************************************************************************************************************
 
 <!-- id="vis_0" -->
-
 ### Tipos de Visualizaciones
 
 {{|>}}
 *************************************************************************************************************
-
 
 En esta sección veremos los **tipos de visualizaciones más populares**, ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis y productos que necesitan de la representación gráfica de grandes cantidades de datos. 
 
