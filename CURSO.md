@@ -391,6 +391,9 @@ Trabajar en visualización de datos implica:
 <!-- id="tipos_0" -->
 ## Tipos y Herramientas
 
+{{|>}}
+*************************************************************************************************************
+
 En esta sección abordaremos la definición de **los elementos necesarios** para la realización de proyectos de visualización, desde el formato de los datos hasta las herramientas de acceso libre y gratuito para su realización. 
 
 En la primera parte se explican las **definiciones y estructura de los formatos de datos** más populares y de uso más frecuente dentro del desarrollo de proyectos de visualización. En concreto estos formatos son: 
@@ -405,6 +408,8 @@ Dentro de los tipos de visualizaciones, se detallan los elementos que constituye
 - **Series temporales**
 - **Nodos y jerarquías**
 - **Mapas y cartografía**
+
+*************************************************************************************************************
 
 ### Formatos de datos para visualización
 
