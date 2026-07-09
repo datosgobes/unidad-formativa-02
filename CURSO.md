@@ -1197,7 +1197,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 
 **4) La geometría es la disciplina más importante en el trabajo de la visualización de datos**
 
-- [(_)] Verdadero
+- [( )] Verdadero
 - [(X)] Falso
 ***
 > No hay una importante, sino un conjunto necesario de disciplinas como el diseño gráfico, el análisis o el periodismo
@@ -1213,7 +1213,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 
 **6) Hay un consenso sobre la interpretación del tiempo como algo lineal.**
 
-- [(_)] Verdadero
+- [( )] Verdadero
 - [(X)] Falso
 ***
 > La cultura oriental interpreta el tiempo de forma circular y recursiva 
@@ -1245,7 +1245,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 
 **10) Para el desarrollo de visualizaciones en Javascript siempre es necesario instalar un servidor local**
 
-- [(_)] Verdadero
+- [( )] Verdadero
 - [(X)] Falso
 ***
 > El desarrollo de notebooks, particularmente en Observable, permite programar en una interfaz web sin necesidad de instalar servidores locales. 
