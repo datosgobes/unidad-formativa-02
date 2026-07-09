@@ -384,11 +384,8 @@ Trabajar en visualización de datos implica:
 
 - **Desarrollo Web**: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan **crear y difundir esas piezas gráficas en los formatos digitales** conocidos actualmente. Hoy en día hay entornos web que permiten no solo mostrar visualizaciones sino también incluir interactividad, animación y toda una serie de efectos y transiciones para crear una narrativa, o storytelling. 
 
-
 *************************************************************************************************************
 
-
-<!-- id="tipos_0" -->
 ## Tipos y Herramientas
 
 {{|>}}
@@ -493,6 +490,7 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 <!-- id="vis_0" -->
 ### Tipos de Visualizaciones
 
+
 {{|>}}
 *************************************************************************************************************
 
@@ -517,7 +515,7 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias:
 - <a href="https://www.analyticspress.com/smtn.php">Show Me The Numbers, de Stephen Few</a>
   </div>
 </div>
- 
+
 *************************************************************************************************************
 
 <!-- id="vis_1" -->
