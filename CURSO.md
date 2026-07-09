@@ -298,43 +298,43 @@ Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo 
 - [( )] 1850 - 2000
 - [( )] > 2000
 
-- <center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.jpg "The League of Nations,1925, Dr. Laura H. Martin y Dr. J. Paul Goode.")</center>
+<center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.jpg "The League of Nations,1925, Dr. Laura H. Martin y Dr. J. Paul Goode.")</center>
 
 - [( )] < 1850
 - [(X)] 1850 - 2000
 - [( )] > 2000
 
-- <center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "СССР и капстраны.")</center>
+<center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "СССР и капстраны.")</center>
 
 - [( )] < 1850
 - [(X)] 1850 - 2000
 - [( )] > 2000
 
-- <center>![Ejercicio 1, cuarta cuestión](media/Ejercicio_6.png "Crops that drive world trade in hazardous pesticides, Public Eye.")</center>
+<center>![Ejercicio 1, cuarta cuestión](media/Ejercicio_6.png "Crops that drive world trade in hazardous pesticides, Public Eye.")</center>
 
 - [( )] < 1850
 - [( )] 1850 - 2000
 - [(X)] > 2000
 
-- <center>![Ejercicio 1, quinta cuestión](media/Ejercicio_1.png "London Underground, Henry Beck.")</center>
+<center>![Ejercicio 1, quinta cuestión](media/Ejercicio_1.png "London Underground, Henry Beck.")</center>
 
 - [( )] < 1850
 - [(X)] 1850 - 2000
 - [( )] > 2000
 
-- <center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.jpg "Exports and Imports to and from Denmark and Norway, William Playfair.")</center>
+<center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.jpg "Exports and Imports to and from Denmark and Norway, William Playfair.")</center>
 
 - [(X)] < 1850
 - [( )] 1850 - 2000
 - [( )] > 2000
 
-- <center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.jpg "Top 2000 loved 70's & 80's, Nadieh Bremer.")</center>
+<center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.jpg "Top 2000 loved 70's & 80's, Nadieh Bremer.")</center>
 
 - [( )] < 1850
 - [( )] 1850 - 2000
 - [(X)] > 2000
 
-- <center>![Ejercicio 1, octava cuestión](media/Ejercicio_7.png "Four Years of Vacations in 20,000 Colors, Shirley Wu.")</center>
+<center>![Ejercicio 1, octava cuestión](media/Ejercicio_7.png "Four Years of Vacations in 20,000 Colors, Shirley Wu.")</center>
 
 - [( )] < 1850
 - [( )] 1850 - 2000
