@@ -487,6 +487,7 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 {{|>}}
 *************************************************************************************************************
 
+
 En esta sección veremos los **tipos de visualizaciones más populares**, ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis y productos que necesitan de la representación gráfica de grandes cantidades de datos. 
 
 Las visualizaciones se suelen distribuir en cuatro grandes familias: 
