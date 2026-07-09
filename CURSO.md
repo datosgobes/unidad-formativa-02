@@ -180,6 +180,8 @@ Finalmente se especifican **todas las áreas profesionales** que cubren el proce
 
 De este modo adquirimos ese contexto, tanto histórico como social, a la hora de desarrollar proyectos de visualización de datos. 
 
+*************************************************************************************************************
+
 ### La astronomía y el origen de la visualización 
 
 {{|>}}
