@@ -161,7 +161,7 @@ El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel=
 {{|>}}
 *************************************************************************************************************
 
-En esta sección contextualizaremos la existencia de la visualización de datos en el desempeño del análisis e interpretación de los datos, desde el origen histórico hasta el uso contemporáneao. Asimismo, se aborda su creciente transversalidad en cuanto a aplicaciones y las habilidades necesarias para poder ejercer esta profesion. 
+En esta sección contextualizaremos la existencia de la visualización de datos en el desempeño del análisis e interpretación de los datos, desde el origen histórico hasta el uso contemporáneo. Asimismo, se aborda su creciente transversalidad en cuanto a aplicaciones y las habilidades necesarias para poder ejercer esta profesión. 
 
 El **breve recorrido por la historia** de la visualización de datos, desde las primeras formas de representar mapas y cartografías hasta los recientes avances tecnológicos, se divide en dos períodos:
 
@@ -224,7 +224,7 @@ La información que se escondía en la bóveda celeste -y que se revela a travé
 {{|>}}
 *************************************************************************************************************
 
-Con el avance científico, matemático y estadístico en los siglos posteriores se llega a creación de las **primeras tablas en formato impreso**, ricas en contenido, pero **difíciles de interpretar** a simple vista. Es en ese momento cuando surge la visualización moderna, utilizando los ejes cartesianos X e Y para la representación de información. No será hasta la **segunda mitad del siglo XIX** cuando la visualización contemporánea, tal y como la conocemos, comienza a consolidarse. 
+Con el avance científico, matemático y estadístico en los siglos posteriores se llega a la creación de las **primeras tablas en formato impreso**, ricas en contenido, pero **difíciles de interpretar** a simple vista. Es en ese momento cuando surge la visualización moderna, utilizando los ejes cartesianos X e Y para la representación de información. No será hasta la **segunda mitad del siglo XIX** cuando la visualización contemporánea, tal y como la conocemos, comienza a consolidarse. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -304,7 +304,7 @@ Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo 
 - [(X)] 1850 - 2000
 - [( )] > 2000
 
-<center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "СССР и капстраны.")</center>
+<center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "СССР и капстраны. (La URSS y los países capitalistas)")</center>
 
 - [( )] < 1850
 - [(X)] 1850 - 2000
@@ -382,7 +382,7 @@ Trabajar en visualización de datos implica:
 
 - **Periodismo**: todo proyecto de visualización de datos se enmarca dentro de una narrativa. Esta narrativa obedece a criterios periodísticos a la hora de maquetar y redactar todo lo referente a la visualización. **La historia debe fluir y debe ser igualmente rigurosa** a la hora crear todos los contenidos alrededor del elemento gráfico.
 
-- **Desarrollo Web**: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan **crear y difundir esas piezas gráficas en los formatos digitales** conocidos actualmente. Hoy en día hay entornos web que permiten no solo mostrar visualizaciones sino también incluir interactividad, animación y toda una serie de efectos y transiciones para crear una narrativa, o storytelling. 
+- **Desarrollo Web**: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan **crear y difundir esas piezas gráficas en los formatos digitales** conocidos actualmente. Hoy en día hay entornos web que permiten no solo mostrar visualizaciones sino también incluir interactividad, animación y toda una serie de efectos y transiciones para crear una narrativa, o <i>storytelling</i>. 
 
 *************************************************************************************************************
 
@@ -403,7 +403,7 @@ Dentro de los tipos de visualizaciones, se detallan los elementos que constituye
 
 - **Magnitudes**
 - **Series temporales**
-- **Nodos y jerarquías**
+- **Redes y jerarquías**
 - **Mapas y cartografía**
 
 *************************************************************************************************************
@@ -499,7 +499,7 @@ En esta sección veremos los **tipos de visualizaciones más populares**, ya con
 Las visualizaciones se suelen distribuir en cuatro grandes familias: 
 - **Magnitudes**
 - **Series temporales** 
-- **Redes, nodos y jerarquías** 
+- **Redes y jerarquías** 
 - **Mapas y cartografía**
 
  📖[ Fuente](https://www.albertocairo.com/)
@@ -531,7 +531,7 @@ Las magnitudes hacen referencia a **conjuntos de valores discretos e independien
 		Burbujas
 </div>
 
-Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesiano**. La independencia de esos ejes, gracias a herramientas modernas para calcular posiciones relativas, ha hecho de los diagramas de burbujas una propuesta muy atractiva, ya que permite añadir dimensiones de información, no sólo al radio, sino también al color o a la transparencia. 
+Tiene su origen en el <i>scatter plot</i>, **círculos posicionados en un plano cartesiano**. La independencia de esos ejes, gracias a herramientas modernas para calcular posiciones relativas, ha hecho de los diagramas de burbujas una propuesta muy atractiva, ya que permite añadir dimensiones de información, no sólo al radio, sino también al color o a la transparencia. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -546,7 +546,7 @@ Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesi
 		Treemap
 </div>
 
-Muy popular para datos económicos. El treemap **distribuye un espacio limitado en parcelas** cuyo tamaño es proporcional a la magnitud en estudio. De esta forma es directamente comparable el valor de diferentes categorías y es posible explorar el color como otro eje de información adicional. 
+Muy popular para datos económicos. El <i>treemap</i> **distribuye un espacio limitado en parcelas** cuyo tamaño es proporcional a la magnitud en estudio. De esta forma es directamente comparable el valor de diferentes categorías y es posible explorar el color como otro eje de información adicional. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -561,7 +561,7 @@ Muy popular para datos económicos. El treemap **distribuye un espacio limitado 
 		Voronoi
 </div>
 
-Semejante al treemap, pero utilizando a la inversa el cálculo de Voronoi de los **puntos equidistantes a los límites de un espacio definido por celdas**, o polígonos de Thiessen. De esta forma se distribuye el espacio en celdas cuya superficie es proporcional al valor de cada categoría.  
+Semejante al <i>treemap</i>, pero utilizando a la inversa el cálculo de Voronoi de los **puntos equidistantes a los límites de un espacio definido por celdas**, o polígonos de Thiessen. De esta forma se distribuye el espacio en celdas cuya superficie es proporcional al valor de cada categoría.  
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -583,7 +583,7 @@ Gráfico utilizado para representar **trayectorias uniendo puntos mediante líne
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Paths](media/UD07_Path.png "Figura 11. Paths. Fuente: [Federica Fragapane](https://www.behance.net/gallery/121178815/Land-Defenders)")</center>
+			<center>![Paths](media/UD07_Path.png "Figura 11. <i>Paths</i>. Fuente: [Federica Fragapane](https://www.behance.net/gallery/121178815/Land-Defenders)")</center>
 	</div>
 </div>
 
@@ -741,8 +741,8 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
 			Tradicional herramienta de estructuración de datos, cálculos sencillos y visualización a través de elementos clásicos. 
       </div>
 		<div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">ApacheSuperset</p>
-			 Es una plataforma de inteligencia empresarial de código abierto diseñada para la exploración y visualización de datos, que permite a los usuarios crear dashboards interactivos y realizar consultas ad hoc sin necesidad de programación.
+        <p class="subtitulo subtitulo_borde">Apache Superset</p>
+			 Es una plataforma de inteligencia empresarial de código abierto diseñada para la exploración y visualización de datos, que permite a los usuarios crear dashboards interactivos y realizar consultas <i>ad hoc</i> sin necesidad de programación.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Grafana</p>
@@ -750,7 +750,7 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">RAWGraphs</p>
-			herramienta de software libre orientada a la exploración visual. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representar datos. Resulta especialmente útil en fases exploratorias.
+			Herramienta de software libre orientada a la exploración visual. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representar datos. Resulta especialmente útil en fases exploratorias.
       </div>
     </div>
   </div>
@@ -927,7 +927,7 @@ El incremento de **la capacidad computacional** ha permitido el desarrollo en la
 </div>
 
 <div class="concepto">
-		Agrupación (Binning)
+		Agrupación (<i>Binning</i>)
 </div>
 
 Tradicionalmente realizado con hexágonos, la **clusterización en polígonos regulares** puede simplificar la representación de magnitudes o eventos en superficies, creando, de esta forma, patrones de mucha armonía visual y sin perder rigor de contenido.  
@@ -1102,7 +1102,7 @@ Este lenguaje también ha sido aprovechado para crear elementos visuales que com
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-La irrupción de la inteligencia artificial (IA) ha revolucionado la creación de los entornos de desarrollo web. Lo que antes era la elaboración de código por parte de especialistas llamados ingenieros de FrontEnd, haciendo referencia a la parte frontal y visible de la web, ha pasado a ser parcialmente <b>automatizable por parte de los agentes de IA</b> , que generan código donde albergar visualizaciones. <b>La IA por lo tanto pasa a formar parte del elenco de herramientas disponibles</b> para el desarrollo de frontales web. 
+La irrupción de la inteligencia artificial (IA) ha revolucionado la creación de los entornos de desarrollo web. Lo que antes era la elaboración de código por parte de especialistas llamados ingenieros de <i>FrontEnd</i>, haciendo referencia a la parte frontal y visible de la web, ha pasado a ser parcialmente <b>automatizable por parte de los agentes de IA</b> , que generan código donde albergar visualizaciones. <b>La IA por lo tanto pasa a formar parte del elenco de herramientas disponibles</b> para el desarrollo de frontales web. 
 	</div>
 </div>
 
@@ -1126,7 +1126,7 @@ La irrupción de la inteligencia artificial (IA) ha revolucionado la creación d
       </div>
 		      <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Svelte</p>
-			Entorno de JavaScript diseñado para desarrollar interfaces de usuario, que se compila en componentes optimizados para ejecutarse en el navegador. A diferencia de otros frameworks, Svelte no utiliza un virtual DOM, lo que permite una ejecución más rápida y eficiente.
+			Entorno de JavaScript diseñado para desarrollar interfaces de usuario, que se compila en componentes optimizados para ejecutarse en el navegador. A diferencia de otros <i>frameworks</i>, Svelte no utiliza un virtual DOM, lo que permite una ejecución más rápida y eficiente.
       </div>
     </div>
   </div>
@@ -1141,14 +1141,14 @@ La irrupción de la inteligencia artificial (IA) ha revolucionado la creación d
 
 Dada la relativa laboriosidad de crear una página web desde cero, existen entornos ya creados **aptos para el desarrollo de visualizaciones** que sólo necesitan del código en JavaScript y de los datos en formato CSV o JSON, entre otros. 
 
-Una de estas iniciativas es Observable, donde es posible crear **visualizaciones en D3.js** sin necesidad de crear un servidor local ni de crear una página en HTML y CSS previamente. Funciona a modo de notebook, y cada modificación en el código va seguida de su correspondiente ejecución en una celda destacada del propio notebook. 
+Una de estas iniciativas es Observable, donde es posible crear **visualizaciones en D3.js** sin necesidad de crear un servidor local ni de crear una página en HTML y CSS previamente. Funciona a modo de <i>notebook</i>, y cada modificación en el código va seguida de su correspondiente ejecución en una celda destacada del propio <i>notebook</i>. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		El propio portal de datos abiertos tiene su <b>galería de visualizaciones desarrolladas en D3.js</b> dentro de Observable. En ellas es posible ver el <b>código en JavaScript</b>, los datos que utiliza para poder realizar la visualización así como el <b>resultado gráfico</b> en la parte superior del notebook. También acepta igualmente bloques de texto tanto para contextualizar el proyecto o los datos utilizados como para cada una de las líneas de código. 
+		El propio portal de datos abiertos de España tiene su <b>galería de visualizaciones desarrolladas en D3.js</b> dentro de Observable. En ellas es posible ver el <b>código en JavaScript</b>, los datos que utiliza para poder realizar la visualización así como el <b>resultado gráfico</b> en la parte superior del <i>notebook</i>. También acepta igualmente bloques de texto tanto para contextualizar el proyecto o los datos utilizados como para cada una de las líneas de código. 
 		[Datos.gob.es en Observable](https://observablehq.com/@dataviz-datos-gob-es)
 	</div>
 </div>
@@ -1186,7 +1186,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 > Comienza incluso antes de la historia escrita 
 ***
 
-**2) Galileo enuncia en principio llamado Oculata Certitudine**
+**2) Galileo enuncia un principio llamado Oculata Certitudine**
 
 - [(X)] Verdadero
 - [( )] Falso
@@ -1255,7 +1255,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 - [( )] Verdadero
 - [(X)] Falso
 ***
-> El desarrollo de notebooks, particularmente en Observable, permite programar en una interfaz web sin necesidad de instalar servidores locales. 
+> El desarrollo de <i>notebooks</i>, particularmente en Observable, permite programar en una interfaz web sin necesidad de instalar servidores locales. 
 ***
 
 *************************************************************************************************************
