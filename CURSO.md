@@ -281,10 +281,10 @@ La revolución digital ha traído consigo, no solo el **desarrollo de potentes h
 
 ### Ejercicio
 
-Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo de creación es anterior a 1850, si pertenece al periodo 1850-2000, o si por el contrario fue creada en este siglo.  
-
 {{|>}}
 *************************************************************************************************************
+
+Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo de creación es anterior a 1850, si pertenece al periodo 1850-2000, o si por el contrario fue creada en este siglo.  
 
 <center>![Ejercicio 1, primera cuestión](media/Ejercicio_0.png "Shewing at One View The Price of The Quarter of Wheat, & Wages of Labour by the Week, William Playfair.")</center>
 
@@ -986,10 +986,10 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
 
 ### Ejercicio
 
-Identifica el tipo de visualización correspondiente con cada proyecto
-
 {{|>}}
 *************************************************************************************************************
+
+Identifica el tipo de visualización correspondiente con cada proyecto
 
 <center>![Ejercicio 2, primera cuestión](media/Ejercicio_8.png "Adyen's Shareholder Report, Nadieh Bremer")</center>
 
