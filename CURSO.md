@@ -123,9 +123,9 @@ También puedes ver la [ VIDEO EN INGLES ]<!-- style="target: _blank" --> del v�
   <div class="presentacion_fila_fin">
     Empieza el curso o descarga la documentación
     <div class="contenedor-botones">
-      <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf" target="_blank" rel="noopener" class="botones_doc">📄 PDF</a>
-      <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip" target="_blank" rel="noopener" class="botones_doc">📦 SCORM</a>
-      <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/ims-unidad-formativa-01.zip" target="_blank" rel="noopener" class="botones_doc">📚 IMS</a>
+      <a href="https://github.com/datosgobes/unidad-formativa-02/releases/download/latest/documentation-unidad-formativa-02.pdf" target="_blank" rel="noopener" class="botones_doc">📄 PDF</a>
+      <a href="https://github.com/datosgobes/unidad-formativa-02/releases/download/latest/scorm-unidad-formativa-02.zip" target="_blank" rel="noopener" class="botones_doc">📦 SCORM</a>
+      <a href="https://github.com/datosgobes/unidad-formativa-02/releases/download/latest/ims-unidad-formativa-02.zip" target="_blank" rel="noopener" class="botones_doc">📚 IMS</a>
     </div>
   </div>
 
