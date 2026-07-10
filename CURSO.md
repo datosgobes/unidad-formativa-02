@@ -43,8 +43,10 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
 
 <center>**¡Adelante!**</center>
 
+[ VIDEO EN CASTELLANO ] 
+
 <center>
-También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1Rvfu5mqfc)<!-- style="target: _blank" --> del vídeo
+También puedes ver la [ VIDEO EN INGLES ]<!-- style="target: _blank" --> del vídeo
 </center>
 
 
