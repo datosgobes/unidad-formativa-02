@@ -241,7 +241,18 @@ De esta forma se llega al siglo XX, donde las **grandes tiradas de prensa popula
 	<div class="aviso_contenido">
 		
 La revolución digital ha traído consigo, no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**. 📖[ Fuente](https://www.edwardtufte.com/book/beautiful-evidence/)
-No obstante, el desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha desbancado totalmente la <b>creación de piezas de visualización artesanas</b>, hechas fuera del mundo digital. Estas emplean todo tipo de materiales y técnicas que también se benefician de otros avances tecnológicos, y permiten llegar al público de forma <b>muy efectiva e impactante</b>. Algunos ejemplos destacados son:
+	</div>
+	<div class="aviso_contenido">
+No obstante, el desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha desbancado totalmente la <b>creación de piezas de visualización artesanas</b>, hechas fuera del mundo digital. Estas emplean todo tipo de materiales y técnicas que también se benefician de otros avances tecnológicos, y permiten llegar al público de forma <b>muy efectiva e impactante</b>. 
+	</div>
+</div>
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplos
+	</div>
+	<div class="aviso_contenido">
+Algunos ejemplos destacados de visualizaciones fuera del mundo digital son:
     <ul>
       <li> El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel="noopener">ShowYourStripes</a> que aborda el <b>incremento de la temperatura en la superficie de la Tierra</b> a través del color. Este proyecto cuenta con <b>representación en todo tipo de soportes</b> más allá de los digitales, en concreto sobre patrones textiles o cerámicos. </li>
       <li> La empresa <a href="https://datos.gob.es/es/empresas/tangible-data" target="_blank" rel="noopener">Tangible Data</a> crea <b>esculturas de datos para exhibición pública</b> de una manera tangible y cautivadora.</li>
