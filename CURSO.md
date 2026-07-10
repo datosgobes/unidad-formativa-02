@@ -283,49 +283,49 @@ La revolución digital ha traído consigo, no solo el **desarrollo de potentes h
 
 Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo de creación es anterior a 1850, si pertenece al periodo 1850-2000, o si por el contrario fue creada en este siglo.  
 
-<center>![Ejercicio 1, primera cuestión](media/Ejercicio_0.png "Shewing at One View The Price of The Quarter of Wheat, & Wages of Labour by the Week, William Playfair.")</center>
+<center>![Ejercicio 1, primera cuestión](media/Ejercicio_0.png "Figura. Shewing at One View The Price of The Quarter of Wheat, & Wages of Labour by the Week, William Playfair.")</center>
 
 - [(X)] < 1850
 - [( )] 1850 - 2000
 - [( )] > 2000
 
-<center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.jpg "The League of Nations,1925, Dr. Laura H. Martin y Dr. J. Paul Goode.")</center>
+<center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.jpg "Figura. The League of Nations,1925, Dr. Laura H. Martin y Dr. J. Paul Goode.")</center>
 
 - [( )] < 1850
 - [(X)] 1850 - 2000
 - [( )] > 2000
 
-<center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "СССР и капстраны. (La URSS y los países capitalistas)")</center>
+<center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "Figura. СССР и капстраны. (La URSS y los países capitalistas)")</center>
 
 - [( )] < 1850
 - [(X)] 1850 - 2000
 - [( )] > 2000
 
-<center>![Ejercicio 1, cuarta cuestión](media/Ejercicio_6.png "Crops that drive world trade in hazardous pesticides, Public Eye.")</center>
+<center>![Ejercicio 1, cuarta cuestión](media/Ejercicio_6.png "Figura. Crops that drive world trade in hazardous pesticides, Public Eye.")</center>
 
 - [( )] < 1850
 - [( )] 1850 - 2000
 - [(X)] > 2000
 
-<center>![Ejercicio 1, quinta cuestión](media/Ejercicio_1.png "London Underground, Henry Beck.")</center>
+<center>![Ejercicio 1, quinta cuestión](media/Ejercicio_1.png "Figura. London Underground, Henry Beck.")</center>
 
 - [( )] < 1850
 - [(X)] 1850 - 2000
 - [( )] > 2000
 
-<center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.jpg "Exports and Imports to and from Denmark and Norway, William Playfair.")</center>
+<center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.jpg "Figura. Exports and Imports to and from Denmark and Norway, William Playfair.")</center>
 
 - [(X)] < 1850
 - [( )] 1850 - 2000
 - [( )] > 2000
 
-<center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.jpg "Top 2000 loved 70's & 80's, Nadieh Bremer.")</center>
+<center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.jpg "Figura. Top 2000 loved 70's & 80's, Nadieh Bremer.")</center>
 
 - [( )] < 1850
 - [( )] 1850 - 2000
 - [(X)] > 2000
 
-<center>![Ejercicio 1, octava cuestión](media/Ejercicio_7.png "Four Years of Vacations in 20,000 Colors, Shirley Wu.")</center>
+<center>![Ejercicio 1, octava cuestión](media/Ejercicio_7.png "Figura. Four Years of Vacations in 20,000 Colors, Shirley Wu.")</center>
 
 - [( )] < 1850
 - [( )] 1850 - 2000
@@ -988,49 +988,49 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
 
 Identifica el tipo de visualización correspondiente con cada proyecto
 
-<center>![Ejercicio 2, primera cuestión](media/Ejercicio_8.png "Adyen's Shareholder Report, Nadieh Bremer")</center>
+<center>![Ejercicio 2, primera cuestión](media/Ejercicio_8.png "Figura. Adyen's Shareholder Report, Nadieh Bremer")</center>
 
 - [( )] Nodos
 - [( )] Coropletas
 - [(X)] Sankey
 
-<center>![Ejercicio 2, segunda cuestión](media/Ejercicio_9.png "Digital fingerprint of the song Adore You by Harry Styles, Nadieh Bremer")</center>
+<center>![Ejercicio 2, segunda cuestión](media/Ejercicio_9.png "Figura. Digital fingerprint of the song Adore You by Harry Styles, Nadieh Bremer")</center>
 
 - [( )] Puntos
 - [( )] Ejes Cartesianos
 - [(X)] Ejes Radiales
 
-<center>![Ejercicio 2, tercera cuestión](media/Ejercicio_10.jpg "World Water Atlas, Jan Willem Tulp")</center>
+<center>![Ejercicio 2, tercera cuestión](media/Ejercicio_10.jpg "Figura. World Water Atlas, Jan Willem Tulp")</center>
 
 - [( )] Voronoi
 - [(X)] Teselas
 - [( )] Contornos
 
-<center>![Ejercicio 2, cuarta cuestión](media/Ejercicio_11.jpg "Architecture Archive, Jan Willem Tulp")</center>
+<center>![Ejercicio 2, cuarta cuestión](media/Ejercicio_11.jpg "Figura. Architecture Archive, Jan Willem Tulp")</center>
 
 - [( )] Ejes Radiales
 - [( )] Nodos
 - [(X)] Nodos Radiales
 
-<center>![Ejercicio 2, quinta cuestión](media/Ejercicio_12.jpg "Meldingen Openbare Ruimte, Jan Willem Tulp")</center>
+<center>![Ejercicio 2, quinta cuestión](media/Ejercicio_12.jpg "Figura. Meldingen Openbare Ruimte, Jan Willem Tulp")</center>
 
 - [( )] Burbujas
 - [(X)] Puntos
 - [( )] Teselas
 
-<center>![Ejercicio 2, sexta cuestión](media/Ejercicio_13.png "Spain lives in flats: why we have built our cities vertically, Raúl Sánchez y Analía Plaza")</center>
+<center>![Ejercicio 2, sexta cuestión](media/Ejercicio_13.png "Figura. Spain lives in flats: why we have built our cities vertically, Raúl Sánchez y Analía Plaza")</center>
 
 - [( )] Contornos
 - [(X)] 3D
 - [( )] Teselas
 
-<center>![Ejercicio 2, séptima cuestión](media/Ejercicio_14.jpg "Wind Map, Fernanda Viégas y Martin Wattenberg")</center>
+<center>![Ejercicio 2, séptima cuestión](media/Ejercicio_14.jpg "Figura. Wind Map, Fernanda Viégas y Martin Wattenberg")</center>
 
 - [( )] Contornos
 - [( )] Paths
 - [(X)] Trayectorias
 
-<center>![Ejercicio 2, octava cuestión](media/Ejercicio_16.png "Bussed out, how America moves its homeless, The Guardian")</center>
+<center>![Ejercicio 2, octava cuestión](media/Ejercicio_16.png "Figura. Bussed out, how America moves its homeless, The Guardian")</center>
 
 - [( )] Puntos
 - [(X)] Burbujas
@@ -1085,7 +1085,7 @@ Todos estos elementos pueden estar asociados a clases, para así evitar tener qu
 
 La creciente complejidad de las páginas web ha ido demandando **lenguajes de programación con más recursos** que el HTML, siendo JavaScript uno de los más relevantes. Este lenguaje permite desarrollar **estructuras modulares recursivas y componentes reutilizables**, lo que facilita escalar fácilmente los contenidos de una página web. 
 
-Este lenguaje también ha sido aprovechado para crear elementos visuales que comprenden todos los descritos en la sección de Tipos de Visualización. Sobre su base se han desarrollado diversos entornos y bibliotecas como React, Angular, Vue o Svelte. 
+Este lenguaje también ha sido aprovechado para crear elementos visuales que comprenden todos los descritos en la sección de Tipos de Visualizaciones. Sobre su base se han desarrollado diversos entornos y bibliotecas como React, Angular, Vue o Svelte. 
 
   <div class="aviso_caja">
 	<div class="aviso_titulo">
