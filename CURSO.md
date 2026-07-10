@@ -205,9 +205,7 @@ En 1694 Galileo Galilei publica su obra sobre la <b>posición de las estrellas n
 	</div>
 </div>
 
-La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 
-
- 📖[ Fuente](https://www.edwardtufte.com/book/beautiful-evidence/)
+La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 📖[ Fuente](https://www.edwardtufte.com/book/beautiful-evidence/)
 
 *************************************************************************************************************
 
@@ -260,11 +258,10 @@ De esta forma se llega al siglo XX, donde las **grandes tiradas de prensa popula
 	</div>
 	<div class="aviso_contenido">
 		
-La revolución digital ha traído consigo, no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**. 
+La revolución digital ha traído consigo, no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**. 📖[ Fuente](https://www.edwardtufte.com/book/beautiful-evidence/)
 	</div>
 </div>
 
- 📖[ Fuente](https://www.edwardtufte.com/book/beautiful-evidence/)
 
  <div class="masinfo_caja">
 	<div class="masinfo_titulo">
@@ -489,13 +486,13 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 
 En esta sección veremos los **tipos de visualizaciones más populares**, ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis y productos que necesitan de la representación gráfica de grandes cantidades de datos. 
 
-Las visualizaciones se suelen distribuir en cuatro grandes familias: 
+Las visualizaciones se suelen distribuir en cuatro grandes familias: 📖[ Fuente](https://www.albertocairo.com/) 
 - **Magnitudes**
 - **Series temporales** 
 - **Redes y jerarquías** 
 - **Mapas y cartografía**
 
- 📖[ Fuente](https://www.albertocairo.com/)
+
 
 <div class="masinfo_caja">
 	<div class="masinfo_titulo">
@@ -536,7 +533,7 @@ Tiene su origen en el <i>scatter plot</i>, **círculos posicionados en un plano 
 </div>
 
 <div class="concepto">
-		Treemap
+		<i>Treemap</i>
 </div>
 
 Muy popular para datos económicos. El <i>treemap</i> **distribuye un espacio limitado en parcelas** cuyo tamaño es proporcional a la magnitud en estudio. De esta forma es directamente comparable el valor de diferentes categorías y es posible explorar el color como otro eje de información adicional. 
