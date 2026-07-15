@@ -281,7 +281,7 @@ Algunos ejemplos destacados de visualizaciones fuera del mundo digital son:
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-<a href="https://www.edwardtufte.com/book/the-visual-display-of-quantitative-information/?_gl=1*uzj41e*_up*MQ..*_ga*NDI3Njk5Mjc4LjE3ODI5MTczNDg.*_ga_JCT37YWSC9*czE3ODI5MTczNDYkbzEkZzEkdDE3ODI5MTczODIkajI0JGwwJGgw">The Visual Display of Quantitative Information, de Edward R. Tufte</a>
+<a href="https://www.edwardtufte.com/book/the-visual-display-of-quantitative-information/?_gl=1*uzj41e*_up*MQ..*_ga*NDI3Njk5Mjc4LjE3ODI5MTczNDg.*_ga_JCT37YWSC9*czE3ODI5MTczNDYkbzEkZzEkdDE3ODI5MTczODIkajI0JGwwJGgw" target="_blank">The Visual Display of Quantitative Information, de Edward R. Tufte</a>
   </div>
 </div>
 
@@ -366,7 +366,7 @@ El propio interés empresarial ha permitido **el desarrollo de herramientas muy 
 	</div>
 	<div class="ejemplo_contenido">
 Kpler, empresa que monitoriza el movimiento de materias primas y derivados de combustibles fósiles a través del transporte marítimo por todo el planeta, se ha erigido como una **referencia a la hora de representar grandes cantidades de datos visualmente** de forma innovadora, individualizando **trayectorias de cargueros** en alta mar, así como representando **cantidades derivadas de volúmenes transportados**. 
-		<a href="https://www.youtube.com/watch?v=P0uqeMV9Y54">Kpler Market Insight</a>
+		<a href="https://www.youtube.com/watch?v=P0uqeMV9Y54" target="_blank">Kpler Market Insight</a>
 	</div>
 </div>
 
@@ -527,10 +527,10 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias: 📖[ Fuent
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-- <a href="https://www.stefanieposavec.com/books">Literatura diversa sobre visualización, de Stefanie Posavec</a>
-- <a href="https://www.visualcinnamon.com/chart/">Chart, de Nadieh Bremer</a>
-- <a href="https://flowingdata.com/books/">Literatura diversa sobre visualización, de Nathan Yau</a>
-- <a href="https://www.analyticspress.com/smtn.php">Show Me The Numbers, de Stephen Few</a>
+- <a href="https://www.stefanieposavec.com/books" target="_blank">Literatura diversa sobre visualización, de Stefanie Posavec</a>
+- <a href="https://www.visualcinnamon.com/chart/" target="_blank">Chart, de Nadieh Bremer</a>
+- <a href="https://flowingdata.com/books/" target="_blank">Literatura diversa sobre visualización, de Nathan Yau</a>
+- <a href="https://www.analyticspress.com/smtn.php" target="_blank">Show Me The Numbers, de Stephen Few</a>
   </div>
 </div>
 
