@@ -173,9 +173,10 @@ La visualización existe probablemente desde **antes incluso del desarrollo de l
 	</div>
 	<div class="ejemplo_contenido">
 En la siguiente figura se puede observar la <b>distribución de estrellas de la constelación de Pegaso</b> realizada por Johann Bayer en 1603, un ejemplo que recoge la práctica milenaria de referenciarnos dentro del espacio y del universo. 
-<center>![Johann Bayer, Uranometría, 1603](media/UD07_Bayer.jpg "Figura. Johann Bayer, Uranometría, 1603. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
+
+<center>![Johann Bayer, Uranometría, 1603](media/UD07_Bayer.jpg "Figura. Johann Bayer, Uranometría, 1603. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 
 La observación astronómica trae consigo, de hecho, uno de los **mayores giros conceptuales** en la percepción que ha hecho el ser humano del conocimiento.
 
