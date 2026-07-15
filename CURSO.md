@@ -360,6 +360,9 @@ Kpler, empresa que monitoriza el movimiento de materias primas y derivados de co
 	</div>
 </div>
 
+<center>![Visualizacion de datos de Kpler](media/Kpler.png "Figura. Visualización del tráfico marítimo en el estrecho de Ormuz")</center>
+
+
 *************************************************************************************************************
 
 ### Tareas del desarrollador de visualizaciones de datos 
