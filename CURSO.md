@@ -191,7 +191,7 @@ En 1694 Galileo Galilei publica su obra sobre la <b>posición de las estrellas n
 
 <center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura. Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 
-La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 📖[ Fuente](https://www.edwardtufte.com/book/beautiful-evidence/)
+La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 📖[ Fuente](https://www.edwardtufte.com/)
 
 *************************************************************************************************************
 
@@ -247,7 +247,7 @@ De esta forma se llega al siglo XX, donde las **grandes tiradas de prensa popula
 	</div>
 	<div class="aviso_contenido">
 		
-La revolución digital ha traído consigo, no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**. 📖[ Fuente](https://www.edwardtufte.com/book/beautiful-evidence/)
+La revolución digital ha traído consigo, no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**.
 	</div>
 	<div class="aviso_contenido">
 No obstante, el desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha desbancado totalmente la <b>creación de piezas de visualización artesanas</b>, hechas fuera del mundo digital. Estas emplean todo tipo de materiales y técnicas que también se benefician de otros avances tecnológicos, y permiten llegar al público de forma <b>muy efectiva e impactante</b>. 
@@ -273,7 +273,7 @@ Algunos ejemplos destacados de visualizaciones fuera del mundo digital son:
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-- <a href="https://www.edwardtufte.com/book/the-visual-display-of-quantitative-information/?_gl=1*uzj41e*_up*MQ..*_ga*NDI3Njk5Mjc4LjE3ODI5MTczNDg.*_ga_JCT37YWSC9*czE3ODI5MTczNDYkbzEkZzEkdDE3ODI5MTczODIkajI0JGwwJGgw">The Visual Display of Quantitative Information, de Edward R. Tufte</a>
+<a href="https://www.edwardtufte.com/book/the-visual-display-of-quantitative-information/?_gl=1*uzj41e*_up*MQ..*_ga*NDI3Njk5Mjc4LjE3ODI5MTczNDg.*_ga_JCT37YWSC9*czE3ODI5MTczNDYkbzEkZzEkdDE3ODI5MTczODIkajI0JGwwJGgw">The Visual Display of Quantitative Information, de Edward R. Tufte</a>
   </div>
 </div>
 
