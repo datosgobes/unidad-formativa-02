@@ -356,6 +356,7 @@ De todos esos avances se ha beneficiado el mundo empresarial, una vez que **la c
 	</div>
 	<div class="ejemplo_contenido">
 Kpler, empresa que monitoriza el movimiento de materias primas y derivados de combustibles fósiles a través del transporte marítimo por todo el planeta, se ha erigido como una **referencia a la hora de representar grandes cantidades de datos visualmente** de forma innovadora, individualizando **trayectorias de cargueros** en alta mar, así como representando **cantidades derivadas de volúmenes transportados**. 
+		<a href=https://www.youtube.com/watch?v=P0uqeMV9Y54">Kpler Market Insight</a>
 	</div>
 </div>
 
