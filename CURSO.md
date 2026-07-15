@@ -186,9 +186,10 @@ La observación astronómica trae consigo, de hecho, uno de los **mayores giros 
 	</div>
 	<div class="ejemplo_contenido">
 En 1694 Galileo Galilei publica su obra sobre la <b>posición de las estrellas no visibles a simple vista</b> gracias al uso del telescopio, al comienzo del desarrollo y uso de tales artilugios (ver siguiente figura). 
-<center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura. Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
+
+<center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura. Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 
 La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 📖[ Fuente](https://www.edwardtufte.com/book/beautiful-evidence/)
 
@@ -209,9 +210,10 @@ Con el avance científico, matemático y estadístico en los siglos posteriores 
 	</div>
 	<div class="ejemplo_contenido">
 Florence Nightingale, enfermera inglesa destinada en la guerra de Crimea, desarrolló todo un conjunto de nuevas visualizaciones gracias a su análisis estadístico sobre la <b>mortandad en las unidades hospitalarias</b> en las que estuvo destinada (ver siguiente figura). A pesar de la familiaridad actual con este tipo de diagramas, en su momento fue una <b>aproximación rupturista</b> a la representación de magnitudes. 
-<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.png "Figura. Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
+
+<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.png "Figura. Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -219,9 +221,10 @@ Florence Nightingale, enfermera inglesa destinada en la guerra de Crimea, desarr
 	</div>
 	<div class="ejemplo_contenido">
 Charles Minard describió la sangrienta campaña en el frente ruso de las tropas napoleónicas, con todo un grueso de tropas menguante que viaja de oeste a este y que posteriormente emprende su camino de retarguardia, ya en un número muy diezmado (ver siguiente figura). Más allá de su propuesta visual, en trabajo de Charles Minard <b>se caracteriza por mencionar sus fuentes y citarlas apropiadamente</b>, estableciendo nuevos códigos de rigor y método. 
-<center>![Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869](media/UD07_Minard.png "Figura. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
+
+<center>![Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869](media/UD07_Minard.png "Figura. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -229,9 +232,10 @@ Charles Minard describió la sangrienta campaña en el frente ruso de las tropas
 	</div>
 	<div class="ejemplo_contenido">
 W.E.B. duBois refleja sus estadísticas de la realidad socioeconómica de la población afroamericana tras la ilegalización de la esclavitud en toda una serie de visualizaciones que presenta en la exposición universal de París de 1900. Destaca en su <b>uso del color así como en el uso de nuevas formas geométricas</b> hasta entonces inéditas (ver siguiente figura). 
-<center>![Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900](media/UD07_DuBois.png "Figura. Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
+
+<center>![Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900](media/UD07_DuBois.png "Figura. Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 
 Todos ellos pusieron la visualización a otro nivel, tanto en lo relativo al **rigor numérico y citación de fuentes** como en la adopción de una **aproximación gráfica y estética absolutamente rupturista** con el clasicismo de los ejes cartesianos de los siglos anteriores.
 
@@ -429,9 +433,10 @@ Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Co
 	</div>
 	<div class="ejemplo_contenido">
 		En la siguiente figura se muestra el contenido de un fichero CSV con información correspondiente a <b>aeropuertos a escala global</b>. En él se detallan las categorías en la primera fila, como por ejemplo su latitud, longitud, altitud, código IATA o la región y el país en el que se encuentran. En el resto de filas se ofrece la información con una fila para cada aeropuerto. 
-		<center>![Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV](media/UD07_CSV.png "Figura. Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV.")</center>
 	</div>
 </div>
+
+		<center>![Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV](media/UD07_CSV.png "Figura. Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV.")</center>
 
 <div class="concepto">
 		JSON
@@ -445,10 +450,10 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 	</div>
 	<div class="ejemplo_contenido">
 		En la siguiente figura se observa la estructura de un fichero JSON. A diferencia de un CSV en este caso la información <b>está ordenada por pares</b>, de forma que una categoría tiene asociada un valor concreto. Estos pares <b>se pueden anidar</b> dentro de una estructura parent-children, lo que permite también crear jerarquías si la propia estructura de los datos lo necesitan. 
-	<center>![Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.](media/UD07_JSON.png "Figura. Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.")</center>
 	</div>
 </div>
 
+	<center>![Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.](media/UD07_JSON.png "Figura. Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.")</center>
 
 <div class="destacado_caja">
   <div class="destacado_titulo">
