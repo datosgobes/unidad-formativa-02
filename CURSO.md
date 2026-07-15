@@ -403,7 +403,7 @@ Dentro de los tipos de visualizaciones, se detallan los elementos que constituye
 - **Magnitudes**
 - **Series temporales**
 - **Redes y jerarquías**
-- **Mapas y cartografía**
+- **Cartografía y mapas**
 
 *************************************************************************************************************
 
@@ -500,7 +500,7 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias: 📖[ Fuent
 - **Magnitudes**
 - **Series temporales** 
 - **Redes y jerarquías** 
-- **Mapas y cartografía**
+- **Cartografía y mapas**
 
 
 
@@ -760,7 +760,7 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
 
 <!-- id="vis_1" -->
 
-#### Redes y Jerarquías
+#### Redes y jerarquías
 
 {{|>}}
 *************************************************************************************************************
@@ -827,7 +827,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 
 <!-- id="vis_3" -->
 
-#### Cartografía y Mapas
+#### Cartografía y mapas
 
 {{|>}}
 *************************************************************************************************************
