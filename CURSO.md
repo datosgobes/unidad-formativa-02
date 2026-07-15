@@ -39,7 +39,9 @@ Esta unidad didáctica ofrece una visión general de la **visualización de dato
 
 Para consolidar lo aprendido, contarás con **ejercicios** en cada bloque, un **cuestionario final** y un **resumen** que recogerá las ideas más importantes.
 
-Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece una visión general de los conceptos fundamentales que exploraremos a lo largo de los distintos apartados. Este recurso audiovisual te permitirá situarte en el tema, comprender su importancia y anticipar las ideas clave que desarrollaremos con mayor profundidad.
+Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece una visión general de los conceptos fundamentales que exploraremos a lo largo de los distintos apartados. 
+
+Este recurso audiovisual te permitirá situarte en el tema, comprender su importancia y anticipar las ideas clave que desarrollaremos con mayor profundidad.
 
 <center>**¡Adelante!**</center>
 
@@ -191,7 +193,9 @@ En 1694 Galileo Galilei publica su obra sobre la <b>posición de las estrellas n
 
 <center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura. Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 
-La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 📖[ Fuente](https://www.edwardtufte.com/)
+La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos. 
+
+Esta idea anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 📖[ Fuente](https://www.edwardtufte.com/)
 
 *************************************************************************************************************
 
@@ -239,7 +243,9 @@ W.E.B. duBois refleja sus estadísticas de la realidad socioeconómica de la pob
 
 Todos ellos pusieron la visualización a otro nivel, tanto en lo relativo al **rigor numérico y citación de fuentes** como en la adopción de una **aproximación gráfica y estética absolutamente rupturista** con el clasicismo de los ejes cartesianos de los siglos anteriores.
 
-De esta forma se llega al siglo XX, donde las **grandes tiradas de prensa popularizan definitivamente el uso de la visualización de datos** y ésta pasa a formar parte de muchas de las narrativas periodísticas. El siglo XXI trae consigo la irrupción de Internet y el aumento de la capacidad de cálculo de los circuitos integrados basados en materiales semiconductores, ofreciendo potentes herramientas tanto de análisis como de visualización desplegando un universo de posibilidades impensables hace unas décadas, tanto de volumen de datos como de creatividad. 
+De esta forma se llega al siglo XX, donde las **grandes tiradas de prensa popularizan definitivamente el uso de la visualización de datos** y ésta pasa a formar parte de muchas de las narrativas periodísticas. 
+
+El siglo XXI trae consigo la irrupción de Internet y el aumento de la capacidad de cálculo de los circuitos integrados basados en materiales semiconductores, ofreciendo potentes herramientas tanto de análisis como de visualización desplegando un universo de posibilidades impensables hace unas décadas, tanto de volumen de datos como de creatividad. 
 
   <div class="aviso_caja">
 	<div class="aviso_titulo">
@@ -247,7 +253,9 @@ De esta forma se llega al siglo XX, donde las **grandes tiradas de prensa popula
 	</div>
 	<div class="aviso_contenido">
 		
-La revolución digital ha traído consigo, no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**.
+La revolución digital ha traído consigo, no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. 
+
+Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**.
 	</div>
 	<div class="aviso_contenido">
 No obstante, el desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha desbancado totalmente la <b>creación de piezas de visualización artesanas</b>, hechas fuera del mundo digital. Estas emplean todo tipo de materiales y técnicas que también se benefician de otros avances tecnológicos, y permiten llegar al público de forma <b>muy efectiva e impactante</b>. 
@@ -348,7 +356,9 @@ Como hemos visto, el ámbito en el cual se han desarrollado proyectos de visuali
 
 Tradicionalmente, **el ámbito periodístico y social ha sido el motor** para el desarrollo de esta disciplina, interesada en transmitir de forma rápida e intuitiva información relevante que debe ser comprendida en poco tiempo por lectores no necesariamente dispuestos a leer artículos de texto. 
 
-De todos esos avances se ha beneficiado el mundo empresarial, una vez que **la cantidad de datos a manejar ha crecido exponencialmente** y la representación de la realidad corporativa ya no puede realizarse de forma estrictamente oral o convencional a través de informes únicamente de texto. El propio interés empresarial ha permitido **el desarrollo de herramientas muy potentes para visualización**, tanto a nivel cartográfico (Google Earth, KeplerGL) como en formas más básicas de representación. 
+De todos esos avances se ha beneficiado el mundo empresarial, una vez que **la cantidad de datos a manejar ha crecido exponencialmente** y la representación de la realidad corporativa ya no puede realizarse de forma estrictamente oral o convencional a través de informes únicamente de texto. 
+
+El propio interés empresarial ha permitido **el desarrollo de herramientas muy potentes para visualización**, tanto a nivel cartográfico (Google Earth, KeplerGL) como en formas más básicas de representación. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -398,7 +408,9 @@ En la primera parte se explican las **definiciones y estructura de los formatos 
 - **CSV, TSV y TXT**
 - **JSON**
 
-Dentro de los tipos de visualizaciones, se detallan los elementos que constituyen **las cuatro grandes familias de visualización contemporánea** y dentro de las cuales se agrupan la mayoría de las visualizaciones que podemos desarrollar. Igualmente, las **visualizaciones que vemos día a día** tanto en los entornos de prensa como corporativos pueden asociarse a alguna de estas familias, ofreciendo **diferentes posibilidades para representar los datos** de forma diferente. Estas familias son: 
+Dentro de los tipos de visualizaciones, se detallan los elementos que constituyen **las cuatro grandes familias de visualización contemporánea** y dentro de las cuales se agrupan la mayoría de las visualizaciones que podemos desarrollar. 
+
+Igualmente, las **visualizaciones que vemos día a día** tanto en los entornos de prensa como corporativos pueden asociarse a alguna de estas familias, ofreciendo **diferentes posibilidades para representar los datos** de forma diferente. Estas familias son: 
 
 - **Magnitudes**
 - **Series temporales**
@@ -412,7 +424,9 @@ Dentro de los tipos de visualizaciones, se detallan los elementos que constituye
 {{|>}}
 *************************************************************************************************************
 
-Los datos abiertos suelen presentarse en un **amplio espectro de formatos**, dependiendo del organismo que los publica y de los medios por los cuales los ha obtenido. A pesar de esta diversidad, el mundo de la visualización de datos suele ceñirse a un subconjunto de formatos. En concreto, se centra en aquellos que aseguran **facilidad de lectura dentro de unos estándares** y el **acceso de forma estructurada** a los datos, para así poder repetir patrones para cada entrada en el fichero de los datos. 
+Los datos abiertos suelen presentarse en un **amplio espectro de formatos**, dependiendo del organismo que los publica y de los medios por los cuales los ha obtenido. 
+
+A pesar de esta diversidad, el mundo de la visualización de datos suele ceñirse a un subconjunto de formatos. En concreto, se centra en aquellos que aseguran **facilidad de lectura dentro de unos estándares** y el **acceso de forma estructurada** a los datos, para así poder repetir patrones para cada entrada en el fichero de los datos. 
 
 En esta sección y en las siguientes incorporamos herramientas para poder abordar y trabajar sobre los conceptos que se explican. Las herramientas proporcionadas son de acceso gratuito y permiten familiarizarnos con los formatos planteados. 
 
@@ -421,7 +435,9 @@ En esta sección y en las siguientes incorporamos herramientas para poder aborda
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-El conjunto de formatos presentado aquí representa la mayor parte de <b>datos con un número pequeño o moderado de entradas</b>. La explosión del big data ha traído consigo la creación de nuevos formatos tales como bases de datos o como el formato .parquet, por ejemplo, que pueden contener millones de entradas y por lo tanto son formatos difíciles de manejar por herramientas tradicionales de análisis y visualización, y que necesitan de software específico. 
+El conjunto de formatos presentado aquí representa la mayor parte de <b>datos con un número pequeño o moderado de entradas</b>. La explosión del big data ha traído consigo la creación de nuevos formatos tales como bases de datos o como el formato .parquet, por ejemplo, que pueden contener millones de entradas.
+		
+Estos formatos son difíciles de manejar por herramientas tradicionales de análisis y visualización, y necesitan de software específico. 
 	</div>
 </div>
 
@@ -429,7 +445,9 @@ El conjunto de formatos presentado aquí representa la mayor parte de <b>datos c
 		CSV, TSV, TXT
 </div>
 
-Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Comma Separated Value** (CSV), **Tab Separated Value** (TSV) o **Text** (TXT), que puede adoptar la forma tanto del CSV como del TSV. En estos casos los datos se disponen en hileras cuyas columnas están separadas bien por comas (CSV), bien por tabulaciones (TSV) dentro de cada fila. Al tener siempre el mismo carácter diferenciador, bien sea la coma o la tabulación, es muy fácil para lenguajes como Python o R interpretar el contenido del fichero de entrada y estructurarlo acorde con esos separadores.
+Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Comma Separated Value** (CSV), **Tab Separated Value** (TSV) o **Text** (TXT), que puede adoptar la forma tanto del CSV como del TSV. En estos casos los datos se disponen en hileras cuyas columnas están separadas bien por comas (CSV), bien por tabulaciones (TSV) dentro de cada fila. 
+
+Al tener siempre el mismo carácter diferenciador, bien sea la coma o la tabulación, es muy fácil para lenguajes como Python o R interpretar el contenido del fichero de entrada y estructurarlo acorde con esos separadores.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -446,7 +464,9 @@ Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Co
 		JSON
 </div>
 
-Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una estructura de datos donde los valores y magnitudes vienen **en forma de pares**, donde a una categoría se asocia un valor. Estas estructuras pueden agruparse en cadenas o arrays de elementos. Su desarrollo estuvo motivado por el intercambio de información necesario para nutrir las páginas web y los navegadores, y ha acabado por convertirse en un estándar válido también fuera de estos ámbitos. 
+Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una estructura de datos donde los valores y magnitudes vienen **en forma de pares**, donde a una categoría se asocia un valor. Estas estructuras pueden agruparse en cadenas o arrays de elementos.
+
+Su desarrollo estuvo motivado por el intercambio de información necesario para nutrir las páginas web y los navegadores, y ha acabado por convertirse en un estándar válido también fuera de estos ámbitos. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -501,8 +521,6 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias: 📖[ Fuent
 - **Series temporales** 
 - **Redes y jerarquías** 
 - **Cartografía y mapas**
-
-
 
 <div class="masinfo_caja">
 	<div class="masinfo_titulo">
@@ -644,7 +662,9 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
 
 {{|>}}
 *************************************************************************************************************
-Una serie temporal es una **representación cronológica de eventos** para que se entienda qué pasó y cuándo de una serie de hitos. Es una de las más antiguas representaciones de información de forma visual para las series temporales son los **ejes cartesianos y sus variantes**. Esta representación se apoya en la interpretación que hace la cultura occidental sobre la **linealidad del tiempo**, en comparación con la circularidad o recursividad de la dimensión temporal en las culturas orientales. De esta forma, existen diversas formas de representar el tiempo que enumeramos aquí.  
+Una serie temporal es una **representación cronológica de eventos** para que se entienda qué pasó y cuándo de una serie de hitos. Es una de las más antiguas representaciones de información de forma visual para las series temporales son los **ejes cartesianos y sus variantes**. 
+
+Esta representación se apoya en la interpretación que hace la cultura occidental sobre la **linealidad del tiempo**, en comparación con la circularidad o recursividad de la dimensión temporal en las culturas orientales. De esta forma, existen diversas formas de representar el tiempo que enumeramos aquí.  
 
 <div class="concepto">
 		Ejes cartesianos
@@ -832,7 +852,9 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 {{|>}}
 *************************************************************************************************************
 
-El mundo de los mapas y la cartografía es un universo en sí mismo, con **siglos de antigüedad y en constante evolución**. A pesar de ser un sistema de representación emparentado con los ejes cartesianos y por lo tanto con un peso tradicional del que le cuesta desprenderse, hoy en día combina lo mejor de los dos mundos, tanto el aspecto más tradicional como propuestas más arriesgadas que invitan a repensar cómo vemos el mundo más allá de esa tradición.  
+El mundo de los mapas y la cartografía es un universo en sí mismo, con **siglos de antigüedad y en constante evolución**. A pesar de ser un sistema de representación emparentado con los ejes cartesianos y por lo tanto con un peso tradicional del que le cuesta desprenderse, hoy en día combina lo mejor de los dos mundos, tanto el aspecto más tradicional como propuestas más arriesgadas. 
+
+La cartografía contemporánea invita a repensar cómo vemos el mundo más allá de esa tradición.  
 
 Las formas de representación geográfica son numerosas; se citan algunas de ellas en esta sección.  
 
@@ -1066,7 +1088,9 @@ Los entornos más básicos en la web se componen de HTML, CSS y JavaScript. Veam
 
 Con HTML (HyperText Markup Language), se crean los **contenedores en los cuales se distribuyen los distintos tipos de contenidos** de una página: contenedor, texto o imagen. 
 
-Todos estos elementos pueden estar asociados a clases, para así evitar tener que caracterizar al detalle cada elemento cada vez que lo introducimos. De este modo, se define una clase y **todos los elementos vinculados a esa clase tendrán la misma apariencia**, bien sean contenedores, tipos y tamaños de texto, o tamaños y opacidades de imágenes. Esto se realiza a través de CSS (Cascading Style Sheets). 
+Todos estos elementos pueden estar asociados a clases, para así evitar tener que caracterizar al detalle cada elemento cada vez que lo introducimos. 
+
+De este modo, se define una clase y **todos los elementos vinculados a esa clase tendrán la misma apariencia**, bien sean contenedores, tipos y tamaños de texto, o tamaños y opacidades de imágenes. Esto se realiza a través de CSS (Cascading Style Sheets). 
 
 <div class="destacado_caja">
   <div class="destacado_titulo">
@@ -1093,7 +1117,9 @@ Todos estos elementos pueden estar asociados a clases, para así evitar tener qu
 {{|>}}
 *************************************************************************************************************
 
-La creciente complejidad de las páginas web ha ido demandando **lenguajes de programación con más recursos** que el HTML, siendo JavaScript uno de los más relevantes. Este lenguaje permite desarrollar **estructuras modulares recursivas y componentes reutilizables**, lo que facilita escalar fácilmente los contenidos de una página web. 
+La creciente complejidad de las páginas web ha ido demandando **lenguajes de programación con más recursos** que el HTML, siendo JavaScript uno de los más relevantes. 
+
+Este lenguaje permite desarrollar **estructuras modulares recursivas y componentes reutilizables**, lo que facilita escalar fácilmente los contenidos de una página web. 
 
 Este lenguaje también ha sido aprovechado para crear elementos visuales que comprenden todos los descritos en la sección de Tipos de Visualizaciones. Sobre su base se han desarrollado diversos entornos y bibliotecas como React, Angular, Vue o Svelte. 
 
@@ -1102,7 +1128,9 @@ Este lenguaje también ha sido aprovechado para crear elementos visuales que com
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-La irrupción de la inteligencia artificial (IA) ha revolucionado la creación de los entornos de desarrollo web. Lo que antes era la elaboración de código por parte de especialistas llamados ingenieros de <i>FrontEnd</i>, haciendo referencia a la parte frontal y visible de la web, ha pasado a ser parcialmente <b>automatizable por parte de los agentes de IA</b> , que generan código donde albergar visualizaciones. <b>La IA por lo tanto pasa a formar parte del elenco de herramientas disponibles</b> para el desarrollo de frontales web. 
+La irrupción de la inteligencia artificial (IA) ha revolucionado la creación de los entornos de desarrollo web. Lo que antes era la elaboración de código por parte de especialistas llamados ingenieros de <i>FrontEnd</i>, haciendo referencia a la parte frontal y visible de la web, ha pasado a ser parcialmente <b>automatizable por parte de los agentes de IA</b>.
+		
+Los agentes son capaces de generar código donde albergar visualizaciones. <b>La IA por lo tanto pasa a formar parte del elenco de herramientas disponibles</b> para el desarrollo de frontales web. 
 	</div>
 </div>
 
@@ -1141,7 +1169,9 @@ La irrupción de la inteligencia artificial (IA) ha revolucionado la creación d
 
 Dada la relativa laboriosidad de crear una página web desde cero, existen entornos ya creados **aptos para el desarrollo de visualizaciones** que sólo necesitan del código en JavaScript y de los datos en formato CSV o JSON, entre otros. 
 
-Una de estas iniciativas es Observable, donde es posible crear **visualizaciones en D3.js** sin necesidad de crear un servidor local ni de crear una página en HTML y CSS previamente. Funciona a modo de <i>notebook</i>, y cada modificación en el código va seguida de su correspondiente ejecución en una celda destacada del propio <i>notebook</i>. 
+Una de estas iniciativas es Observable, donde es posible crear **visualizaciones en D3.js** sin necesidad de crear un servidor local ni de crear una página en HTML y CSS previamente. 
+
+Funciona a modo de <i>notebook</i>, y cada modificación en el código va seguida de su correspondiente ejecución en una celda destacada del propio <i>notebook</i>. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
