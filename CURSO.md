@@ -195,7 +195,7 @@ En 1694 Galileo Galilei publica su obra sobre la <b>posición de las estrellas n
 
 La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos. 
 
-Esta idea anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 📖[ Fuente](https://www.edwardtufte.com/)
+Esta idea anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 📖[ Fuente](https://politicalscience.yale.edu/people/edward-tufte)
 
 *************************************************************************************************************
 
@@ -516,7 +516,7 @@ Su desarrollo estuvo motivado por el intercambio de información necesario para 
 
 En esta sección veremos los **tipos de visualizaciones más populares**, ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis y productos que necesitan de la representación gráfica de grandes cantidades de datos. 
 
-Las visualizaciones se suelen distribuir en cuatro grandes familias: 📖[ Fuente](https://www.albertocairo.com/) 
+Las visualizaciones se suelen distribuir en cuatro grandes familias:
 - **Magnitudes**
 - **Series temporales** 
 - **Redes y jerarquías** 
@@ -527,10 +527,9 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias: 📖[ Fuent
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-- <a href="https://www.stefanieposavec.com/books" target="_blank">Literatura diversa sobre visualización, de Stefanie Posavec</a>
-- <a href="https://www.visualcinnamon.com/chart/" target="_blank">Chart, de Nadieh Bremer</a>
-- <a href="https://flowingdata.com/books/" target="_blank">Literatura diversa sobre visualización, de Nathan Yau</a>
-- <a href="https://www.analyticspress.com/smtn.php" target="_blank">Show Me The Numbers, de Stephen Few</a>
+- <a href="https://www.stefanieposavec.com/" target="_blank">Stefanie Posavec</a>
+- <a href="https://www.visualcinnamon.com/" target="_blank">Nadieh Bremer</a>
+- <a href="https://flowingdata.com/" target="_blank">Nathan Yau</a>
   </div>
 </div>
 
