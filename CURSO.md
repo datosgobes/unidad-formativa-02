@@ -69,7 +69,7 @@ También puedes ver la [ VIDEO EN INGLES ]<!-- style="target: _blank" --> del v�
 
   <div class="presentacion_fila">
     <div class="caja-icono">📋</div><div class="caja-texto"><span class="etiqueta">Descripción:</span> 
-		La unidad describe <b>todos los elementos</b> que hay que abordar a la hora de realizar una <b>visualización de datos</b>, desde el procesamiento de los datos de entrada para disponer del formato adecuado hasta la capa de presentación para poder acceder a la visualización en un entorno web; incluye también una revisión de los <b>tipos más frecuentes de visualización contemporánea</b> que podemos utilizar. En cada paso <b>se recomiendan una serie de herramientas</b>, gratuitas y de acceso libre, a las que podemos recurrir para realizar las visualizaciones.</div>
+		La unidad describe <b>todos los elementos</b> que hay que abordar a la hora de realizar una <b>visualización de datos</b>, desde el procesamiento de los datos de entrada para disponer del formato adecuado hasta la capa de presentación para poder acceder a la visualización en un entorno <i>web</i>; incluye también una revisión de los <b>tipos más frecuentes de visualización contemporánea</b> que podemos utilizar. En cada paso <b>se recomiendan una serie de herramientas</b>, gratuitas y de acceso libre, a las que podemos recurrir para realizar las visualizaciones.</div>
   </div>
 
   <div class="presentacion_fila">
@@ -79,7 +79,7 @@ También puedes ver la [ VIDEO EN INGLES ]<!-- style="target: _blank" --> del v�
 
   <div class="presentacion_fila">
     <div class="caja-icono">🎓</div><div class="caja-texto"><span class="etiqueta">Conocimientos previos:</span>
-		Esta unidad didáctica arranca desde los principios básicos de la visualización por lo cual puede ser seguida adecuadamente por cualquier usuario. No obstante, para el tratamiento de datos inicial, <b>el manejo de un lenguaje de programación como R o Python es recomendable</b>. Para la creación de proyectos de visualización se ofrecen toda una serie de herramientas desde muy básicas a más complejas. Asimismo, la <b>familiaridad con lenguajes como JavaScript puede ayudar para el desarrollo de visualizaciones y frontales web</b> que alberguen esas visualizaciones.</div>
+		Esta unidad didáctica arranca desde los principios básicos de la visualización por lo cual puede ser seguida adecuadamente por cualquier usuario. No obstante, para el tratamiento de datos inicial, <b>el manejo de un lenguaje de programación como R o Python es recomendable</b>. Para la creación de proyectos de visualización se ofrecen toda una serie de herramientas desde muy básicas a más complejas. Asimismo, la <b>familiaridad con lenguajes como JavaScript puede ayudar para el desarrollo de visualizaciones y frontales <i>web</i></b> que alberguen esas visualizaciones.</div>
   </div>
 
   <div class="presentacion_columna">
@@ -91,8 +91,8 @@ También puedes ver la [ VIDEO EN INGLES ]<!-- style="target: _blank" --> del v�
 	  Los objetivos didácticos que cubre esta unidad didáctica son: 
 - Introducir **históricamente** el ámbito de la visualización de datos, explicando los motivos por los cuales empleamos visualizaciones y qué es la visualización contemporánea. 
 - Proporcionar **herramientas básicas** al analista de datos, periodista, desarrollador, programador, diseñador gráfico o ilustrador que desee iniciarse en el mundo de la visualización de datos contemporánea. 
-- Explicar los **formatos de datos** más populares que se utilizan en la actualidad para visualizar datos en entornos web, así como su adecuación según la tecnología que empleada y del tipo de visualización. 
-- Introducir las **cuatro grandes familias de visualización contemporánea**: representación de magnitudes, series temporales,  elementos interconectados y mapas y cartografía
+- Explicar los **formatos de datos** más populares que se utilizan en la actualidad para visualizar datos en entornos <i>web</i>, así como su adecuación según la tecnología que empleada y del tipo de visualización. 
+- Introducir las **cuatro grandes familias de visualización contemporánea**: representación de magnitudes, series temporales, elementos interconectados y mapas y cartografía
       </div>
     </div>
     <div class="columna-mitad">
@@ -106,7 +106,7 @@ También puedes ver la [ VIDEO EN INGLES ]<!-- style="target: _blank" --> del v�
 2. Tipos y herramientas
    - Formatos de datos para visualización
    - Tipos de visualizaciones
-3. Frontales web
+3. Frontales _web_
    - HTML y CSS
    - Javascript
    - Observable
@@ -150,13 +150,13 @@ El **breve recorrido por la historia** de la visualización de datos, desde las 
 
 La difusión contemporánea de la visualización nos permite destacar los aspectos más relevantes que han permitido su **integración tanto en el mundo de la prensa como en el mundo empresarial**. 
 
-Finalmente se especifican **todas las áreas profesionales** que cubren el proceso de desarrollo de un proyecto de visualización, desde su concepción gráfica hasta su implementación en un entorno web, entre los que se encuentran:
+Finalmente se especifican **todas las áreas profesionales** que cubren el proceso de desarrollo de un proyecto de visualización, desde su concepción gráfica hasta su implementación en un entorno _web_, entre los que se encuentran:
 
 - **Análisis de datos**
 - **Geometría**
 - **Diseño gráfico**
 - **Periodismo**
-- **Desarrollo web**
+- **Desarrollo _web_**
 
 De este modo adquirimos ese contexto, tanto histórico como social, a la hora de desarrollar proyectos de visualización de datos. 
 
@@ -392,7 +392,7 @@ Trabajar en visualización de datos implica:
 
 - **Periodismo**: todo proyecto de visualización de datos se enmarca dentro de una narrativa. Esta narrativa obedece a criterios periodísticos a la hora de maquetar y redactar todo lo referente a la visualización. **La historia debe fluir y debe ser igualmente rigurosa** a la hora crear todos los contenidos alrededor del elemento gráfico.
 
-- **Desarrollo Web**: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan **crear y difundir esas piezas gráficas en los formatos digitales** conocidos actualmente. Hoy en día hay entornos web que permiten no solo mostrar visualizaciones sino también incluir interactividad, animación y toda una serie de efectos y transiciones para crear una narrativa, o <i>storytelling</i>. 
+- **Desarrollo _Web_**: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan **crear y difundir esas piezas gráficas en los formatos digitales** conocidos actualmente. Hoy en día hay entornos _web_ que permiten no solo mostrar visualizaciones sino también incluir interactividad, animación y toda una serie de efectos y transiciones para crear una narrativa, o <i>storytelling</i>. 
 
 *************************************************************************************************************
 
@@ -445,7 +445,7 @@ Estos formatos son difíciles de manejar por herramientas tradicionales de anál
 		CSV, TSV, TXT
 </div>
 
-Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Comma Separated Value** (CSV), **Tab Separated Value** (TSV) o **Text** (TXT), que puede adoptar la forma tanto del CSV como del TSV. En estos casos los datos se disponen en hileras cuyas columnas están separadas bien por comas (CSV), bien por tabulaciones (TSV) dentro de cada fila. 
+Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **_Comma Separated Value_** (CSV), **_Tab Separated Value_** (TSV) o **_Text_** (TXT), que puede adoptar la forma tanto del CSV como del TSV. En estos casos los datos se disponen en hileras cuyas columnas están separadas bien por comas (CSV), bien por tabulaciones (TSV) dentro de cada fila. 
 
 Al tener siempre el mismo carácter diferenciador, bien sea la coma o la tabulación, es muy fácil para lenguajes como Python o R interpretar el contenido del fichero de entrada y estructurarlo acorde con esos separadores.
 
@@ -464,16 +464,16 @@ Al tener siempre el mismo carácter diferenciador, bien sea la coma o la tabulac
 		JSON
 </div>
 
-Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una estructura de datos donde los valores y magnitudes vienen **en forma de pares**, donde a una categoría se asocia un valor. Estas estructuras pueden agruparse en cadenas o arrays de elementos.
+Estas siglas significan **_JavaScript Object Notation_**, y hacen referencia a una estructura de datos donde los valores y magnitudes vienen **en forma de pares**, donde a una categoría se asocia un valor. Estas estructuras pueden agruparse en cadenas o arrays de elementos.
 
-Su desarrollo estuvo motivado por el intercambio de información necesario para nutrir las páginas web y los navegadores, y ha acabado por convertirse en un estándar válido también fuera de estos ámbitos. 
+Su desarrollo estuvo motivado por el intercambio de información necesario para nutrir las páginas _web_ y los navegadores, y ha acabado por convertirse en un estándar válido también fuera de estos ámbitos. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		En la siguiente figura se observa la estructura de un fichero JSON. A diferencia de un CSV en este caso la información <b>está ordenada por pares</b>, de forma que una categoría tiene asociada un valor concreto. Estos pares <b>se pueden anidar</b> dentro de una estructura parent-children, lo que permite también crear jerarquías si la propia estructura de los datos lo necesitan. 
+		En la siguiente figura se observa la estructura de un fichero JSON. A diferencia de un CSV en este caso la información <b>está ordenada por pares</b>, de forma que una categoría tiene asociada un valor concreto. Estos pares <b>se pueden anidar</b> dentro de una estructura _parent-children_, lo que permite también crear jerarquías si la propia estructura de los datos lo necesitan. 
 	</div>
 </div>
 
@@ -499,7 +499,7 @@ Su desarrollo estuvo motivado por el intercambio de información necesario para 
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Google Sheets</p>
-			Es una aplicación de hoja de cálculo basada en la web que permite organizar, analizar y compartir datos de manera eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios.
+			Es una aplicación de hoja de cálculo basada en la _web_ que permite organizar, analizar y compartir datos de manera eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios.
       </div>
     </div>
   </div>
@@ -628,7 +628,7 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
-		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
+		  Es uno de los referentes en visualización  <i>web</i>. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Tableau</p>
@@ -734,7 +734,7 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
-		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
+		  Es uno de los referentes en visualización  <i>web</i>. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Tableau</p>
@@ -766,7 +766,7 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Grafana</p>
-			Es una aplicación web de análisis y visualización de datos de código abierto que permite a los usuarios crear paneles de control personalizables para mostrar métricas, registros y trazas a partir de diversas fuentes de datos. Se utiliza comúnmente para monitorear aplicaciones y recursos de hardware.
+			Es una aplicación  <i>web</i> de análisis y visualización de datos de código abierto que permite a los usuarios crear paneles de control personalizables para mostrar métricas, registros y trazas a partir de diversas fuentes de datos. Se utiliza comúnmente para monitorear aplicaciones y recursos de hardware.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">RAWGraphs</p>
@@ -825,7 +825,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
-		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
+		  Es uno de los referentes en visualización  <i>web</i>. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Tableau</p>
@@ -971,15 +971,15 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
-		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
+		  Es uno de los referentes en visualización  <i>web</i>. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">GoogleEarth</p>
-		  Herramienta gratuita pero no de código abierto. Su versión web permite importar archivos KML/KMZ y es útil para contextualizar información sobre imágenes satelitales.
+		  Herramienta gratuita pero no de código abierto. Su versión  <i>web</i> permite importar archivos KML/KMZ y es útil para contextualizar información sobre imágenes satelitales.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">KeplerGL</p>
-			Herramienta web gratuita y de código abierto que permite arrastrar y soltar archivos en formatos como CSV, GeoJSON o Shapefile y obtener visualizaciones de forma inmediata.
+			Herramienta  <i>web</i> gratuita y de código abierto que permite arrastrar y soltar archivos en formatos como CSV, GeoJSON o Shapefile y obtener visualizaciones de forma inmediata.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Python - Cartopy</p>
@@ -987,7 +987,7 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">OpenStreetMap</p>
-			No es exactamente una herramienta de visualización, sino la base de datos geográfica colaborativa más grande del mundo, con licencia abierta (ODbL). Su ecosistema incluye herramientas como Overpass Turbo para consultar y extraer datos, y sus teselas cartográficas son la base sobre la que se construyen muchos mapas web.
+			No es exactamente una herramienta de visualización, sino la base de datos geográfica colaborativa más grande del mundo, con licencia abierta (ODbL). Su ecosistema incluye herramientas como Overpass Turbo para consultar y extraer datos, y sus teselas cartográficas son la base sobre la que se construyen muchos mapas  <i>web</i>.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">QGIS</p>
@@ -999,7 +999,7 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">MapLibre</p>
-			Librería de JavaScript de código abierto que permite construir mapas web interactivos de alto rendimiento mediante teselas vectoriales.
+			Librería de JavaScript de código abierto que permite construir mapas  <i>web</i> interactivos de alto rendimiento mediante teselas vectoriales.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">R</p>
@@ -1075,9 +1075,9 @@ Identifica el tipo de visualización correspondiente con cada proyecto
 {{|>}}
 *************************************************************************************************************
 
-El último paso dentro de la creación de una visualización es crear un entorno en que la visualización sea accesible a la audiencia. Frecuentemente, el objetivo es alcanzar el mayor público posible y, por lo tanto, se desarrollan entornos en la web que permitan su **acceso desde cualquier punto del planeta**. 
+El último paso dentro de la creación de una visualización es crear un entorno en que la visualización sea accesible a la audiencia. Frecuentemente, el objetivo es alcanzar el mayor público posible y, por lo tanto, se desarrollan entornos en la _web_ que permitan su **acceso desde cualquier punto del planeta**. 
 
-Los entornos más básicos en la web se componen de HTML, CSS y JavaScript. Veamos en esta sección su significado y sentido dentro de la construcción de una página web, y cómo JavaScript ha dado paso a toda una serie de entornos para potenciar la modularidad y reutilización de componentes. 
+Los entornos más básicos en la _web_ se componen de HTML, CSS y JavaScript. Veamos en esta sección su significado y sentido dentro de la construcción de una página _web_, y cómo JavaScript ha dado paso a toda una serie de entornos para potenciar la modularidad y reutilización de componentes. 
 
 *************************************************************************************************************
 
@@ -1086,11 +1086,11 @@ Los entornos más básicos en la web se componen de HTML, CSS y JavaScript. Veam
 {{|>}}
 *************************************************************************************************************
 
-Con HTML (HyperText Markup Language), se crean los **contenedores en los cuales se distribuyen los distintos tipos de contenidos** de una página: contenedor, texto o imagen. 
+Con HTML (_HyperText Markup Language_), se crean los **contenedores en los cuales se distribuyen los distintos tipos de contenidos** de una página: contenedor, texto o imagen. 
 
 Todos estos elementos pueden estar asociados a clases, para así evitar tener que caracterizar al detalle cada elemento cada vez que lo introducimos. 
 
-De este modo, se define una clase y **todos los elementos vinculados a esa clase tendrán la misma apariencia**, bien sean contenedores, tipos y tamaños de texto, o tamaños y opacidades de imágenes. Esto se realiza a través de CSS (Cascading Style Sheets). 
+De este modo, se define una clase y **todos los elementos vinculados a esa clase tendrán la misma apariencia**, bien sean contenedores, tipos y tamaños de texto, o tamaños y opacidades de imágenes. Esto se realiza a través de CSS (_Cascading Style Sheets_). 
 
 <div class="destacado_caja">
   <div class="destacado_titulo">
@@ -1100,11 +1100,11 @@ De este modo, se define una clase y **todos los elementos vinculados a esa clase
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">HTML</p>
-		  El lenguaje fundamental que define la estructura y contenido de las páginas web mediante etiquetas. Este lenguaje permite organizar elementos como títulos, párrafos, imágenes y enlaces en un formato que los navegadores pueden interpretar y mostrar.
+		  El lenguaje fundamental que define la estructura y contenido de las páginas <i>web</i> mediante etiquetas. Este lenguaje permite organizar elementos como títulos, párrafos, imágenes y enlaces en un formato que los navegadores pueden interpretar y mostrar.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">CSS</p>
-		  Lenguaje utilizado para estilizar y dar formato a documentos HTML, permitiendo definir cómo se deben mostrar los elementos en una página web. Separa el contenido de la presentación, facilitando la creación de diseños atractivos y consistentes.
+		  Lenguaje utilizado para estilizar y dar formato a documentos HTML, permitiendo definir cómo se deben mostrar los elementos en una página <i>web</i>. Separa el contenido de la presentación, facilitando la creación de diseños atractivos y consistentes.
       </div>
     </div>
   </div>
@@ -1112,14 +1112,14 @@ De este modo, se define una clase y **todos los elementos vinculados a esa clase
 
 *************************************************************************************************************
 
-### Javascript
+### JavaScript
 
 {{|>}}
 *************************************************************************************************************
 
-La creciente complejidad de las páginas web ha ido demandando **lenguajes de programación con más recursos** que el HTML, siendo JavaScript uno de los más relevantes. 
+La creciente complejidad de las páginas _web_ ha ido demandando **lenguajes de programación con más recursos** que el HTML, siendo JavaScript uno de los más relevantes. 
 
-Este lenguaje permite desarrollar **estructuras modulares recursivas y componentes reutilizables**, lo que facilita escalar fácilmente los contenidos de una página web. 
+Este lenguaje permite desarrollar **estructuras modulares recursivas y componentes reutilizables**, lo que facilita escalar fácilmente los contenidos de una página _web_. 
 
 Este lenguaje también ha sido aprovechado para crear elementos visuales que comprenden todos los descritos en la sección de Tipos de Visualizaciones. Sobre su base se han desarrollado diversos entornos y bibliotecas como React, Angular, Vue o Svelte. 
 
@@ -1128,9 +1128,9 @@ Este lenguaje también ha sido aprovechado para crear elementos visuales que com
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-La irrupción de la inteligencia artificial (IA) ha revolucionado la creación de los entornos de desarrollo web. Lo que antes era la elaboración de código por parte de especialistas llamados ingenieros de <i>FrontEnd</i>, haciendo referencia a la parte frontal y visible de la web, ha pasado a ser parcialmente <b>automatizable por parte de los agentes de IA</b>.
+La irrupción de la inteligencia artificial (IA) ha revolucionado la creación de los entornos de desarrollo _web_. Lo que antes era la elaboración de código por parte de especialistas llamados ingenieros de <i>FrontEnd</i>, haciendo referencia a la parte frontal y visible de la _web_, ha pasado a ser parcialmente <b>automatizable por parte de los agentes de IA</b>.
 		
-Los agentes son capaces de generar código donde albergar visualizaciones. <b>La IA por lo tanto pasa a formar parte del elenco de herramientas disponibles</b> para el desarrollo de frontales web. 
+Los agentes son capaces de generar código donde albergar visualizaciones. <b>La IA por lo tanto pasa a formar parte del elenco de herramientas disponibles</b> para el desarrollo de frontales _web_. 
 	</div>
 </div>
 
@@ -1142,11 +1142,11 @@ Los agentes son capaces de generar código donde albergar visualizaciones. <b>La
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">React</p>
-		   Biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario, especialmente en aplicaciones web y móviles. Permite crear componentes reutilizables que facilitan el desarrollo de aplicaciones interactivas.
+		   Biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario, especialmente en aplicaciones _web_ y móviles. Permite crear componentes reutilizables que facilitan el desarrollo de aplicaciones interactivas.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Angular</p>
-		   Entorno de desarrollo web de código abierto gestionado por Google, que permite crear aplicaciones web dinámicas utilizando HTML, CSS y JavaScript. Su arquitectura se basa en componentes, lo que facilita la reutilización y el mantenimiento del código.
+		   Entorno de desarrollo _web_ de código abierto gestionado por Google, que permite crear aplicaciones _web_ dinámicas utilizando HTML, CSS y JavaScript. Su arquitectura se basa en componentes, lo que facilita la reutilización y el mantenimiento del código.
       </div>
 		      <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Vue.js</p>
@@ -1167,7 +1167,7 @@ Los agentes son capaces de generar código donde albergar visualizaciones. <b>La
 {{|>}}
 *************************************************************************************************************
 
-Dada la relativa laboriosidad de crear una página web desde cero, existen entornos ya creados **aptos para el desarrollo de visualizaciones** que sólo necesitan del código en JavaScript y de los datos en formato CSV o JSON, entre otros. 
+Dada la relativa laboriosidad de crear una página _web_ desde cero, existen entornos ya creados **aptos para el desarrollo de visualizaciones** que sólo necesitan del código en JavaScript y de los datos en formato CSV o JSON, entre otros. 
 
 Una de estas iniciativas es Observable, donde es posible crear **visualizaciones en D3.js** sin necesidad de crear un servidor local ni de crear una página en HTML y CSS previamente. 
 
@@ -1272,7 +1272,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 > Se trata de una superposición de contornos con muchos intervalos discretos. 
 ***
 
-**9) Una página web puede crearse exclusivamente con HTML sin necesidad de CSS o Javascript**
+**9) Una página _web_ puede crearse exclusivamente con HTML sin necesidad de CSS o Javascript**
 
 - [(X)] Verdadero
 - [( )] Falso
@@ -1285,7 +1285,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 - [( )] Verdadero
 - [(X)] Falso
 ***
-> El desarrollo de <i>notebooks</i>, particularmente en Observable, permite programar en una interfaz web sin necesidad de instalar servidores locales. 
+> El desarrollo de <i>notebooks</i>, particularmente en Observable, permite programar en una interfaz _web_ sin necesidad de instalar servidores locales. 
 ***
 
 *************************************************************************************************************
@@ -1302,6 +1302,6 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 
 > - A día de hoy, disponemos de potentes herramientas para representar todo el espectro de visualizaciones necesarias tanto para el ámbito periodístico como empresarial, incluyendo **magnitudes, series temporales, nodos y cartografía**. 
 
-> - Más allá de esas representaciones, podemos crear **entornos web** para que esas visualizaciones sean accesibles a todo el mundo, popularizando y diseminando nuestro trabajo de análisis de datos de una forma fácil e intuitiva. 
+> - Más allá de esas representaciones, podemos crear **entornos _web_** para que esas visualizaciones sean accesibles a todo el mundo, popularizando y diseminando nuestro trabajo de análisis de datos de una forma fácil e intuitiva. 
 
 *************************************************************************************************************
