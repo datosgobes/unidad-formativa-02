@@ -1152,6 +1152,10 @@ Funciona a modo de <i>notebook</i>, y cada modificación en el código va seguid
 {{|>}}
 *************************************************************************************************************
 
+Desde el origen de internet y sus primeros protocolos de intercambio de información, **ha habido una gran evolución en los entornos y lenguajes de programación** que han ido permitiendo aumentar la riqueza y complejidad de los contenidos. Entre ellos ha estado la capacidad de poder crear y plasmar proyectos de visualización de datos. Aquí ennumeramos algunas de las herramientas que han permitido y permiten dar ese salto cualitativo en el mundo de la visualización y ocupar un espacio en la red de forma efectiva e interactiva para potenciar todas sus capacidades. 
+
+Mientras el aprendizaje de HTML y CSS es relativamente sencillo, la familiaridad con los entornos del tipo React o Svelte requiere de conocimientos más profundos sobre todo de JavaScript. **La complejidad de la herramienta también aumenta sus posibilidades de modularidad y recursividad de componentes**. El punto de equilibrio de las herramientas necesarias para albergar un proyecto de visualización depende en último caso de los requisitos del propio proyecto y del medio en el cual se prevee su difusión, pudiendo ser de lo más sencillo a lo más complejo sobre todo en entornos de producción de desarrollo de software. 
+
 <div class="concepto">
 		HTML
 </div>
