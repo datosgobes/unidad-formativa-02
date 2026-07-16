@@ -589,7 +589,7 @@ Muy popular para datos económicos. El <i>treemap</i> **distribuye un espacio li
 		Voronoi
 </div>
 
-Semejante al <i>treemap</i>, pero utilizando a la inversa el cálculo de Voronoi de los **puntos equidistantes a los límites de un espacio definido por celdas**, o polígonos de Thiessen. De esta forma se distribuye el espacio en celdas cuya superficie es proporcional al valor de cada categoría.  
+Semejante al <i>treemap</i>, pero basado en diagramas de Voronoi (o polígonos de Thiessen). En lugar de dividir el espacio mediante rectángulos, este se **reparte en celdas generadas a partir de puntos de referencia**, de modo que cada región agrupa las posiciones más próximas a su punto asociado. Adaptando el tamaño de las celdas, **la superficie de cada una resulta proporcional al valor** de la categoría que representa.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
