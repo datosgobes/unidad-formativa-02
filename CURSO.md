@@ -100,16 +100,24 @@ También puedes ver la [ VIDEO EN INGLES ]<!-- style="target: _blank" --> del v�
       
       <div class="lista-contenido">
 1. Introducción
-   - Breve historia de la visualización de datos
+   - La astronomía y el origen de la visualización
+   - La revolución del siglo XIX en la visualización contemporánea
    - Impacto social y empresarial de la visualización
    - Tareas del desarrollador de visualizaciones de datos
-2. Tipos y herramientas
+2. Formato de datos 
    - Formatos de datos para visualización
-   - Tipos de visualizaciones
+   - Herramientas de lectura y conversión de formatos
+4. Tipos de visualizaciones
+   - Magnitudes 
+   - Series temporales
+   - Redes y jerarquías
+   - Cartografía y mapas
+   - Herramientas de visualización
 3. Frontales _web_
    - HTML y CSS
    - Javascript
    - Observable
+   - Herramientas de frontal web
       </div>
     </div>
   </div>
@@ -533,9 +541,9 @@ Estas familias son:
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-- <a href="https://www.stefanieposavec.com/" target="_blank">Stefanie Posavec</a>
-- <a href="https://www.visualcinnamon.com/" target="_blank">Nadieh Bremer</a>
-- <a href="https://flowingdata.com/" target="_blank">Nathan Yau</a>
+
+		
+	<a href="https://www.informationisbeautifulawards.com/" target="_blank">Information is Beautiful Awards</a>
   </div>
 </div>
 
