@@ -275,7 +275,6 @@ Algunos ejemplos destacados de visualizaciones fuera del mundo digital son:
 	</div>
 </div>
 
-
  <div class="masinfo_caja">
 	<div class="masinfo_titulo">
 		ℹ️ Más información
@@ -474,32 +473,6 @@ Su desarrollo estuvo motivado por el intercambio de información necesario para 
 
 	<center>![Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.](media/UD07_JSON.png "Figura. Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.")</center>
 
-<div class="destacado_caja">
-  <div class="destacado_titulo">
-    Herramientas para cambios de formato
-  </div>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div class="destacado_contenido" style="flex:1; min-width:300px;">
-     <div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">Python</p>
-			Python es uno de los lenguajes más utilizados en análisis de datos. Permite la lectura de un amplio rango de ficheros de datos, así como su procesamiento, análisis y conversión de formato para todo tipo de aplicaciones. 
-      </div>
-		<div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">R</p>
-			Lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente.
-      </div>
-		<div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">Excel</p>
-			Tradicional herramienta de estructuración de datos, cálculos sencillos y visualización a través de elementos clásicos. 
-      </div>
-		<div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">Google Sheets</p>
-			Es una aplicación de hoja de cálculo basada en la _web_ que permite organizar, analizar y compartir datos de manera eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios.
-      </div>
-    </div>
-  </div>
-</div>
-
 
 *************************************************************************************************************
 
@@ -509,7 +482,29 @@ Su desarrollo estuvo motivado por el intercambio de información necesario para 
 {{|>}}
 *************************************************************************************************************
 
+<div class="concepto">
+		Python
+</div>
 
+Python es uno de los lenguajes más utilizados en análisis de datos. Permite la lectura de un amplio rango de ficheros de datos, así como su procesamiento, análisis y conversión de formato para todo tipo de aplicaciones. 
+
+<div class="concepto">
+		R
+</div>
+			
+Lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente.
+
+<div class="concepto">
+		Excel
+</div>
+
+Tradicional herramienta de estructuración de datos, cálculos sencillos y visualización a través de elementos clásicos. 
+
+<div class="concepto">
+		Google Sheets
+</div>
+
+Es una aplicación de hoja de cálculo basada en la _web_ que permite organizar, analizar y compartir datos de manera eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios.
 
 
 *************************************************************************************************************
