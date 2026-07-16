@@ -1051,23 +1051,6 @@ Todos estos elementos pueden estar asociados a clases, para así evitar tener qu
 
 De este modo, se define una clase y **todos los elementos vinculados a esa clase tendrán la misma apariencia**, bien sean contenedores, tipos y tamaños de texto, o tamaños y opacidades de imágenes. Esto se realiza a través de CSS (_Cascading Style Sheets_). 
 
-<div class="destacado_caja">
-  <div class="destacado_titulo">
-    Herramientas
-  </div>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div class="destacado_contenido" style="flex:1; min-width:300px;">
-      <div>
-        <p class="subtitulo subtitulo_borde">HTML</p>
-
-      </div>
-      <div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">CSS</p>
-
-      </div>
-    </div>
-  </div>
-</div>
 
 *************************************************************************************************************
 
@@ -1093,31 +1076,6 @@ Los agentes son capaces de generar código donde albergar visualizaciones. <b>La
 	</div>
 </div>
 
-<div class="destacado_caja">
-  <div class="destacado_titulo">
-    Herramientas
-  </div>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div class="destacado_contenido" style="flex:1; min-width:300px;">
-      <div>
-        <p class="subtitulo subtitulo_borde">React</p>
-
-      </div>
-      <div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">Angular</p>
-		 
-      </div>
-		      <div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">Vue.js</p>
-			
-      </div>
-		      <div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">Svelte</p>
-		
-      </div>
-    </div>
-  </div>
-</div>
 
 *************************************************************************************************************
 
