@@ -490,29 +490,27 @@ Su desarrollo estuvo motivado por el intercambio de información necesario para 
 {{|>}}
 *************************************************************************************************************
 
+Actualmente existen una serie de herramientas que nos permiten leer, operar, procesar y exportar un amplio rango de formatos de datos. La popularidad de los formatos mencionados en esta sección ha hecho que herramientas generalistas del tipo Python o R hayan incluído dentro de sus librerías las funciones necesarias tanto para su lectura como para su cambio de formato. En esta sección destacamos las siguientes herramientas, que requieren de pocos conocimientos de programación y una curva de aprendizaje sencilla para poder ejercitarse en el manejo de formatos de datos tan básicos como útiles y versátiles a la hora de abordar proyectos de visualización de datos. 
+
 <div class="concepto">
 		Python
 </div>
-
-Python es uno de los lenguajes más utilizados en análisis de datos. Permite la lectura de un amplio rango de ficheros de datos, así como su procesamiento, análisis y conversión de formato para todo tipo de aplicaciones. 
+Python es uno de los lenguajes más utilizados en análisis de datos. Permite la lectura de un amplio rango de ficheros de datos, así como su procesamiento, análisis y conversión de formato para todo tipo de aplicaciones. El uso de arrays o de la librería Pandas para estructurar los datos permite operar, limpiar y exportar en formato JSON sin mucha dificultad. 
 
 <div class="concepto">
 		R
 </div>
-			
-Lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente.
+Lenguaje de programación libre muy utilizado en estadística y análisis de datos, que utiliza como punto de partida los mencionados formatos CSV, TSV, TXT o JSON, entre muchos otros. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos de forma reproducible y con una alta capacidad gráfica para su representación. 
 
 <div class="concepto">
 		Excel
 </div>
-
-Tradicional herramienta de estructuración de datos, cálculos sencillos y visualización a través de elementos clásicos. 
+Tradicional herramienta de estructuración de datos, cálculos sencillos y visualización a través de elementos clásicos. Permite una lectura directa de ficheros CSV, TSV o TXT, y permite igualmente exportar los datos eligiendo el tipo de separador entre coma o tabulación, y así adaptar el formato al código de análisis que hayamos desarrollado. 
 
 <div class="concepto">
 		Google Sheets
 </div>
-
-Es una aplicación de hoja de cálculo basada en la _web_ que permite organizar, analizar y compartir datos de manera eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios.
+Es una aplicación de hoja de cálculo basada en la _web_ que permite organizar, analizar y compartir datos de manera eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios. Al igual que en Excel, a partir de tablas es posible exportar el contenido con los separadores mencionados, e incluso es posible de exportar el contenido directamente a JavaScript para su visualización como si fuese un JSON. 
 
 
 *************************************************************************************************************
@@ -907,9 +905,8 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
 
 *************************************************************************************************************
 
-<!-- id="vis_3" -->
 
-### Herramientas de visualización
+### Herramientas visualización
 
 {{|>}}
 *************************************************************************************************************
