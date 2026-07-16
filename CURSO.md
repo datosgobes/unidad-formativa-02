@@ -625,39 +625,7 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
 	</div>
 </div>
 
-<div class="destacado_caja">
-  <div class="destacado_titulo">
-    Herramientas para visualizar magnitudes
-  </div>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div class="destacado_contenido" style="flex:1; min-width:300px;">
-      <div>
-        <p class="subtitulo subtitulo_borde">D3.js</p>
-		  Es uno de los referentes en visualización  <i>web</i>. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
-      </div>
-      <div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">Tableau</p>
-		  Plataforma de análisis de datos que permite la conexión a bases de datos y creación de cuadros de mando con un alto grado de customización.
-      </div>
-		<div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">PowerBI</p>
-			Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización.
-      </div>
-		<div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">Datawrapper</p>
-			Muy utilizada en comunicación pública y periodismo de datos. Permite crear gráficos claros, mapas y tablas interactivas sin necesidad de conocimientos técnicos. Es especialmente adecuada para explicar datos de forma comprensible a un público amplio.
-      </div>
-		<div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">RAWGraphs</p>
-			Herramienta de software libre orientada a la exploración visual. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representar datos. Resulta especialmente útil en fases exploratorias.
-      </div>
-		<div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">Canva</p>
-			Aunque su enfoque es más divulgativo que analítico, puede ser útil para crear piezas visuales sencillas que integren gráficos básicos con elementos de diseño. Es adecuada para la comunicación visual de resultados, no tanto para el análisis de datos.
-      </div>
-    </div>
-  </div>
-</div>
+
 
 *************************************************************************************************************
 
@@ -1013,6 +981,47 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
     </div>
   </div>
 </div>
+
+
+*************************************************************************************************************
+
+<!-- id="vis_3" -->
+
+### Herramientas de visualización
+
+{{|>}}
+*************************************************************************************************************
+
+<div class="concepto">
+		D3.js
+</div>
+Es uno de los referentes en visualización  <i>web</i>. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad.
+
+<div class="concepto">
+		Tableau
+</div>
+Plataforma de análisis de datos que permite la conexión a bases de datos y creación de cuadros de mando con un alto grado de customización.
+
+<div class="concepto">
+		PowerBI
+</div>
+Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización.
+
+<div class="concepto">
+		Datawrapper
+</div>
+Muy utilizada en comunicación pública y periodismo de datos. Permite crear gráficos claros, mapas y tablas interactivas sin necesidad de conocimientos técnicos. Es especialmente adecuada para explicar datos de forma comprensible a un público amplio.
+			
+<div class="concepto">
+		RAWGrapths
+</div>
+Herramienta de software libre orientada a la exploración visual. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representar datos. Resulta especialmente útil en fases exploratorias.
+
+<div class="concepto">
+		Canva
+</div>
+Aunque su enfoque es más divulgativo que analítico, puede ser útil para crear piezas visuales sencillas que integren gráficos básicos con elementos de diseño. Es adecuada para la comunicación visual de resultados, no tanto para el análisis de datos.
+
 
 *************************************************************************************************************
 
