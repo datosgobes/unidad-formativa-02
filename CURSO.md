@@ -490,7 +490,7 @@ Su desarrollo estuvo motivado por el intercambio de información necesario para 
 {{|>}}
 *************************************************************************************************************
 
-Actualmente existen una serie de herramientas que nos permiten leer, operar, procesar y exportar un amplio rango de formatos de datos. La popularidad de los formatos mencionados en esta sección ha hecho que herramientas generalistas del tipo Python o R hayan incluído dentro de sus librerías **las funciones necesarias tanto para su lectura como para su cambio de formato**. En esta sección destacamos las siguientes herramientas, que requieren de pocos conocimientos de programación y una **curva de aprendizaje sencill**a para poder ejercitarse en el manejo de formatos de datos tan básicos como útiles y versátiles a la hora de abordar proyectos de visualización de datos. 
+Actualmente existen una serie de herramientas que nos permiten leer, operar, procesar y exportar un amplio rango de formatos de datos. La popularidad de los formatos mencionados en esta sección ha hecho que herramientas generalistas del tipo Python o R hayan incluído dentro de sus librerías **las funciones necesarias tanto para su lectura como para su cambio de formato**. En esta sección destacamos las siguientes herramientas, que requieren de pocos conocimientos de programación y una **curva de aprendizaje sencilla** para poder ejercitarse en el manejo de formatos de datos tan básicos como útiles y versátiles a la hora de abordar proyectos de visualización de datos. 
 
 <div class="concepto">
 		Python
