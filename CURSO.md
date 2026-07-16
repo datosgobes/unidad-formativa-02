@@ -396,10 +396,12 @@ Trabajar en visualización de datos implica:
 
 *************************************************************************************************************
 
-## Formato de datos 
+
+## Formato de datos
 
 {{|>}}
 *************************************************************************************************************
+
 
 En esta sección abordaremos la definición de **los elementos necesarios** para la realización de proyectos de visualización, desde el formato de los datos hasta las herramientas de acceso libre y gratuito para su realización. 
 
@@ -408,6 +410,7 @@ En la primera parte se explican las **definiciones y estructura de los formatos 
 - **CSV, TSV y TXT**
 - **JSON**
   
+Además de estas definiciones, haremos un recorrido por aquellas herramientas de programación que nos permiten realizar lectura y cambio de formatos entre los tipos descritos. 
 
 *************************************************************************************************************
 
@@ -496,6 +499,18 @@ Su desarrollo estuvo motivado por el intercambio de información necesario para 
     </div>
   </div>
 </div>
+
+
+*************************************************************************************************************
+
+
+### Herramientas de lectura y conversión de formatos
+
+{{|>}}
+*************************************************************************************************************
+
+
+
 
 *************************************************************************************************************
 
