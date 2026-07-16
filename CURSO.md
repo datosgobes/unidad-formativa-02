@@ -871,6 +871,7 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
 {{|>}}
 *************************************************************************************************************
 
+<center>![Herramientas para la creación de proyectos de visualización](media/Herramientas.png "Figura. Herramientas para la creación de proyectos de visualización.")</center>
 
 <div class="concepto">
 		D3.js
