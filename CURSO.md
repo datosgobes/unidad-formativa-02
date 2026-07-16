@@ -490,7 +490,7 @@ Su desarrollo estuvo motivado por el intercambio de información necesario para 
 {{|>}}
 *************************************************************************************************************
 
-Actualmente existen una serie de herramientas que nos permiten leer, operar, procesar y exportar un amplio rango de formatos de datos. La popularidad de los formatos mencionados en esta sección ha hecho que herramientas generalistas del tipo Python o R hayan incluído dentro de sus librerías las funciones necesarias tanto para su lectura como para su cambio de formato. En esta sección destacamos las siguientes herramientas, que requieren de pocos conocimientos de programación y una curva de aprendizaje sencilla para poder ejercitarse en el manejo de formatos de datos tan básicos como útiles y versátiles a la hora de abordar proyectos de visualización de datos. 
+Actualmente existen una serie de herramientas que nos permiten leer, operar, procesar y exportar un amplio rango de formatos de datos. La popularidad de los formatos mencionados en esta sección ha hecho que herramientas generalistas del tipo Python o R hayan incluído dentro de sus librerías **las funciones necesarias tanto para su lectura como para su cambio de formato**. En esta sección destacamos las siguientes herramientas, que requieren de pocos conocimientos de programación y una **curva de aprendizaje sencill**a para poder ejercitarse en el manejo de formatos de datos tan básicos como útiles y versátiles a la hora de abordar proyectos de visualización de datos. 
 
 <div class="concepto">
 		Python
@@ -539,8 +539,7 @@ Estas familias son:
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-
-		
+Uno de los catálogos con mejores ejemplos de visualización contemporánea, tanto en calidad como en diversidad, es el registro de proyectos presentados y sobre todo premiados en los <i>Information is Beautiful Awards</i>. En su apartado de <i>Entry Showcase</i> se muestra un amplio espectro de proyectos sobre todo tipo de soportes, tanto digitales como en prensa así como artesanales en formatos físicos más allá del papel. 
 	<a href="https://www.informationisbeautifulawards.com/" target="_blank">Information is Beautiful Awards</a>
   </div>
 </div>
