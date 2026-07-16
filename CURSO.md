@@ -396,7 +396,7 @@ Trabajar en visualización de datos implica:
 
 *************************************************************************************************************
 
-## Tipos y Herramientas
+## Formato de datos 
 
 {{|>}}
 *************************************************************************************************************
@@ -407,19 +407,11 @@ En la primera parte se explican las **definiciones y estructura de los formatos 
 
 - **CSV, TSV y TXT**
 - **JSON**
-
-Dentro de los tipos de visualizaciones, se detallan los elementos que constituyen **las cuatro grandes familias de visualización contemporánea** y dentro de las cuales se agrupan la mayoría de las visualizaciones que podemos desarrollar. 
-
-Igualmente, las **visualizaciones que vemos día a día** tanto en los entornos de prensa como corporativos pueden asociarse a alguna de estas familias, ofreciendo **diferentes posibilidades para representar los datos** de forma diferente. Estas familias son: 
-
-- **Magnitudes**
-- **Series temporales**
-- **Redes y jerarquías**
-- **Cartografía y mapas**
+  
 
 *************************************************************************************************************
 
-### Formatos de datos para visualización
+### Formato de datos para visualización
 
 {{|>}}
 *************************************************************************************************************
@@ -508,20 +500,24 @@ Su desarrollo estuvo motivado por el intercambio de información necesario para 
 *************************************************************************************************************
 
 <!-- id="vis_0" -->
-### Tipos de Visualizaciones
+## Tipos de Visualizaciones
 
 
 {{|>}}
 *************************************************************************************************************
 
-En esta sección veremos los **tipos de visualizaciones más populares**, ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis y productos que necesitan de la representación gráfica de grandes cantidades de datos. 
 
-Las visualizaciones se suelen distribuir en cuatro grandes familias:
+En esta sección veremos los **tipos de visualizaciones más populares**, que se engloban dentro de **las cuatro grandes familias de visualización contemporánea**. Estas cuatro familias son categorías ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis, así como en el diseño de productos que necesitan de la representación gráfica de grandes cantidades de datos.
+
+Igualmente, las **visualizaciones que vemos día a día** tanto en los entornos de prensa como corporativos pueden asociarse a alguna de estas familias, ofreciendo **diferentes posibilidades para representar los datos** y así una gran riqueza de ideas, conceptos y variedad a la hora de representar datos e información. 
+
+Estas familias son: 
+
 - **Magnitudes**
-- **Series temporales** 
-- **Redes y jerarquías** 
+- **Series temporales**
+- **Redes y jerarquías**
 - **Cartografía y mapas**
-
+  
 <div class="masinfo_caja">
 	<div class="masinfo_titulo">
 		ℹ️ Más información
@@ -537,7 +533,7 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias:
 
 <!-- id="vis_1" -->
 
-#### Magnitudes
+### Magnitudes
 
 {{|>}}
 *************************************************************************************************************
@@ -657,7 +653,7 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
 
 <!-- id="vis_2" -->
 
-#### Series temporales
+### Series temporales
 
 {{|>}}
 *************************************************************************************************************
@@ -779,7 +775,7 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
 
 <!-- id="vis_1" -->
 
-#### Redes y jerarquías
+### Redes y jerarquías
 
 {{|>}}
 *************************************************************************************************************
@@ -846,7 +842,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 
 <!-- id="vis_3" -->
 
-#### Cartografía y mapas
+### Cartografía y mapas
 
 {{|>}}
 *************************************************************************************************************
