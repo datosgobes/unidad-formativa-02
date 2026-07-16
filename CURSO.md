@@ -566,7 +566,7 @@ Tiene su origen en el <i>scatter plot</i>, **círculos posicionados en un plano 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		
+		En la figura inferior podemos observar el uso de burbujas, tanto en número como en tamaño, para describir la magnitud de la tragedia de los fenómenos migratorios. El uso del color permite separar por regiones, y el conjunto transmite no sólo la magnitud global sino que individualiza y discretiza al mismo tiempo datos particulares. 
 	</div>
 </div>
 
@@ -583,7 +583,7 @@ Muy popular para datos económicos. El <i>treemap</i> **distribuye un espacio li
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+Un ejemplo clásico dentro del uso del treemap es la representación de datos económicos, tal y como se ilustra en la figura inferior. La proporcionalidad permite evaluar a simple vista las cantidades y el uso de color permite también subdividir por categorías. 
 	</div>
 </div>
 
@@ -600,7 +600,7 @@ Semejante al <i>treemap</i>, pero basado en diagramas de Voronoi (o polígonos d
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+Usando los datos económicos del estudio del ejemplo anterior, el diagrama de Voronoi muestra la partición en área así como el uso del color para la separación de categorías. Como en este caso de magnitudes con grandes diferencias, su efectividad es muy alta para transmitir mensajes claros sobre el uso de recursos económicos. 
 	</div>
 </div>
 
@@ -617,7 +617,7 @@ Gráfico utilizado para representar **trayectorias uniendo puntos mediante líne
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+El trazo, o path, es un gran recurso cuando hay que apelar a sensibilidades donde la forma tiene que ir más allá de la proporcionalidad. En este ejemplo el número de defunciones toma la forma delicada de un pétalo o flor, transmitiendo no sólo la cantidad sino también un mensaje de fragilidad, tanto de la vida como de la causa que defendían. 
 	</div>
 </div>
 
@@ -634,7 +634,7 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-				
+				Tradicional ejemplo de uso del diagrama de araña en la figura inferior, donde se muestra en general el reducido número de paises que exceden el 10%. En este caso el uso del color gris se emplea para destacar tanto la propia información coloreada como los intervalos de una forma sutil. 
 	</div>
 </div>
 
@@ -664,7 +664,7 @@ Los ejes cartesianos, x e y, permiten asociar la **dimensión temporal al eje X*
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+En la figura inferior observamos los tradicionales ejes X e Y ortogonales y cómo la serie temporal adopta su forma más natural y a la que estamos más acostumbrados, con una interpretación lineal del tiempo. 
 	</div>
 </div>
 
@@ -681,7 +681,7 @@ El **scroll vertical de los dispositivos digitales** ha permitido la creación d
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+Los ejes verticales que se muestran en la figura inferior muestran no sólo la variabilidad del alcance orbital sino también el acumulado a medida que bajamos en el eje temporal. En una sola página pueden resumirse décadas de avances, retos y misiones gracias a este tipo de diagramas. 
 	</div>
 </div>
 
@@ -698,7 +698,7 @@ Siguiendo la tradición más oriental y redundando en la recursividad del tiempo
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			
+			En un nuevo ejercicio de optimización de espacio, se puede ver tanto la evolución global como individual gracias al uso del círculo en sustitución de la línea en la siguiente figura. 
 	</div>
 </div>
 
@@ -715,7 +715,7 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+La elegancia es lo que define a los diagramas de Sankey, como este ejemplo que se muestra en la figura inferior, donde salta a la vista tanto la magnitud como los flujos más importantes de una forma directa y sintética. 
 	</div>
 </div>
 
@@ -743,7 +743,7 @@ La más básica de esas representaciones es una **estructura en árbol** en la c
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+La complejidad de la naturaleza y de los sistemas de ingeniería en muchos ámbitos adopta formas más comprensibles con el uso de nodos, como en el ejemplo que tenemos aquí abajo, donde intuitivamente identificamos los grupos o clústers que constituyen un todo. 
 	</div>
 </div>
 
@@ -760,7 +760,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			
+			En línea con el ejemplo anterior, la complejidad de la naturaleza en las líneas genéticas se puede mostrar en este ejemplo a través de esta figura, que combina información con una gran optimización del espacio gracias al uso de las formas curvas y radiales. 
 	</div>
 </div>
 
@@ -793,7 +793,7 @@ Dentro de la tradición, representar localizaciones o eventos **a través de la 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+En este ejemplo que se ve en la figura inferior se utiliza el color de los puntos para denotar el tipo de evento que tiene lugar, sin recurrir al tamaño o al radio del círculo. 
  	</div>
 </div>
 
@@ -810,7 +810,7 @@ Las rutas, especialmente las correspondientes al transporte aéreo o marítimo, 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+El tradicional trazo sobre un mapa sigue vigente como uno de los métodos de visualización más efectivos, como en este ejemplo de la figura inferior donde las trayectorias de migración se detallan a través de trazos cubriendo una cartografía de fondo. 
 	</div>
 </div>
 
@@ -827,7 +827,7 @@ La división del territorio en márgenes y límites de diversa índole, tales co
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+El ejemplo tradicional de este tipo de visualización suelen ser los resultados electorales, como en este caso que se muestra en la figura inferior. La asociación de color e incluso intensidad pueden relacionar cada territorio con un partido y a veces hasta un determinado porcentaje de voto. 
 	</div>
 </div>
 
@@ -844,7 +844,7 @@ Determinados productos satelitales o modelos numéricos para el estudio del sist
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+En este ejemplo se muestra precisamente el resultado de productos meteorológicos que por construcción se estructuran en mallas regulares sobre la superficie terrestre. La regularidad de esas mallas aflora naturalemnte en la figura inferior para cubrir todo el planeta al tiempo que se otorgan una serie de magnitudes a cada punto. 
 	</div>
 </div>
 
@@ -861,7 +861,7 @@ La **interpolación entre valores adyacentes** en una superficie permite crear c
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+En este ejemplo se puede ver la utilidad de los contornos al ser necesario un alto grado de precisión territorial más allá de los límites administrativos del territorio. En la figura inferior se puede ver también el uso del color a la hora de transmitir alertas o peligro relativo. 
 	</div>
 </div>
 
@@ -878,7 +878,7 @@ El incremento de **la capacidad computacional** ha permitido el desarrollo en la
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	
+	La tridimensionalidad permite en el ejemplo inferior asociar una determinada magnitud, la población, a diferentes puntos en el espacio sobre la cartografía de fondo. Para evitar saturación, la magnitud representada sólo se asocia a núcleos urbanos, con lo que el resto de espacio libre permite aislar naturalmente las zonas de interés respecto a esta magnitud. 
 	</div>
 </div>
 
@@ -895,7 +895,7 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-
+En este ejemplo de la figura inferior podemos ver la utilidad de los hexágonos a la hora de identificar patrones de forma general, sin necesidad de discretizar o ir al detalle concreto con mucha resolución pero manteniendo el rigor informativo y valores relevantes para las zonas destacadas. 
 	</div>
 </div>
 
