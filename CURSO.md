@@ -428,9 +428,9 @@ Además de estas definiciones, haremos un recorrido por aquellas herramientas de
 
 Los datos abiertos suelen presentarse en un **amplio espectro de formatos**, dependiendo del organismo que los publica y de los medios por los cuales los ha obtenido. 
 
-A pesar de esta diversidad, el mundo de la visualización de datos suele ceñirse a un subconjunto de formatos. En concreto, se centra en aquellos que aseguran **facilidad de lectura dentro de unos estándares** y el **acceso de forma estructurada** a los datos, para así poder repetir patrones para cada entrada en el fichero de los datos. 
+A pesar de esta diversidad, el mundo de la visualización de datos suele ceñirse a un subconjunto de formatos. En concreto, se centra en aquellos que aseguran **facilidad de lectura dentro de unos estándares** y el **acceso de forma estructurada** a los datos, para así poder repetir patrones para cada entrada en el fichero de datos. 
 
-En esta sección y en las siguientes incorporamos herramientas para poder abordar y trabajar sobre los conceptos que se explican. Las herramientas proporcionadas son de acceso gratuito y permiten familiarizarnos con los formatos planteados. 
+En esta sección y en las siguientes proponemos herramientas para poder abordar y trabajar sobre los formatos que presentamos. Las herramientas proporcionadas son de acceso gratuito y permiten familiarizarnos con los formatos planteados. 
 
   <div class="aviso_caja">
 	<div class="aviso_titulo">
