@@ -1105,11 +1105,11 @@ De este modo, se define una clase y **todos los elementos vinculados a esa clase
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">HTML</p>
-		  El lenguaje fundamental que define la estructura y contenido de las páginas <i>web</i> mediante etiquetas. Este lenguaje permite organizar elementos como títulos, párrafos, imágenes y enlaces en un formato que los navegadores pueden interpretar y mostrar.
+
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">CSS</p>
-		  Lenguaje utilizado para estilizar y dar formato a documentos HTML, permitiendo definir cómo se deben mostrar los elementos en una página <i>web</i>. Separa el contenido de la presentación, facilitando la creación de diseños atractivos y consistentes.
+
       </div>
     </div>
   </div>
@@ -1147,19 +1147,19 @@ Los agentes son capaces de generar código donde albergar visualizaciones. <b>La
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">React</p>
-		   Biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario, especialmente en aplicaciones _web_ y móviles. Permite crear componentes reutilizables que facilitan el desarrollo de aplicaciones interactivas.
+
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Angular</p>
-		   Entorno de desarrollo _web_ de código abierto gestionado por Google, que permite crear aplicaciones _web_ dinámicas utilizando HTML, CSS y JavaScript. Su arquitectura se basa en componentes, lo que facilita la reutilización y el mantenimiento del código.
+		 
       </div>
 		      <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Vue.js</p>
-			Framework de JavaScript de código abierto utilizado para construir interfaces de usuario y aplicaciones de una sola página. Se caracteriza por su arquitectura progresiva, lo que permite integrarlo de manera gradual en proyectos existentes.
+			
       </div>
 		      <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Svelte</p>
-			Entorno de JavaScript diseñado para desarrollar interfaces de usuario, que se compila en componentes optimizados para ejecutarse en el navegador. A diferencia de otros <i>frameworks</i>, Svelte no utiliza un virtual DOM, lo que permite una ejecución más rápida y eficiente.
+		
       </div>
     </div>
   </div>
@@ -1188,19 +1188,48 @@ Funciona a modo de <i>notebook</i>, y cada modificación en el código va seguid
 	</div>
 </div>
 
-<div class="destacado_caja">
-  <div class="destacado_titulo">
-    Herramientas
-  </div>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div class="destacado_contenido" style="flex:1; min-width:300px;">
-      <div>
-        <p class="subtitulo subtitulo_borde">Observable</p>
-		Es una plataforma en línea donde puedes escribir, ejecutar y compartir código JavaScript en tiempo real, especialmente útil para la visualización de datos en D3.js y la creación de paneles.
-      </div>
-    </div>
-  </div>
+
+*************************************************************************************************************
+
+### Herramientas de frontal web
+
+{{|>}}
+*************************************************************************************************************
+
+<div class="concepto">
+		HTML
 </div>
+		  El lenguaje fundamental que define la estructura y contenido de las páginas <i>web</i> mediante etiquetas. Este lenguaje permite organizar elementos como títulos, párrafos, imágenes y enlaces en un formato que los navegadores pueden interpretar y mostrar.
+
+<div class="concepto">
+		CSS
+</div>
+		  Lenguaje utilizado para estilizar y dar formato a documentos HTML, permitiendo definir cómo se deben mostrar los elementos en una página <i>web</i>. Separa el contenido de la presentación, facilitando la creación de diseños atractivos y consistentes.
+
+<div class="concepto">
+		React
+</div>
+		   Biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario, especialmente en aplicaciones _web_ y móviles. Permite crear componentes reutilizables que facilitan el desarrollo de aplicaciones interactivas.
+
+<div class="concepto">
+		Angular
+</div>
+  Entorno de desarrollo _web_ de código abierto gestionado por Google, que permite crear aplicaciones _web_ dinámicas utilizando HTML, CSS y JavaScript. Su arquitectura se basa en componentes, lo que facilita la reutilización y el mantenimiento del código.
+
+<div class="concepto">
+		Vue.js
+</div>
+Framework de JavaScript de código abierto utilizado para construir interfaces de usuario y aplicaciones de una sola página. Se caracteriza por su arquitectura progresiva, lo que permite integrarlo de manera gradual en proyectos existentes.
+
+<div class="concepto">
+		Svelte
+</div>
+	Entorno de JavaScript diseñado para desarrollar interfaces de usuario, que se compila en componentes optimizados para ejecutarse en el navegador. A diferencia de otros <i>frameworks</i>, Svelte no utiliza un virtual DOM, lo que permite una ejecución más rápida y eficiente.
+
+<div class="concepto">
+		Observable
+</div>
+Es una plataforma en línea donde puedes escribir, ejecutar y compartir código JavaScript en tiempo real, especialmente útil para la visualización de datos en D3.js y la creación de paneles.
 
 
 *************************************************************************************************************
