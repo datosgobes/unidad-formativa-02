@@ -540,7 +540,7 @@ Estas familias son:
 	</div>
 	<div class="masinfo_contenido">
 Uno de los catálogos con mejores ejemplos de visualización contemporánea, tanto en calidad como en diversidad, es el registro de proyectos presentados y sobre todo premiados en los <i>Information is Beautiful Awards</i>. En su apartado de <i>Entry Showcase</i> se muestra un amplio espectro de proyectos sobre todo tipo de soportes, tanto digitales como en prensa así como artesanales en formatos físicos más allá del papel. 
-	<a href="https://www.informationisbeautifulawards.com/" target="_blank">Information is Beautiful Awards</a>
+	<a href="https://www.informationisbeautifulawards.com/showcase" target="_blank">Information is Beautiful Awards</a>
   </div>
 </div>
 
