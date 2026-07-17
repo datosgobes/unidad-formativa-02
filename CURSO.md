@@ -203,7 +203,7 @@ En 1694 Galileo Galilei publica su obra sobre la <b>posición de las estrellas n
 
 La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos. 
 
-Esta idea anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 📖[ Fuente](https://politicalscience.yale.edu/people/edward-tufte)
+Esta idea anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 📖[ Fuente](https://www.edwardtufte.com/books)
 
 *************************************************************************************************************
 
