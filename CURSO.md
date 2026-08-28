@@ -108,13 +108,13 @@ También puedes ver la [ VIDEO EN INGLES ]<!-- style="target: _blank" --> del v�
 2. Formato de datos 
    - Formatos de datos para visualización
    - Herramientas de lectura y conversión de formatos
-4. Tipos de visualizaciones
+3. Tipos de visualizaciones
    - Magnitudes 
    - Series temporales
    - Redes y jerarquías
    - Cartografía y mapas
    - Herramientas de visualización
-3. Frontales _web_
+4. Frontales _web_
    - HTML y CSS
    - Javascript
    - Observable
@@ -493,7 +493,9 @@ Actualmente existen diversas soluciones que permiten leer, procesar, transformar
 
 Estas soluciones pueden agruparse en dos grandes categorías. Por un lado, las **herramientas de hoja de cálculo**, que permiten organizar, analizar y convertir datos mediante interfaces gráficas intuitivas y con una curva de aprendizaje reducida. Por otro, los **lenguajes de programación orientados al análisis de datos**, que ofrecen mayores capacidades de automatización, transformación y procesamiento de la información.​
 
-A continuación, se presentan algunas de las herramientas y lenguajes más utilizados para trabajar con formatos de datos habituales en proyectos de análisis y visualización de datos. Las **herramientas de hoja de cálculo** son las siguientes:  ​
+A continuación, se presentan algunas de las herramientas y lenguajes más utilizados para trabajar con formatos de datos habituales en proyectos de análisis y visualización de datos. 
+
+#### Herramientas de hoja de cálculo  ​
 
 <div class="concepto">
 		Excel
@@ -507,7 +509,7 @@ Excel es una herramienta ampliamente utilizada para la organización de datos, l
 
 Google Sheets es una aplicación de hoja de cálculo basada en la web que permite organizar, analizar y compartir datos de forma eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios. Al igual que Excel, permite importar y exportar datos en diferentes formatos de texto delimitado y facilita su integración con otras aplicaciones y servicios para su posterior análisis o visualización.​
 
-Los **lenguajes de programación para análisis de datos** más utilizados son dos: ​
+#### Lenguajes de programación para análisis de datos​
 
 Los lenguajes de programación proporcionan capacidades avanzadas para la lectura, transformación, análisis y exportación de datos. Gracias a sus bibliotecas especializadas, permiten automatizar procesos y trabajar con grandes volúmenes de información de forma eficiente.​
 
@@ -921,9 +923,13 @@ En este ejemplo de la figura inferior podemos ver la utilidad de los hexágonos 
 {{|>}}
 *************************************************************************************************************
 
-Para el desarollo de proyectos de visualización existen actualmente un gran número de herramientas que **permiten crear todos los tipos de visualización mostrados en esta sección**. Un pequeño grupo de ellas permite abordar todos los tipos, mientras que otras herramientas pertenecen a ámbitos muy especializados y por lo tanto son de uso muy concreto sobre todo en el caso de la cartografía y los mapas. **El grado de dificultad para el uso de estas herramientas es muy variado**, y van desde software sofisticado como el caso de D3.js hasta herramientas más populares como Excel. **Todas son válidas y sirven al mismo objetivo**, el de transmitir de forma intuitiva y gráfica una determinada cantidad de información, y este objetivo se puede lograr con las herramientas más sencillas. Al final **todo depende de la audiencia** al cual esté dirigido el proyecto de visualización y el grado de detalle al que queramos llegar. 
+Para el desarrollo de proyectos de visualización de datos existe actualmente una **amplia variedad de herramientas** que permiten crear los distintos tipos de visualizaciones presentados en esta sección. Algunas de ellas ofrecen **funcionalidades muy versátiles** y permiten abordar prácticamente cualquier tipo de proyecto, mientras que otras están orientadas a ámbitos más específicos y especializados, como ocurre especialmente en el campo de la cartografía y los sistemas de información geográfica.​
 
-En esta tabla se describen algunas de las herramientas más populares y de mayor uso a la hora de realizar proyectos de visualización de datos. **Se identifican los ámbitos para los cuales estas herramientas son útiles**, aunque dentro de cada categoría cada herramienta tiene sus límites, ya que no existe ni la versatilidad absoluta ni universal para una herramienta concreta. El uso de cada herramienta depende del proyecto y de la familiaridad que tengamos con cada una de ellas. 
+El nivel de complejidad de estas herramientas también es muy diverso. Existen **soluciones avanzadas**, como D3.js, que requieren conocimientos técnicos especializados, y otras más **accesibles y ampliamente extendidas**, como Microsoft Excel. Todas ellas son válidas para alcanzar un mismo objetivo: comunicar información de manera clara, intuitiva y visual. De hecho, este propósito puede lograrse con éxito tanto mediante herramientas sofisticadas como mediante aplicaciones más sencillas.​
+
+En última instancia, la elección de una herramienta **dependerá de las características de la audiencia** a la que se dirige la visualización, de los objetivos del proyecto y del nivel de detalle que se desee alcanzar.​
+
+La tabla siguiente recoge algunas de las herramientas más conocidas y utilizadas en el ámbito de la visualización de datos. En ella se indican los **principales ámbitos de aplicación** en los que cada una resulta especialmente útil. No obstante, ninguna herramienta es completamente universal ni ofrece una versatilidad absoluta. La idoneidad de cada opción dependerá siempre de los requisitos específicos del proyecto y del grado de experiencia o familiaridad que se tenga con ella.​
 
 <center>![Herramientas para la creación de proyectos de visualización](media/Herramientas.png "Figura. Herramientas para la creación de proyectos de visualización.")</center>
 
