@@ -495,35 +495,23 @@ Estas soluciones pueden agruparse en dos grandes categorías. Por un lado, las *
 
 A continuación, se presentan algunas de las herramientas y lenguajes más utilizados para trabajar con formatos de datos habituales en proyectos de análisis y visualización de datos. 
 
-#### Herramientas de hoja de cálculo  ​
-
 <div class="concepto">
-		Excel
+		Herramientas de hoja de cálculo  
 </div>
 
-Excel es una herramienta ampliamente utilizada para la organización de datos, la realización de cálculos y la elaboración de gráficos y visualizaciones sencillas. Permite importar directamente ficheros CSV, TSV o TXT, así como exportar datos utilizando distintos tipos de separadores, como coma o tabulación, lo que facilita su integración en procesos de análisis posteriores.​
+- **Excel** es una herramienta ampliamente utilizada para la organización de datos, la realización de cálculos y la elaboración de gráficos y visualizaciones sencillas. Permite importar directamente ficheros CSV, TSV o TXT, así como exportar datos utilizando distintos tipos de separadores, como coma o tabulación, lo que facilita su integración en procesos de análisis posteriores.​
+
+- **Google Sheets** es una aplicación de hoja de cálculo basada en la web que permite organizar, analizar y compartir datos de forma eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios. Al igual que Excel, permite importar y exportar datos en diferentes formatos de texto delimitado y facilita su integración con otras aplicaciones y servicios para su posterior análisis o visualización.​
 
 <div class="concepto">
-		Google Sheets
+		​Lenguajes de programación para análisis de datos​
 </div>
-
-Google Sheets es una aplicación de hoja de cálculo basada en la web que permite organizar, analizar y compartir datos de forma eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios. Al igual que Excel, permite importar y exportar datos en diferentes formatos de texto delimitado y facilita su integración con otras aplicaciones y servicios para su posterior análisis o visualización.​
-
-#### Lenguajes de programación para análisis de datos​
 
 Los lenguajes de programación proporcionan capacidades avanzadas para la lectura, transformación, análisis y exportación de datos. Gracias a sus bibliotecas especializadas, permiten automatizar procesos y trabajar con grandes volúmenes de información de forma eficiente.​
 
-<div class="concepto">
-		Python
-</div>​
+- **Python** es uno de los lenguajes más utilizados en el ámbito del análisis de datos. Permite leer una amplia variedad de formatos de fichero, así como procesar, analizar y convertir datos para diferentes aplicaciones. El uso de estructuras de datos y bibliotecas como Pandas facilita la manipulación, limpieza y exportación de información en formatos como JSON, CSV o Excel.​
 
-Python es uno de los lenguajes más utilizados en el ámbito del análisis de datos. Permite leer una amplia variedad de formatos de fichero, así como procesar, analizar y convertir datos para diferentes aplicaciones. El uso de estructuras de datos y bibliotecas como Pandas facilita la manipulación, limpieza y exportación de información en formatos como JSON, CSV o Excel.​
-
-<div class="concepto">
-		R
-</div>
-
-R es un lenguaje de programación libre ampliamente utilizado en estadística y análisis de datos. Permite trabajar con formatos como CSV, TSV, TXT o JSON, entre muchos otros. Dispone de un amplio ecosistema de paquetes que facilita el tratamiento de datos de forma reproducible y ofrece una gran capacidad gráfica para su representación y visualización.​
+- **R** es un lenguaje de programación libre ampliamente utilizado en estadística y análisis de datos. Permite trabajar con formatos como CSV, TSV, TXT o JSON, entre muchos otros. Dispone de un amplio ecosistema de paquetes que facilita el tratamiento de datos de forma reproducible y ofrece una gran capacidad gráfica para su representación y visualización.​
 
 
 *************************************************************************************************************
