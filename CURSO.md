@@ -35,7 +35,7 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
 ![](https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/assets/img/logo_conjunto.png)
 </div>
 
-Esta unidad didáctica ofrece una visión general de la **visualización de datos contemporánea**, una **breve historia** de la visualización y los **tipos de visualización** más utilizados y útiles hoy en día. 
+Esta unidad didáctica ofrece una visión general de la **visualización de datos**, una **breve historia** de la visualización y los **tipos de visualización** más utilizados y útiles hoy en día. 
 
 Para consolidar lo aprendido, contarás con **ejercicios** en cada bloque, un **cuestionario final** y un **resumen** que recogerá las ideas más importantes.
 
@@ -69,12 +69,12 @@ También puedes ver la [ VIDEO EN INGLES ]<!-- style="target: _blank" --> del v�
 
   <div class="presentacion_fila">
     <div class="caja-icono">📋</div><div class="caja-texto"><span class="etiqueta">Descripción:</span> 
-		La unidad describe <b>todos los elementos</b> que hay que abordar a la hora de realizar una <b>visualización de datos</b>, desde el procesamiento de los datos de entrada para disponer del formato adecuado hasta la capa de presentación para poder acceder a la visualización en un entorno <i>web</i>; incluye también una revisión de los <b>tipos más frecuentes de visualización contemporánea</b> que podemos utilizar. En cada paso <b>se recomiendan una serie de herramientas</b>, gratuitas y de acceso libre, a las que podemos recurrir para realizar las visualizaciones.</div>
+		La unidad describe <b>todos los elementos</b> que hay que abordar a la hora de realizar una <b>visualización de datos</b>, desde el procesamiento de los datos de entrada para disponer del formato adecuado hasta la capa de presentación para poder acceder a la visualización en un entorno <i>web</i>; incluye también una revisión de los <b>tipos más frecuentes de visualización</b> que podemos utilizar. En los apartados de formatos de datos, tipos de visualización y frontales web <b>se recomiendan una serie de herramientas</b>, gratuitas y de acceso libre, a las que podemos recurrir para realizar las visualizaciones.</div>
   </div>
 
   <div class="presentacion_fila">
     <div class="caja-icono">👥</div><div class="caja-texto"><span class="etiqueta">Público objetivo:</span> 
-		Esta unidad didáctica está orientada a toda aquella persona que desee <b>iniciarse en el mundo de la visualización contemporánea</b> y que tenga interés en aprender todo el <b>espectro de posibilidades</b> que ofrecen las herramientas actuales. Esto incluye a aquellos interesados tanto en difundir datos de impacto social como a aquellos en <b>entornos profesionales que utilicen datos abiertos</b>. Las categorías profesionales que pueden beneficiarse de los contenidos de este curso son: analistas de datos, periodistas de datos, desarrolladores, programadores, diseñadores gráficos e ilustradores, entre otros. </div>
+		Esta unidad didáctica está orientada a toda aquella persona que desee <b>iniciarse en el mundo de la visualización</b> y que tenga interés en aprender todo el <b>espectro de posibilidades</b> que ofrecen las herramientas actuales. Esto incluye a aquellos interesados tanto en difundir datos de impacto social como a aquellos en <b>entornos profesionales que utilicen datos abiertos</b>. Las categorías profesionales que pueden beneficiarse de los contenidos de este curso son: analistas de datos, periodistas de datos, desarrolladores, programadores, diseñadores gráficos e ilustradores, entre otros. </div>
   </div>
 
   <div class="presentacion_fila">
@@ -89,10 +89,11 @@ También puedes ver la [ VIDEO EN INGLES ]<!-- style="target: _blank" --> del v�
       <div  class="lista-contenido">
 	  
 	  Los objetivos didácticos que cubre esta unidad didáctica son: 
-- Introducir **históricamente** el ámbito de la visualización de datos, explicando los motivos por los cuales empleamos visualizaciones y qué es la visualización contemporánea. 
-- Proporcionar **herramientas básicas** al analista de datos, periodista, desarrollador, programador, diseñador gráfico o ilustrador que desee iniciarse en el mundo de la visualización de datos contemporánea. 
+- Introducir **históricamente** el ámbito de la visualización de datos, explicando los motivos por los cuales empleamos visualizaciones y qué es la visualización contemporánea.
 - Explicar los **formatos de datos** más populares que se utilizan en la actualidad para visualizar datos en entornos <i>web</i>, así como su adecuación según la tecnología que empleada y del tipo de visualización. 
-- Introducir las **cuatro grandes familias de visualización contemporánea**: representación de magnitudes, series temporales, elementos interconectados y mapas y cartografía
+- Introducir las **cuatro grandes familias de visualización**: representación de magnitudes, series temporales, elementos interconectados y mapas y cartografía
+- Describir los entornos para el desarrollo de **frontales web** en los cuales se pueden alojar las visualizaciones para su máxima difusión posible. 
+- Dar a conocer **herramientas básicas** al analista de datos, periodista, desarrollador, programador, diseñador gráfico o ilustrador que desee iniciarse en el mundo de la visualización de datos. 
       </div>
     </div>
     <div class="columna-mitad">
@@ -156,7 +157,7 @@ El **breve recorrido por la historia** de la visualización de datos, desde las 
 - **La astronomía y el origen de la visualización**
 - **La revolución del siglo XIX en la visualización contemporánea**
 
-La difusión contemporánea de la visualización nos permite destacar los aspectos más relevantes que han permitido su **integración tanto en el mundo de la prensa como en el mundo empresarial**. 
+La difusión de la visualización nos permite destacar los aspectos más relevantes que han permitido su **integración tanto en el mundo de la prensa como en el mundo empresarial**. 
 
 Finalmente se especifican **todas las áreas profesionales** que cubren el proceso de desarrollo de un proyecto de visualización, desde su concepción gráfica hasta su implementación en un entorno _web_, entre los que se encuentran:
 
@@ -523,7 +524,7 @@ Es una aplicación de hoja de cálculo basada en la _web_ que permite organizar,
 *************************************************************************************************************
 
 
-En esta sección veremos los **tipos de visualizaciones más populares**, que se engloban dentro de **las cuatro grandes familias de visualización contemporánea**. Estas cuatro familias son categorías ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis, así como en el diseño de productos que necesitan de la representación gráfica de grandes cantidades de datos.
+En esta sección veremos los **tipos de visualizaciones más populares**, que se engloban dentro de **las cuatro grandes familias de visualización**. Estas cuatro familias son categorías ya consolidadas dentro de los discursos y narrativas tanto de la prensa como de las aplicaciones y empresas que desarrollan proyectos de análisis, así como en el diseño de productos que necesitan de la representación gráfica de grandes cantidades de datos.
 
 Igualmente, las **visualizaciones que vemos día a día** tanto en los entornos de prensa como corporativos pueden asociarse a alguna de estas familias, ofreciendo **diferentes posibilidades para representar los datos** y así una gran riqueza de ideas, conceptos y variedad a la hora de representar datos e información. 
 
@@ -539,7 +540,7 @@ Estas familias son:
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-Uno de los catálogos con mejores ejemplos de visualización contemporánea, tanto en calidad como en diversidad, es el registro de proyectos presentados y sobre todo premiados en los <i>Information is Beautiful Awards</i>. En su apartado de <i>Entry Showcase</i> se muestra un amplio espectro de proyectos sobre todo tipo de soportes, tanto digitales como en prensa así como artesanales en formatos físicos más allá del papel. 
+Uno de los catálogos con mejores ejemplos de visualización, tanto en calidad como en diversidad, es el registro de proyectos presentados y sobre todo premiados en los <i>Information is Beautiful Awards</i>. En su apartado de <i>Entry Showcase</i> se muestra un amplio espectro de proyectos sobre todo tipo de soportes, tanto digitales como en prensa así como artesanales en formatos físicos más allá del papel. 
 	<a href="https://www.informationisbeautifulawards.com/showcase" target="_blank">Information is Beautiful Awards</a>
   </div>
 </div>
@@ -778,7 +779,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 
 El mundo de los mapas y la cartografía es un universo en sí mismo, con **siglos de antigüedad y en constante evolución**. A pesar de ser un sistema de representación emparentado con los ejes cartesianos y por lo tanto con un peso tradicional del que le cuesta desprenderse, hoy en día combina lo mejor de los dos mundos, tanto el aspecto más tradicional como propuestas más arriesgadas. 
 
-La cartografía contemporánea invita a repensar cómo vemos el mundo más allá de esa tradición.  
+La cartografía invita a repensar cómo vemos el mundo más allá de esa tradición.  
 
 Las formas de representación geográfica son numerosas; se citan algunas de ellas en esta sección.  
 
