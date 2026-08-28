@@ -279,7 +279,7 @@ No obstante, el desembarco de nuevas tecnologías a lo largo de las últimas dé
 Algunos ejemplos destacados de visualizaciones fuera del mundo digital son:
     <ul>
       <li> El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel="noopener">ShowYourStripes</a> que aborda el <b>incremento de la temperatura en la superficie de la Tierra</b> a través del color. Este proyecto cuenta con <b>representación en todo tipo de soportes</b> más allá de los digitales, en concreto sobre patrones textiles o cerámicos. </li>
-      <li> La empresa <a href="https://datos.gob.es/es/empresas/tangible-data" target="_blank" rel="noopener">Tangible Data</a> crea <b>esculturas de datos para exhibición pública</b> de una manera tangible y cautivadora.</li>
+      <li> El trabajo de <a href="https://www.tangibledata.xyz/" target="_blank" rel="noopener">Tangible Data</a> crea <b>esculturas de datos para exhibición pública</b> de una manera tangible y cautivadora.</li>
     </ul>
 	</div>
 </div>
@@ -373,7 +373,7 @@ El propio interés empresarial ha permitido **el desarrollo de herramientas muy 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-Kpler, empresa que monitoriza el movimiento de materias primas y derivados de combustibles fósiles a través del transporte marítimo por todo el planeta, se ha erigido como una **referencia a la hora de representar grandes cantidades de datos visualmente** de forma innovadora, individualizando **trayectorias de cargueros** en alta mar, así como representando **cantidades derivadas de volúmenes transportados**. 
+Kpler monitoriza el movimiento de materias primas y derivados de combustibles fósiles a través del transporte marítimo por todo el planeta, se ha erigido como una **referencia a la hora de representar grandes cantidades de datos visualmente** de forma innovadora, individualizando **trayectorias de cargueros** en alta mar, así como representando **cantidades derivadas de volúmenes transportados**. 
 		<a href="https://www.youtube.com/watch?v=P0uqeMV9Y54" target="_blank">Kpler Market Insight</a>
 	</div>
 </div>
@@ -431,16 +431,14 @@ Los datos abiertos suelen presentarse en un **amplio espectro de formatos**, dep
 
 A pesar de esta diversidad, el mundo de la visualización de datos suele ceñirse a un subconjunto de formatos. En concreto, se centra en aquellos que aseguran **facilidad de lectura dentro de unos estándares** y el **acceso de forma estructurada** a los datos, para así poder repetir patrones para cada entrada en el fichero de datos. 
 
-En esta sección y en las siguientes proponemos herramientas para poder abordar y trabajar sobre los formatos que presentamos. Las herramientas proporcionadas son de acceso gratuito y permiten familiarizarnos con los formatos planteados. 
+En esta sección y en las siguientes proponemos herramientas para poder abordar y trabajar sobre los formatos que presentamos. Las herramientas indicadas son de acceso gratuito y permiten familiarizarnos con los formatos planteados. 
 
   <div class="aviso_caja">
 	<div class="aviso_titulo">
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-El conjunto de formatos presentado aquí representa la mayor parte de <b>datos con un número pequeño o moderado de entradas</b>. La explosión del big data ha traído consigo la creación de nuevos formatos tales como bases de datos o como el formato .parquet, por ejemplo, que pueden contener millones de entradas.
-		
-Estos formatos son difíciles de manejar por herramientas tradicionales de análisis y visualización, y necesitan de software específico. 
+Los dos tipos de formatos presentados aquí son los de mayor uso para <b>conjuntos de datos con un número pequeño o moderado de entradas</b>. La explosión del big data ha traído consigo la creación de nuevos formatos tales como bases de datos SQL (_Structured Query Language_), o como el formato .parquet, por ejemplo, que pueden contener millones de entradas. Estos formatos son difíciles de manejar por herramientas tradicionales de análisis y visualización, y necesitan para ello de software específico. 
 	</div>
 </div>
 
