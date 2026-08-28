@@ -489,27 +489,39 @@ Su desarrollo estuvo motivado por el intercambio de información necesario para 
 {{|>}}
 *************************************************************************************************************
 
-Actualmente existen una serie de herramientas que nos permiten leer, operar, procesar y exportar un amplio rango de formatos de datos. La popularidad de los formatos mencionados en esta sección ha hecho que herramientas generalistas del tipo Python o R hayan incluído dentro de sus librerías **las funciones necesarias tanto para su lectura como para su cambio de formato**. En esta sección destacamos las siguientes herramientas, que requieren de pocos conocimientos de programación y una **curva de aprendizaje sencilla** para poder ejercitarse en el manejo de formatos de datos tan básicos como útiles y versátiles a la hora de abordar proyectos de visualización de datos. 
+Actualmente existen diversas soluciones que permiten leer, procesar, transformar y exportar un amplio rango de formatos de datos. La popularidad de formatos como CSV, TSV, TXT o JSON ha favorecido la aparición de herramientas capaces de trabajar con ellos de forma sencilla y eficiente.​
 
-<div class="concepto">
-		Python
-</div>
-Python es uno de los lenguajes más utilizados en análisis de datos. Permite la lectura de un amplio rango de ficheros de datos, así como su procesamiento, análisis y conversión de formato para todo tipo de aplicaciones. El uso de arrays o de la librería Pandas para estructurar los datos permite operar, limpiar y exportar en formato JSON sin mucha dificultad. 
+Estas soluciones pueden agruparse en dos grandes categorías. Por un lado, las **herramientas de hoja de cálculo**, que permiten organizar, analizar y convertir datos mediante interfaces gráficas intuitivas y con una curva de aprendizaje reducida. Por otro, los **lenguajes de programación orientados al análisis de datos**, que ofrecen mayores capacidades de automatización, transformación y procesamiento de la información.​
 
-<div class="concepto">
-		R
-</div>
-Lenguaje de programación libre muy utilizado en estadística y análisis de datos, que utiliza como punto de partida los mencionados formatos CSV, TSV, TXT o JSON, entre muchos otros. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos de forma reproducible y con una alta capacidad gráfica para su representación. 
+A continuación, se presentan algunas de las herramientas y lenguajes más utilizados para trabajar con formatos de datos habituales en proyectos de análisis y visualización de datos. Las **herramientas de hoja de cálculo** son las siguientes:  ​
 
 <div class="concepto">
 		Excel
 </div>
-Tradicional herramienta de estructuración de datos, cálculos sencillos y visualización a través de elementos clásicos. Permite una lectura directa de ficheros CSV, TSV o TXT, y permite igualmente exportar los datos eligiendo el tipo de separador entre coma o tabulación, y así adaptar el formato al código de análisis que hayamos desarrollado. 
+
+Excel es una herramienta ampliamente utilizada para la organización de datos, la realización de cálculos y la elaboración de gráficos y visualizaciones sencillas. Permite importar directamente ficheros CSV, TSV o TXT, así como exportar datos utilizando distintos tipos de separadores, como coma o tabulación, lo que facilita su integración en procesos de análisis posteriores.​
 
 <div class="concepto">
 		Google Sheets
 </div>
-Es una aplicación de hoja de cálculo basada en la _web_ que permite organizar, analizar y compartir datos de manera eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios. Al igual que en Excel, a partir de tablas es posible exportar el contenido con los separadores mencionados, e incluso es posible de exportar el contenido directamente a JavaScript para su visualización como si fuese un JSON. 
+
+Google Sheets es una aplicación de hoja de cálculo basada en la web que permite organizar, analizar y compartir datos de forma eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios. Al igual que Excel, permite importar y exportar datos en diferentes formatos de texto delimitado y facilita su integración con otras aplicaciones y servicios para su posterior análisis o visualización.​
+
+Los **lenguajes de programación para análisis de datos** más utilizados son dos: ​
+
+Los lenguajes de programación proporcionan capacidades avanzadas para la lectura, transformación, análisis y exportación de datos. Gracias a sus bibliotecas especializadas, permiten automatizar procesos y trabajar con grandes volúmenes de información de forma eficiente.​
+
+<div class="concepto">
+		Python
+</div>​
+
+Python es uno de los lenguajes más utilizados en el ámbito del análisis de datos. Permite leer una amplia variedad de formatos de fichero, así como procesar, analizar y convertir datos para diferentes aplicaciones. El uso de estructuras de datos y bibliotecas como Pandas facilita la manipulación, limpieza y exportación de información en formatos como JSON, CSV o Excel.​
+
+<div class="concepto">
+		R
+</div>
+
+R es un lenguaje de programación libre ampliamente utilizado en estadística y análisis de datos. Permite trabajar con formatos como CSV, TSV, TXT o JSON, entre muchos otros. Dispone de un amplio ecosistema de paquetes que facilita el tratamiento de datos de forma reproducible y ofrece una gran capacidad gráfica para su representación y visualización.​
 
 
 *************************************************************************************************************
