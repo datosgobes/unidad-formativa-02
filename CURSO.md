@@ -919,7 +919,7 @@ En última instancia, la elección de una herramienta **dependerá de las caract
 
 La tabla siguiente recoge algunas de las herramientas más conocidas y utilizadas en el ámbito de la visualización de datos. En ella se indican los **principales ámbitos de aplicación** en los que cada una resulta especialmente útil. No obstante, ninguna herramienta es completamente universal ni ofrece una versatilidad absoluta. La idoneidad de cada opción dependerá siempre de los requisitos específicos del proyecto y del grado de experiencia o familiaridad que se tenga con ella.​
 
-<center>![Herramientas para la creación de proyectos de visualización](media/Herramientas.png "Figura. Herramientas para la creación de proyectos de visualización.")</center>
+<center>![Herramientas para la creación de proyectos de visualización](media/Diagrama_Herramientas.png "Figura. Herramientas para la creación de proyectos de visualización.")</center>
 
 <div class="concepto">
 		D3.js
