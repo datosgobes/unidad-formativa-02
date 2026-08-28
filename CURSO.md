@@ -1136,40 +1136,33 @@ Desde el origen de internet y sus primeros protocolos de intercambio de informac
 
 Mientras el aprendizaje de HTML y CSS es relativamente sencillo, la familiaridad con los entornos del tipo React o Svelte requiere de conocimientos más profundos sobre todo de JavaScript. **La complejidad de la herramienta también aumenta sus posibilidades de modularidad y recursividad de componentes**. El punto de equilibrio de las herramientas necesarias para albergar un proyecto de visualización depende en último caso de los requisitos del propio proyecto y del medio en el cual se prevee su difusión, pudiendo ser de lo más sencillo a lo más complejo sobre todo en entornos de producción de desarrollo de software. 
 
-<div class="concepto">
-		HTML
-</div>
-		  El lenguaje fundamental que define la estructura y contenido de las páginas <i>web</i> mediante etiquetas. Este lenguaje permite organizar elementos como títulos, párrafos, imágenes y enlaces en un formato que los navegadores pueden interpretar y mostrar.
+Las herramientas utilizadas para desarrollar visualizaciones en la web pueden agruparse en **tres grandes categorías**. En primer lugar, las tecnologías fundamentales que permiten construir y dar formato a las páginas web. En segundo lugar, los frameworks y bibliotecas que facilitan el desarrollo de interfaces interactivas mediante componentes reutilizables. Finalmente, existen entornos específicamente orientados a la creación y publicación de visualizaciones de datos. La elección de una u otra tecnología **dependerá de la complejidad del proyecto**, del nivel de interacción requerido y de los conocimientos técnicos del equipo de desarrollo. 
 
 <div class="concepto">
-		CSS
+	 Tecnologías fundamentales de la web 
 </div>
-		  Lenguaje utilizado para estilizar y dar formato a documentos HTML, permitiendo definir cómo se deben mostrar los elementos en una página <i>web</i>. Separa el contenido de la presentación, facilitando la creación de diseños atractivos y consistentes.
+
+- **HTML**: Lenguaje de marcado que constituye la base de cualquier página web. Permite definir la estructura y organización de los contenidos mediante elementos como títulos, párrafos, tablas, imágenes o enlaces, que posteriormente son interpretados y mostrados por los navegadores.  
+
+- **CSS**: Lenguaje encargado de definir la presentación visual de los documentos HTML. Permite controlar aspectos como colores, tipografías, distribución de elementos y adaptación a diferentes dispositivos, separando el contenido de su apariencia gráfica.  
 
 <div class="concepto">
-		React
+		Frameworks y bibliotecas para interfaces web 
 </div>
-		   Biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario, especialmente en aplicaciones _web_ y móviles. Permite crear componentes reutilizables que facilitan el desarrollo de aplicaciones interactivas.
+
+- **React**: Biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario interactivas. Su modelo basado en componentes reutilizables facilita el desarrollo, mantenimiento y escalabilidad de aplicaciones web complejas, incluyendo proyectos de visualización de datos. [Contenido | Word] 
+
+- **Angular**: Framework de desarrollo web impulsado por Google que permite crear aplicaciones dinámicas mediante una arquitectura basada en componentes. Proporciona herramientas integradas para el desarrollo de proyectos de gran tamaño y favorece la organización y reutilización del código. [Contenido | Word] 
+
+- **Vue.js**: Framework de JavaScript orientado a la construcción de interfaces de usuario y aplicaciones de una sola página. Se caracteriza por su enfoque progresivo, que permite incorporarlo gradualmente a proyectos existentes y adaptarlo a necesidades de distinta complejidad.  
+
+- **Svelte**: Framework de desarrollo de interfaces que transforma los componentes en código optimizado durante la compilación. Al reducir la carga de trabajo en el navegador, permite crear aplicaciones rápidas y eficientes, especialmente adecuadas para entornos interactivos.  
 
 <div class="concepto">
-		Angular
+		Entornos para la visualización de datos 
 </div>
-  Entorno de desarrollo _web_ de código abierto gestionado por Google, que permite crear aplicaciones _web_ dinámicas utilizando HTML, CSS y JavaScript. Su arquitectura se basa en componentes, lo que facilita la reutilización y el mantenimiento del código.
 
-<div class="concepto">
-		Vue.js
-</div>
-Framework de JavaScript de código abierto utilizado para construir interfaces de usuario y aplicaciones de una sola página. Se caracteriza por su arquitectura progresiva, lo que permite integrarlo de manera gradual en proyectos existentes.
-
-<div class="concepto">
-		Svelte
-</div>
-	Entorno de JavaScript diseñado para desarrollar interfaces de usuario, que se compila en componentes optimizados para ejecutarse en el navegador. A diferencia de otros <i>frameworks</i>, Svelte no utiliza un virtual DOM, lo que permite una ejecución más rápida y eficiente.
-
-<div class="concepto">
-		Observable
-</div>
-Es una plataforma en línea donde puedes escribir, ejecutar y compartir código JavaScript en tiempo real, especialmente útil para la visualización de datos en D3.js y la creación de paneles.
+- **Observable**: Plataforma web orientada a la creación, ejecución y publicación de visualizaciones de datos interactivas mediante JavaScript. Está especialmente vinculada al ecosistema de D3.js y facilita la experimentación, documentación y compartición de proyectos directamente desde el navegador.  
 
 
 *************************************************************************************************************
