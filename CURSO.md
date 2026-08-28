@@ -905,6 +905,7 @@ En este ejemplo de la figura inferior podemos ver la utilidad de los hexágonos 
 
 *************************************************************************************************************
 
+<!-- id="vis_4" -->
 
 ### Herramientas de visualización
 
