@@ -992,8 +992,7 @@ Agrupan soluciones dirigidas a necesidades concretas de análisis y representaci
 
 - **MapLibre**: Biblioteca de JavaScript de código abierto diseñada para crear mapas web interactivos de alto rendimiento. Permite desarrollar aplicaciones cartográficas altamente personalizadas mediante teselas vectoriales y tecnologías web modernas.  
 
-	  
-*************************************************************************************************************
+*************************************************************************************************************	  
 
 <!-- id="ejercicio_0" -->
 
