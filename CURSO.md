@@ -922,99 +922,70 @@ La tabla siguiente recoge algunas de las herramientas más conocidas y utilizada
 <center>![Herramientas para la creación de proyectos de visualización](media/Diagrama_Herramientas.png "Figura. Herramientas para la creación de proyectos de visualización.")</center>
 
 <div class="concepto">
-		D3.js
+		Herramientas de comunicación y visualización divulgativa
 </div>
-Es uno de los referentes en visualización <i>web</i>. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad. A pesar de que cubre diversas categorías quizá para cartografía y mapas existen herramientas más especializadas. Su fuerte reside en visualizaciones con algo grado de customización y muy presentes en prensa y medios de información. 
+
+Se trata de las herramientas más accesibles y de uso más extendido. Están orientadas a la creación rápida de gráficos y elementos visuales para comunicar resultados de forma clara e intuitiva, sin requerir conocimientos técnicos avanzados. Son especialmente útiles para representar magnitudes y series temporales, así como para elaborar materiales divulgativos.  
+
+- **Excel**: Herramienta ampliamente utilizada para la organización, cálculo y representación gráfica de datos. Permite crear gráficos convencionales de forma rápida y sencilla, siendo una de las opciones más accesibles para usuarios con poca experiencia en visualización de datos.  
+
+- **Datawrapper**: Aplicación muy utilizada en periodismo de datos y comunicación pública. Permite generar gráficos, tablas y mapas interactivos sin necesidad de programación, facilitando la comunicación de información compleja a audiencias amplias mediante visualizaciones claras y fácilmente interpretables.  
+
+- **Canva**: Plataforma de diseño gráfico que incorpora herramientas básicas para representar datos. Resulta especialmente útil para integrar gráficos sencillos en infografías, presentaciones y materiales divulgativos, priorizando la comunicación visual frente al análisis de datos.  
+
+- **RAWGraphs**: Herramienta de software libre orientada a la exploración visual de datos. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representación, siendo especialmente útil durante las fases iniciales de análisis y diseño de visualizaciones.
 
 <div class="concepto">
-		Tableau
+		Herramientas de inteligencia empresarial y cuadros de mando (Business Intelligence)
 </div>
-Plataforma de análisis de datos que permite la conexión a bases de datos y creación de cuadros de mando con un alto grado de customización. De nuevo, su grado de penetración en las diferentes categorías es variable y para usos en entornos de produccion requiere de licencia. 
+
+Estas plataformas están diseñadas para conectar diferentes fuentes de datos y construir cuadros de mando interactivos. Se utilizan habitualmente en organizaciones para el seguimiento de indicadores y la monitorización de procesos, destacando especialmente en la representación de magnitudes y series temporales.
+
+- **Tableau**: Plataforma de análisis y visualización de datos que permite conectar bases de datos y crear cuadros de mando interactivos con un elevado nivel de personalización. Es una de las herramientas más utilizadas en entornos profesionales para explorar y comunicar información de forma dinámica.  
+
+- **Power BI**: Solución de inteligencia empresarial desarrollada por Microsoft que permite integrar distintas fuentes de datos y construir paneles interactivos de seguimiento. Destaca por su integración con el ecosistema Microsoft y por la facilidad para compartir informes dentro de una organización.  
+
+- **Apache Superset**: Plataforma de código abierto orientada a la exploración y visualización de grandes volúmenes de datos mediante cuadros de mando interactivos. Permite realizar consultas y análisis sin necesidad de programación, aunque ofrece menos flexibilidad para visualizaciones no convencionales.  
+
+- **Grafana**: Aplicación web de código abierto especializada en la representación de métricas y datos en tiempo real. Se utiliza habitualmente para la monitorización de sistemas y procesos, destacando por sus capacidades para visualizar series temporales mediante paneles interactivos.  
 
 <div class="concepto">
-		PowerBI
+		Herramientas de programación para análisis y visualización
 </div>
-Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización. Se trata de una herramienta muy efectiva pero al mismo tiempo todavía conservadora a la hora de flexibilizar formas y tipos de visualización. 
+
+Estas herramientas proporcionan un elevado grado de flexibilidad y personalización, permitiendo desarrollar prácticamente cualquier tipo de visualización. Requieren conocimientos de programación, pero ofrecen capacidades avanzadas de análisis, automatización y representación gráfica.  
+
+- **Python**: Lenguaje de programación ampliamente utilizado en ciencia de datos y análisis estadístico. Mediante bibliotecas como Matplotlib, Plotly o Cartopy permite crear gráficos estáticos, visualizaciones interactivas y mapas, combinando potencia analítica y flexibilidad.  
+
+- **R**: Lenguaje especializado en estadística y análisis de datos con un amplio ecosistema de paquetes para la representación gráfica. Destaca por sus capacidades para generar visualizaciones reproducibles de magnitudes, series temporales y datos geográficos.  
+
+- **D3.js**: Biblioteca de JavaScript considerada una referencia en visualización web avanzada. Permite construir representaciones altamente personalizadas e interactivas mediante estándares abiertos, aunque requiere conocimientos técnicos y presenta una curva de aprendizaje elevada.  
 
 <div class="concepto">
-		Datawrapper
+		Herramientas de cartografía y sistemas de información geográfica (SIG) 
 </div>
-Muy utilizada en comunicación pública y periodismo de datos. Permite crear gráficos claros, mapas y tablas interactivas sin necesidad de conocimientos técnicos. Es especialmente adecuada para explicar datos de forma comprensible a un público amplio y se puede encontrar sobre todo en prensa y medios de información. 
-			
-<div class="concepto">
-		RAWGraphs
-</div>
-Herramienta de software libre orientada a la exploración visual. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representar datos. Resulta especialmente útil en fases exploratorias.
+
+Este grupo reúne herramientas especializadas en el tratamiento de información georreferenciada. Permiten visualizar datos espaciales, generar mapas temáticos y realizar análisis territoriales con distintos niveles de complejidad.  
+
+- **Google Earth**: Herramienta de visualización geográfica basada en imágenes satelitales y modelos del terreno. Permite incorporar información geográfica en formatos estándar y contextualizarla sobre mapas de gran detalle para tareas de análisis y divulgación.  
+
+- **KeplerGL**: Aplicación web gratuita y de código abierto orientada a la creación de mapas interactivos. Permite cargar grandes volúmenes de datos georreferenciados y generar visualizaciones cartográficas avanzadas mediante una interfaz accesible.  
+
+- **QGIS**: Sistema de Información Geográfica de código abierto ampliamente utilizado en ámbitos académicos y profesionales. Ofrece capacidades avanzadas para el análisis espacial, la gestión de datos geográficos y la producción cartográfica de alta calidad.  
+
+- **ArcGIS**: Plataforma SIG comercial de referencia en entornos institucionales y profesionales. Incorpora herramientas avanzadas para el análisis, edición y publicación de información geográfica, además de servicios colaborativos basados en la nube.  
+
+- **OpenStreetMap**: Proyecto colaborativo de datos geográficos abiertos que constituye una de las principales fuentes de información cartográfica a nivel mundial. Sus datos y mapas sirven de base para numerosas aplicaciones y proyectos de visualización geográfica.
 
 <div class="concepto">
-		Canva
+		Herramientas especializadas para visualización avanzada
 </div>
-Aunque su enfoque es más divulgativo que analítico, puede ser útil para crear piezas visuales sencillas que integren gráficos básicos con elementos de diseño. Es adecuada para la comunicación visual de resultados, no tanto para el análisis de datos.
 
-<div class="concepto">
-		Python
-</div>
-Python es uno de los lenguajes más utilizados en análisis de datos. Dispone de varias librerías muy útiles para la creación tanto de visualización de series temporales como de mapas. Matplotlib permite crear gráficos estáticos personalizables, Plotly facilita la creación de visualizaciones interactivas y Cartopy permite crear mapas. Juntas ofrecen un buen equilibrio entre potencia y flexibilidad.
+Agrupan soluciones dirigidas a necesidades concretas de análisis y representación visual. Aunque su ámbito de aplicación es más específico, permiten abordar problemas que resultan difíciles de representar mediante herramientas generalistas.  
 
-<div class="concepto">
-		R
-</div>
-Lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible. La parte gráfica es muy potente a la hora de representar magnitudes, series temporales y mapas. 
+- **Cosmograph**: Herramienta especializada en la representación de redes, conexiones y estructuras jerárquicas complejas. Permite explorar visualmente grandes conjuntos de nodos y relaciones mediante una interfaz web interactiva y orientada al análisis exploratorio.  
 
-<div class="concepto">
-		Excel
-</div>
-Tradicional herramienta de estructuración de datos, cálculos sencillos y visualización a través de elementos clásicos. De todas las herramientas probablemente sea la que necesite de menor tiempo de aprendizaje y ofrece soluciones sencillas a la hora de representar magnitudes, series temporales y mapas. 
-
-<div class="concepto">
-		Apache Superset
-</div>
-Es una plataforma de inteligencia empresarial de código abierto diseñada para la exploración y visualización de datos, que permite a los usuarios crear dashboards interactivos y realizar consultas <i>ad hoc</i> sin necesidad de programación. Está orientada sobre todo a la digestión de grandes cantidades de datos sin mucha flexibilidad a la hora de explorar tipos de visualización poco convencionales. 
-
-<div class="concepto">
-		Grafana
-</div>
-Es una aplicación  <i>web</i> de análisis y visualización de datos de código abierto que permite a los usuarios crear paneles de control personalizables para mostrar métricas, registros y trazas a partir de diversas fuentes de datos. Se utiliza comúnmente para monitorear aplicaciones y recursos de hardware, y se centra por lo tanto y sobre todo en series temporales, con un cierto grado de customización. 
-
-<div class="concepto">
-Cosmograph
-</div>
-Herramienta para la visualización de un gran número de interconexiones y elementos asociados de forma jerárquica. Su mayor virtud es la capacidad exploratoria que tiene sobre nodos, nodos radiales y nodos tridimensionales sin necesidad de instalar software y realizando todo a través de una interfaz web. 
-
-<div class="concepto">
-GoogleEarth
-</div>
-Herramienta gratuita pero no de código abierto. Su versión <i>web</i> permite importar archivos GeoJSON o KML/KMZ y es útil para contextualizar información sobre imágenes satelitales además de realizar tareas de análisis. Utiliza formas tradicionales de visualización cartográfica y goza de un gran nivel de detalle muy útil para determinadas aplicaciones. 
-
-<div class="concepto">
-KeplerGL
-</div>
-Herramienta  <i>web</i> gratuita y de código abierto que permite arrastrar y soltar archivos en formatos como CSV, GeoJSON o Shapefile y obtener visualizaciones de forma inmediata con un indudable estilo periodístico y divulgativo. Permite la ingestión de grandes cantidades de datos y un alto grado de customización, además de disponer de todos los tipos de visualización mostrados en el apartado cartográfico. 
-
-<div class="concepto">
-Python - Cartopy
-</div>
-Es una librería que se integra con Matplotlib y está orientada a la representación de datos científicos. Su gran fortaleza es el manejo de proyecciones cartográficas, con soporte para decenas de sistemas de referencia. Aunque se ciñe a un subconjunto reducido de formas de representación tales como puntos o contornos, tiene, por el contrario, toda la capacidad de análisis de Python detrás, con lo que el nivel de precisión y detalle es muy alto. 
-
-<div class="concepto">
-OpenStreetMap
-</div>
-No es exactamente una herramienta de visualización, sino la base de datos geográfica colaborativa más grande del mundo, con licencia abierta (ODbL). Su ecosistema incluye herramientas como Overpass Turbo para consultar y extraer datos, y sus teselas cartográficas son la base sobre la que se construyen muchos mapas <i>web</i>.
-
-<div class="concepto">
-QGIS
-</div>
-El SIG de escritorio de referencia en el mundo del código abierto. Gratuito, multiplataforma y con una comunidad muy activa, cubre prácticamente cualquier necesidad de análisis y producción cartográfica. Requiere de un tiempo de aprendizaje y sobre todo del manejo adecuado del gran tamaño de los archivos georreferenciados, útiles en precisión pero complejos a la hora de exportarlos a formatos web. 
-
-<div class="concepto">
-ArcGIS
-</div>
-La plataforma SIG comercial más utilizada en entornos profesionales e institucionales. Ofrece capacidades avanzadas de análisis, edición y publicación de mapas, y su ecosistema en la nube facilita la colaboración y la gestión de portales de datos geográficos. Requiere licencia y abordar una curva de aprendizaje pronunciada. 
-
-<div class="concepto">
-MapLibre
-</div>
-Librería de JavaScript de código abierto que permite construir mapas <i>web</i> interactivos de alto rendimiento mediante teselas vectoriales.
+- **MapLibre**: Biblioteca de JavaScript de código abierto diseñada para crear mapas web interactivos de alto rendimiento. Permite desarrollar aplicaciones cartográficas altamente personalizadas mediante teselas vectoriales y tecnologías web modernas.  
 
 	  
 *************************************************************************************************************
