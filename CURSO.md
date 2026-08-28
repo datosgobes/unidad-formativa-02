@@ -517,7 +517,7 @@ Los lenguajes de programación proporcionan capacidades avanzadas para la lectur
 *************************************************************************************************************
 
 <!-- id="vis_0" -->
-## Tipos de Visualizaciones
+## Tipos de visualizaciones
 
 
 {{|>}}
@@ -921,6 +921,10 @@ La tabla siguiente recoge algunas de las herramientas más conocidas y utilizada
 
 <center>![Herramientas para la creación de proyectos de visualización](media/Diagrama_Herramientas.png "Figura. Herramientas para la creación de proyectos de visualización.")</center>
 
+A continuación se presenta una **selección de herramientas** ampliamente utilizadas en el ámbito de la visualización de datos. La relación combina soluciones de propósito general con otras más especializadas, orientadas a necesidades concretas como la cartografía, el análisis exploratorio o la construcción de cuadros de mando. ​
+
+El objetivo no es ofrecer un catálogo exhaustivo, sino mostrar distintas alternativas representativas que ilustran la **diversidad de enfoques, capacidades y niveles de complejidad** existentes en el ecosistema actual de la visualización de datos.​
+
 <div class="concepto">
 		Herramientas de comunicación y visualización divulgativa
 </div>
@@ -1049,7 +1053,7 @@ Identifica el tipo de visualización correspondiente con cada proyecto
 
 *************************************************************************************************************
 
-## Frontales Web
+## Frontales web
 
 {{|>}}
 *************************************************************************************************************
